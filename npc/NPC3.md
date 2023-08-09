@@ -1,0 +1,3 @@
+#npc 
+
+A spouse
