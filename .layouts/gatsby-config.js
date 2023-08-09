@@ -1,13 +1,12 @@
 const path = require("path");
 const pathPrefix = "/";
 const siteMetadata = {
-  title: "Obsidian Template for Gatsby Theme Primer Wiki",
-  shortName: "Wiki",
+  title: "Artyrix 5e Campaign Wiki",
+  shortName: "Artyrix Wiki",
   description:
-    "Another Obsidian template that use gatsby-theme-primer-wiki, Welcome to your new Obsidian Knowledge Base!",
-  twitterName: "theowenyoung",
+    "Wiki for the Artyrix campaign, in 5e",
   imageUrl: "/graph-visualisation.jpg",
-  siteUrl: "https://demo-obsidian.owenyoung.com",
+  siteUrl: "https://krfurlong.github.io/artyrix-campaign/",
 };
 module.exports = {
   siteMetadata,
@@ -30,15 +29,11 @@ module.exports = {
         nav: [
           {
             title: "Github",
-            url: "https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/",
-          },
-          {
-            title: "Twitter",
-            url: "https://twitter.com/theowenyoung",
-          },
+            url: "https://github.com/krfurlong/artyrix-campaign",
+          }
         ],
         editUrl:
-          "https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki/tree/main/",
+          "https://github.com/krfurlong/artyrix-campaign/tree/main/",
       },
     },
     {
