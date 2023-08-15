@@ -7,6 +7,8 @@ obsidian_folder_path_str: './'
 # Use full path or relative path, but don't use ~/
 obsidian_entrypoint_path_str: './README.md'
 
+html_url_prefix: '/artyrix-campaign'
+
 toggles:
   # If this is false only the entrypoint and all its links (recursively) are processed
   # if true all the notes will be processed
