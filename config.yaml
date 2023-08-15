@@ -8,7 +8,7 @@ obsidian_folder_path_str: './'
 obsidian_entrypoint_path_str: './README.md'
 
 html_url_prefix: '/artyrix-campaign'
-site_name: 'Artyrix Campaign'
+site_name: 'Artyrix'
 
 toggles:
   # If this is false only the entrypoint and all its links (recursively) are processed
