@@ -10,6 +10,8 @@ obsidian_entrypoint_path_str: './README.md'
 html_url_prefix: '/artyrix-campaign'
 site_name: 'Artyrix'
 
+included_file_suffixes: ['jpg', 'jpeg', 'gif', 'png', 'svg', 'bmp', 'pdf', 'mp4', 'webm', 'mp3', 'wav']
+
 # Provide an array of custom inclusions (css, javascript, etc) that you would like to be included in the resultant html
 html_custom_inclusions:
 - '<link rel="shortcut icon" href="/img/.resources/dice-d20-solid.svg" sizes="any" type="image/svg+xml">'
