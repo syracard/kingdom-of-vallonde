@@ -13,8 +13,8 @@ site_name: 'Artyrix'
 included_file_suffixes: ['jpg', 'jpeg', 'gif', 'png', 'svg', 'bmp', 'pdf', 'mp4', 'webm', 'mp3', 'wav']
 
 # Provide an array of custom inclusions (css, javascript, etc) that you would like to be included in the resultant html
-html_custom_inclusions:
-- '<link rel="shortcut icon" href="/artyrix-campaign/img/.resources/dice-d20-solid.svg" sizes="any" type="image/svg+xml">'
+#html_custom_inclusions:
+#- '<link rel="shortcut icon" href="/artyrix-campaign/img/.resources/dice-d20-solid.svg" sizes="any" type="image/svg+xml">'
 
 toggles:
   # If this is false only the entrypoint and all its links (recursively) are processed
