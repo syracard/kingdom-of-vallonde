@@ -10,6 +10,10 @@ obsidian_entrypoint_path_str: './README.md'
 html_url_prefix: '/artyrix-campaign'
 site_name: 'Artyrix'
 
+# Provide an array of custom inclusions (css, javascript, etc) that you would like to be included in the resultant html
+html_custom_inclusions:
+- '<link rel="shortcut icon" href="/img/.resources/dice-d20-solid.svg" sizes="any" type="image/svg+xml">'
+
 toggles:
   # If this is false only the entrypoint and all its links (recursively) are processed
   # if true all the notes will be processed

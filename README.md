@@ -1,4 +1,4 @@
-# artyrix-campaign
+# Artyrix
 Repo for new 5e campaign setting, organized in Obsidian.md
 
 ## Test Pages
