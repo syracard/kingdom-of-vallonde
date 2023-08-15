@@ -53,14 +53,14 @@ body {
 
 @font-face {
     font-family: 'SourceCodePro-Regular';
-    src: url('/obs.html/static/SourceCodePro-Regular.ttf') format('truetype');
+    src: url('/artyrix-campaign/obs.html/static/SourceCodePro-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: monospace;
 }
 
 @font-face {
     font-family: 'Roboto-Regular';
-    src: url('/obs.html/static/Roboto-Regular.ttf') format('truetype');
+    src: url('/artyrix-campaign/obs.html/static/Roboto-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -1997,7 +1997,7 @@ body {
 
 
 .external-link::after {
-    background: transparent url(/obs.html/static/external.svg) 0 0 no-repeat;
+    background: transparent url(/artyrix-campaign/obs.html/static/external.svg) 0 0 no-repeat;
     background-size: auto;
     background-size: 16px;
     content: "";
