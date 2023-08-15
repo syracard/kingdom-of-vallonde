@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://krfurlong.github.io/artyrix-campaign//sitemap/sitemap-index.xml
-Host: https://krfurlong.github.io
