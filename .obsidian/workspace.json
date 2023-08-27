@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b71b79e8e452ce68",
+            "id": "fa218e8f4da96f0f",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/islands/Corosiva.md",
+                "file": "places/islands/Khiage.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,31 +22,18 @@
             }
           },
           {
-            "id": "fa218e8f4da96f0f",
+            "id": "652608761c3e1cfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/landmarks/The Dueling Straights.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05666dd8b1fd0105",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "places/landmarks/Eternal Sea.md",
+                "file": "npc/people/Captain Flint.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places/landmarks/Eternal Sea.md",
+                "file": "places/islands/Khiage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "places/landmarks/Eternal Sea.md",
+                "file": "places/islands/Khiage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "places/landmarks/Eternal Sea.md"
+                "file": "places/islands/Khiage.md"
               }
             }
           },
@@ -201,16 +188,29 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "05666dd8b1fd0105",
+  "active": "fa218e8f4da96f0f",
   "lastOpenFiles": [
+    "npc/groups/Briny Armada.md",
+    "places/cities/Charterstown.md",
+    "places/islands/Khiage.md",
+    "npc/people/Captain Flint.md",
+    "npc/people/NPC3.md",
+    "Untitled",
+    "npc/groups",
+    "npc/people",
+    "dm",
+    "places/landmarks/Pyritian Lagoon.md",
+    "places/cities/Corsair's Cove.md",
+    "places/landmarks/Conquista Quarries.md",
+    "places/landmarks/Fool's Gold Mountains.md",
+    "places/islands/Corosiva.md",
+    "places/landmarks/Eternal Sea.md",
     "places/cities/Delver.md",
     "places/islands/The Northern Barrier Islands.md",
     "places/landmarks",
     "places/cities",
-    "places/islands/Khiage.md",
     "places/islands/Havangart.md",
     "places/islands/Dynistia.md",
-    "places/islands/Corosiva.md",
     "places/islands",
     "places/landmarks/The Dueling Straights.md",
     "places/cities/Faciv.md",
@@ -218,21 +218,13 @@
     "places/landmarks/The Endless Pits.md",
     "lore/Geography of Artyrix.md",
     "places/islands/Linnæsa.md",
-    "places/landmarks/Eternal Sea.md",
     "places/islands/Île Follette.md",
     "places/islands/Delta Prime.md",
     "places/islands/Delta Major.md",
     "places/islands/Machivelia.md",
     "places/islands/Delta Minor.md",
-    "README.md",
-    "places/islands/Jolastokia.md",
     "places",
-    "pc/PC1.md",
-    "pc/PC2.md",
-    "Untitled.md",
     "npc",
-    "npc/NPC3.md",
-    "pc",
-    "img"
+    "pc"
   ]
 }
