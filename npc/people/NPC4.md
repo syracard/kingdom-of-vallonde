@@ -1,3 +1,0 @@
-#npc 
-
-An unaffiliated inidividaul
