@@ -19,4 +19,5 @@ Early explorers of the Pits encountered strange mechanical exoskeletons - inform
 - [[The Synaptic Highway]]
 - [[The Dueling Straights]] - The site of all sanctioned Mech-Duels
 
-
+## Inspiration
+- Batu

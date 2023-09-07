@@ -8,10 +8,15 @@ Under Flint's steady hand and guidance, the troupe crossed the [[Eternal Sea]] q
 
 Since its discovery, Khiage has blossomed as a hub for maritime trade and other mercantile activities in the north and more industrious, profiteering activities in the south. The north remains comparatively "apolitical" outside of dealings with the [[Briny Armada]], a faction tracing back to [[Captain Flint]], which seem to govern most of the unwritten code that dictate the acceptable actions of day-to-day behaviors. The southern region of Khiage is newer, only getting settled in the past 30-40 years, or a few hundred years after the north. 
 
-This gap in time of founding drives cultural and demographic differences between the northern and southern halves of the island. Whereas the north embraces and extolls the benefits of _"the pirate way of life"_, the south is driven by economics - and the need for swift justice in cases where one's economic prosperity is unfairly affected by the actions of another. Squabbles over this stark difference in attitudes between the regions of Khiage have intensified in recent years with little indication that things will improve, save some external or outside force that may mediate the two opposing ways of life.
+This gap in time of founding drives cultural and demographic differences between the northern and southern halves of the island. Whereas the north embraces and extolls the benefits of _"the pirate way of life,"_ the south is driven by economics - and the need for swift justice in cases where one's economic prosperity is unfairly affected by the actions of another. Squabbles over this stark difference in attitudes between the regions of Khiage have intensified in recent years with little indication that things will improve, save some external or outside force that may mediate the two opposing ways of life.
 ## Places of Interest
 - [[Pyritian Lagoon]] - an enormous lagoon spanning the "interior" of Khiage
 - [[Corsair's Cove]] - the original landing site and capital city of northern Khiage
 - [[Charterstown]] - a newer thriving enterprising hub of the south
 - [[Fool's Gold Mountains]] - the mountain range spanning most of the northern section of Khiage
-- [[Conquista Quarries]] - a series of quarries dotting the southern region of Khiage 
+- [[Conquista Quarries]] - a series of quarries dotting the southern region of Khiage
+
+## Inspiration
+- Pirates of the Caribbean
+- Treasure Planet (The cyber-punk Disney remix)
+- Road to El Dorado/Spanish Conquista
