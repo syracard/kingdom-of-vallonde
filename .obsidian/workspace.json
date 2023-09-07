@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "9fa0b0613b12c9e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "f40e4a66cb857978",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa218e8f4da96f0f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "places/islands/Khiage.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "652608761c3e1cfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "places/islands/Corosiva.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eac2d945435f60fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e643191698a6c5fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05c95755214d5bee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "006eb62f5e999630",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8699f43334886a6a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c709221921f0dbc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b48f1478eb8370ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9f0aa8d5a1353a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "places/islands/Corosiva.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a99e8960a46603b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "places/islands/Corosiva.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ab168f9c2f5e621a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97c42368673f24ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "places/islands/Corosiva.md"
+              }
+            }
+          },
+          {
+            "id": "98e246ae76682415",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "5b522eb1f33e3197",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ad2975bdb095a48",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
+    }
+  },
+  "active": "652608761c3e1cfe",
+  "lastOpenFiles": [
+    "places/islands/Khiage.md",
+    "places/islands/Corosiva.md",
+    "places/islands/Havangart.md",
+    "npc/people/Captain Flint.md",
+    "places/islands/Machivelia.md",
+    "npc/groups/Briny Armada.md",
+    "places/cities/Charterstown.md",
+    "npc/people/NPC3.md",
+    "Untitled",
+    "npc/groups",
+    "npc/people",
+    "dm",
+    "places/landmarks/Pyritian Lagoon.md",
+    "places/cities/Corsair's Cove.md",
+    "places/landmarks/Conquista Quarries.md",
+    "places/landmarks/Fool's Gold Mountains.md",
+    "places/landmarks/Eternal Sea.md",
+    "places/cities/Delver.md",
+    "places/islands/The Northern Barrier Islands.md",
+    "places/landmarks",
+    "places/cities",
+    "places/islands/Dynistia.md",
+    "places/islands",
+    "places/landmarks/The Dueling Straights.md",
+    "places/cities/Faciv.md",
+    "places/landmarks/The Synaptic Highway.md",
+    "places/landmarks/The Endless Pits.md",
+    "lore/Geography of Artyrix.md",
+    "places/islands/Linnæsa.md",
+    "places/islands/Île Follette.md",
+    "places/islands/Delta Prime.md",
+    "places/islands/Delta Major.md",
+    "places/islands/Delta Minor.md",
+    "places",
+    "npc",
+    "pc"
+  ]
+}

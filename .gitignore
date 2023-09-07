@@ -5,7 +5,7 @@
 .obsidian/cache
 .obsidian/workspace
 public
-.obsidian/*
+.obsidian/plugins/*
 
 venv/
 output/
