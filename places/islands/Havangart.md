@@ -1,5 +1,5 @@
 #place #minorisland 
-> _Somewhere between the open air performance art expo and the craft home-distillery rum festival hosted by the local brothel, I managed to lose the ledger of goods I’m on the hook to transport to Khiage…_
+> _"Somewhere between the open air performance art expo and the craft home-distillery rum festival hosted by the local brothel, I managed to lose the ledger of goods I’m on the hook to transport to Khiage…"_
 
 ## History
 Unintentionally discovered by [[Captain Flint]] en route to [[Khiage]], the small island of Havangart quickly grew into a key trading hub in Artyrix. Havangart’s maritime roots and its unique position between the island of corsairs and [[Machivelia]] to the East attracted the attention of many an enterprising capitalist. Much to these individuals chagrin, however, the natural ecology of the island hinted at its other intentions.

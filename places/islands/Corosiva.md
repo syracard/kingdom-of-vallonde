@@ -20,4 +20,6 @@ Early explorers of the Pits encountered strange mechanical exoskeletons - inform
 - [[The Dueling Straights]] - The site of all sanctioned Mech-Duels
 
 ## Inspiration
-- Batu
+- Jakku from Star Wars
+- Warhammer 40K
+- Avatar & the Resources Development Administration (e.g., not ATLA...)
