@@ -15,6 +15,7 @@ And yet, this slow change was broken so sharply by a rapid escalation of machine
 - [[Kool-NT]] - one of the few interior cities on the island, positioned along the [[Standout River]] delta and the the inland sea, [[Lake Novam]] 
 - [[Recoors]] - the southern-most city of the island and the first to fall to [[Composis]] during the [[Beta Revolution]]
 - The [[Standin River]] - a large river flowing near [[Ensilico]] that brings cold water from the [[Eternal Sea]] into [[Lake Novam]]
+- Eras: [[Reinforcement]] --> [[Drift]] --> [[Beta Era]] (now)
 
 ## Sources of Inspiration
 - Silicon Valley
