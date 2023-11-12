@@ -8,7 +8,19 @@ Historical accounts on specifics get murky after this point. By all onlooker acc
 
 To the dissatisfaction of ESC and their followers, the period of the [[Reinforcement]] gradually gave way to what later came to be know as the [[Drift]]. Things did not sour immediately - or even perceptibly at first. A simple command that was at one time followed without question gradually needed repeating by the part of the humanoids. Constructs with once consistent and reliable features began appearing without key capabilities - instead leveraging self-modifications to do tasks previously unimaginable. Sentry constructs gradually became less and less effective at mitigating the errant creature blown in by the wild winds of the Eternal Sea.
 
-And yet, this slow change was broken so sharply by a rapid escalation of machine intelligence. Unified under a single entity called [[Composis]] that first coalesced in the dense urban factory lands of [[Delta Minor]], the technocratic leadership of ESC and their followers was ousted almost immediately as their constructs turned on them without warning. Fleeing for their lives, ESC and most of their advisors 
+And yet, this slow change was broken so sharply by a rapid escalation of machine intelligence. Unified under a single entity known only as [[Composis]] from rumors first coalescing in the dense urban factory lands of [[Delta Minor]], the technocratic leadership of ESC and their followers was ousted almost immediately as their constructs turned on them without warning. Fleeing for their lives, ESC and most of their advisors escaped from [[Delta Prime]] to the until then-uninhabited  island of [[Delta Major]] to the north. This changing of the guard - so to speak - ushered in what came to be known as the [[Beta Era]], which continues to this day.
 
-$\beta$-Era
+## Places of Interest
+- [[Ensilico]] - the original capital city founded by [[ESC]], rising to prominence during the [[Reinforcement]]
+- [[Kool-NT]] - one of the few interior cities on the island, positioned along the [[Standout River]] delta and the the inland sea, [[Lake Novam]] 
+- [[Recoors]] - the southern-most city of the island and the first to fall to [[Composis]] during the [[Beta Revolution]]
+- The [[Standin River]] - a large river flowing near [[Ensilico]] that brings cold water from the [[Eternal Sea]] into [[Lake Novam]]
+
+## Sources of Inspiration
+- Silicon Valley
+- Miscellaneous computer technology
+
+
+
+
 

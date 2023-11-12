@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "a8ad3515c34371ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "e06399ea0b4cbd81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "844d925617e9d4bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "places/islands/Delta Prime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a916d368ba639e0b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cc760d7b29dcbc95",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3acadd5daba606fc",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6b2c3743b450415a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a3547c599c874671",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      },
+      {
+        "id": "48c7f9ff5f8c8dbf",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "040e822183609265",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3058bfb7342db900",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "places/islands/Delta Prime.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "609485101d375534",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "places/islands/Delta Prime.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "759614cada7ea665",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "places/islands/Delta Prime.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "844d925617e9d4bb",
+  "lastOpenFiles": [
+    "Standout River.md",
+    "places/islands/Delta Prime.md",
+    "Kool-NT.md",
+    "places/islands/Delta Major.md",
+    "places/islands/Delta Minor.md",
+    "places/islands/Dynistia.md",
+    "$/beta$-Era.md",
+    "$",
+    "places/cities/Corsair's Cove.md",
+    "places/cities/Charterstown.md",
+    "places/cities/Tyrfall.md",
+    "places/cities/Harazid.md",
+    "places/cities/Faciv.md",
+    "places/cities/Simulcepio.md",
+    "places/cities/Rifterra.md",
+    "npc/people/ESC.md"
+  ]
+}
