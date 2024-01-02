@@ -4,11 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "899fda3a5e4c7566",
+        "id": "6b5766f714b1dd4d",
         "type": "tabs",
         "children": [
           {
-            "id": "d77081868be84219",
+            "id": "595d5597fc3b48ff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "places/islands/Linnæsa.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d484843924c6d73a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Parliament.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a58daa9eb673ad1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "npc/people/ESC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9b5e41cbca25e33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Animen Extradition.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "16fe17365bd886e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +69,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,35 +235,36 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d77081868be84219",
+  "active": "16fe17365bd886e0",
   "lastOpenFiles": [
-    "img/maps/Delta_Island_Chain.jpg",
-    "places/islands/Delta Prime.md",
-    "places/islands/Delta Major.md",
+    "npc/people/ESC.md",
     "places/islands/Linnæsa.md",
-    "Reinforcement.md",
+    "places/islands/Delta Prime.md",
+    "Animen Extradition.md",
+    "Animen Extridition.md",
+    "The Parliament.md",
+    "The Sleuth.md",
+    "npc/groups/The Business.md",
+    "npc/groups/The Crash.md",
+    "npc/groups/The Husk.md",
+    "npc/groups/Western Flank.md",
+    "npc/groups/Order of the Shara.md",
+    "npc/groups/Briny Armada.md",
+    "lore/Beta Revolution.md",
+    "lore/Reinforcement.md",
+    "lore/Geography of Artyrix.md",
+    "places/islands/Khiage.md",
+    "places/islands/Île Follette.md",
+    "places/islands/Machivelia.md",
+    "places/islands/Havangart.md",
+    "img/maps/Delta_Island_Chain.jpg",
+    "places/islands/Delta Major.md",
     "places/landmarks/Lake Novam.md",
     "places/landmarks/Standin River.md",
     "places/cities/Recoors.md",
     "img/maps",
     "places/cities/Ensilico.md",
     "places/cities/Paralax.md",
-    "lore/Beta Revolution.md",
-    "npc/people/ESC.md",
-    "npc/people/Captain Flint.md",
-    "npc/people/Composis.md",
-    "places/islands/Dynistia.md",
-    "places/islands/Delta Minor.md",
-    "places/landmarks/Standout River.md",
-    "places/cities/Kool-NT.md",
-    "npc/groups/Order of the Shara.md",
-    "places/cities/Sur'dame.md",
-    "npc/groups/Western Flank.md",
-    "places/cities/Altalos.md",
-    "places/cities/Tyrfall.md",
-    "places/cities/Khisba.md",
-    "places/cities/Harazid.md",
-    "places/landmarks/River Txerys.md",
     "Untitled",
     "npc/groups",
     "npc/people",
