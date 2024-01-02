@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "899fda3a5e4c7566",
+        "id": "6b5766f714b1dd4d",
         "type": "tabs",
         "children": [
           {
-            "id": "d77081868be84219",
+            "id": "595d5597fc3b48ff",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/islands/Delta Prime.md",
+                "file": "places/islands/Linnæsa.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,67 +22,55 @@
             }
           },
           {
-            "id": "71dbb7f37bf4ab7b",
+            "id": "d484843924c6d73a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/landmarks/Lake Novam.md",
+                "file": "The Parliament.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3d547baf6a23bf60",
+            "id": "a58daa9eb673ad1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/landmarks/Standin River.md",
+                "file": "npc/people/ESC.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "73d67eab274efaa5",
+            "id": "c9b5e41cbca25e33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/cities/Recoors.md",
+                "file": "Animen Extradition.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a6fa8244c58e49c6",
+            "id": "16fe17365bd886e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/cities/Recoors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f973551999246a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "places/landmarks/Lake Novam.md",
+                "file": "places/islands/Delta Prime.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -148,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places/landmarks/Lake Novam.md",
+                "file": "places/islands/Delta Prime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "places/landmarks/Lake Novam.md",
+                "file": "places/islands/Delta Prime.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "places/landmarks/Lake Novam.md"
+                "file": "places/islands/Delta Prime.md"
               }
             }
           },
@@ -247,34 +235,36 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "05c95755214d5bee",
+  "active": "16fe17365bd886e0",
   "lastOpenFiles": [
-    "places/cities/Ensilico.md",
-    "places/cities/Recoors.md",
-    "places/landmarks/Standin River.md",
-    "places/islands/Delta Prime.md",
-    "places/landmarks/Lake Novam.md",
-    "places/cities/Paralax.md",
-    "lore/Beta Revolution.md",
     "npc/people/ESC.md",
-    "npc/people/Captain Flint.md",
-    "npc/people/Composis.md",
-    "places/islands/Dynistia.md",
-    "places/islands/Delta Major.md",
-    "places/islands/Delta Minor.md",
-    "places/landmarks/Standout River.md",
-    "places/cities/Kool-NT.md",
-    "npc/groups/Order of the Shara.md",
-    "places/cities/Sur'dame.md",
+    "places/islands/Linnæsa.md",
+    "places/islands/Delta Prime.md",
+    "Animen Extradition.md",
+    "Animen Extridition.md",
+    "The Parliament.md",
+    "The Sleuth.md",
+    "npc/groups/The Business.md",
+    "npc/groups/The Crash.md",
+    "npc/groups/The Husk.md",
     "npc/groups/Western Flank.md",
-    "places/cities/Altalos.md",
-    "places/cities/Tyrfall.md",
-    "places/cities/Khisba.md",
-    "places/cities/Harazid.md",
-    "places/landmarks/River Txerys.md",
-    "places/islands/Havangart.md",
-    "places/islands/Corosiva.md",
+    "npc/groups/Order of the Shara.md",
+    "npc/groups/Briny Armada.md",
+    "lore/Beta Revolution.md",
+    "lore/Reinforcement.md",
+    "lore/Geography of Artyrix.md",
+    "places/islands/Khiage.md",
     "places/islands/Île Follette.md",
+    "places/islands/Machivelia.md",
+    "places/islands/Havangart.md",
+    "img/maps/Delta_Island_Chain.jpg",
+    "places/islands/Delta Major.md",
+    "places/landmarks/Lake Novam.md",
+    "places/landmarks/Standin River.md",
+    "places/cities/Recoors.md",
+    "img/maps",
+    "places/cities/Ensilico.md",
+    "places/cities/Paralax.md",
     "Untitled",
     "npc/groups",
     "npc/people",
@@ -283,7 +273,6 @@
     "places/cities",
     "places/islands",
     "places",
-    "npc",
-    "pc"
+    "npc"
   ]
 }

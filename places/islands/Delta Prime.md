@@ -1,6 +1,5 @@
 #place #majorisland
 > _What if the Spark of Creation set something alight that you once thought inflammable?_
-
 ## History
 The island of Delta Prime - and the surrounding lessor islands of [[Delta Major]] and [[Delta Minor]] - were discovered almost entirely by accident. Facing persecution and likely exile from their mechanical experimentation on [[Linnæsa]], the inventor only known by their initials [[ESC]] fled into the [[Eternal Sea]] under the impression they were traveling west towards [[Corosiva]]. Navigation not being the bookish individual’s strong suit, they did not realize their mistake until their vessel was almost entirely destroyed by the chaotic storms and currents of the western Eternal Sea. One hastily cast Find the Path spell later, and ESC flung themself from their now sinking ship and frantically started swimming towards the closest body of land in the vicinity. It was under these turbulent, if fortuitous, circumstances that the island of Delta Prime was first settled.
 
@@ -17,11 +16,25 @@ And yet, this slow change was broken so sharply by a rapid escalation of machine
 - The [[Standin River]] - a large river flowing near [[Ensilico]] that brings cold water from the [[Eternal Sea]] into [[Lake Novam]]
 - Eras: [[Reinforcement]] --> [[Drift]] --> [[Beta Era]] (now)
 
+## Map
+
+```leaflet
+id: delta-island-chain
+image: [[Delta_Island_Chain.jpg]]
+height: 500px
+width: 380px
+minZoom: 6
+maxZoom: 10
+defaultZoom: 7
+scale: 1
+draw: false
+```
+
+> [!info]- Map not rendering correctly? Click here.
+> ![](img/maps/Delta_Island_Chain.jpg)
+
 ## Sources of Inspiration
 - Silicon Valley
+- Horizon Zero Dawn
+- The Borg?
 - Miscellaneous computer technology
-
-
-
-
-
