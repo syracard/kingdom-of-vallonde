@@ -10,7 +10,7 @@ var CONFIGURED_HTML_URL_PREFIX = "/artyrix-campaign";
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '277027405365073439128453564954690583780'                       // used to check whether the localStorage data is stale
+var gzip_hash = '195391769022036280695726930608537449977'                       // used to check whether the localStorage data is stale
 
 // global cache
 var fn_cache_ls_available = null;
