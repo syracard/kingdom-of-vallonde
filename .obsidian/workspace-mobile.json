@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/islands/Delta Prime.md",
+                "file": "Early Artyrian Timeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "places/islands/Delta Prime.md",
+            "file": "Early Artyrian Timeline.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "places/islands/Delta Prime.md",
+            "file": "Early Artyrian Timeline.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "places/islands/Delta Prime.md"
+            "file": "Early Artyrian Timeline.md"
           }
         }
       }
@@ -133,18 +133,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "844d925617e9d4bb",
   "lastOpenFiles": [
-    "Standout River.md",
+    "places/islands/Machivelia.md",
+    "places/islands/Linnæsa.md",
+    "places/islands/Île Follette.md",
+    "Artyrian Pantheon.md",
+    "Early Artyrian Timeline.md",
+    "npc/people/Composis.md",
+    "lore/Geography of Artyrix.md",
+    "places/islands/Jolastokia.md",
+    "places/islands/Havangart.md",
+    "places/islands/Khiage.md",
+    "img/maps/Delta_Island_Chain.jpg",
+    "places/cities/Kool-NT.md",
     "places/islands/Delta Prime.md",
+    "Standout River.md",
     "Kool-NT.md",
     "places/islands/Delta Major.md",
     "places/islands/Delta Minor.md",
