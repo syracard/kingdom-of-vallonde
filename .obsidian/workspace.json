@@ -69,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places/islands/Delta Prime.md",
+                "file": "places/islands/Linnæsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "places/islands/Delta Prime.md",
+                "file": "places/islands/Linnæsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "places/islands/Delta Prime.md"
+                "file": "places/islands/Linnæsa.md"
               }
             }
           },
@@ -235,11 +234,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "16fe17365bd886e0",
+  "active": "595d5597fc3b48ff",
   "lastOpenFiles": [
+    "places/islands/Delta Prime.md",
     "npc/people/ESC.md",
     "places/islands/Linnæsa.md",
-    "places/islands/Delta Prime.md",
     "Animen Extradition.md",
     "Animen Extridition.md",
     "The Parliament.md",

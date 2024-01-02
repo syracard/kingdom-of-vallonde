@@ -16,7 +16,10 @@ In an unprecedented act, an awkward alliance was struck between leadership in [[
 
 At the conclusion of the [[Animen Extradition]], life on [[Linnæsa]] tried to return to normal, yet trust between the factions was largely fractured, much to the dismay of [[The Parliament]]. [[The Husk]], under the leadership of a grizzled harengon only know by their moniker [[Big Bunny]], took a particularly aggressive stance - assuming political control of a "unified" [[Linnæsa]] with the military backing of [[The Crash]]. With this control and source of brute force, [[Big Bunny]] began persecution of their rivals - starting with the offshoot rebels who initially supported [[ESC]]; however, these reactions quickly spread to anyone even suspected of harboring ill-will towards [[The Husk]]. This paranoia continues to this day - though the memories of the [[Animen Extradition]] have largely faded in the decades since this conflict. 
 ## Places of Interest
-- [[Fivid]] - The "capital city" of [[Linnæsa]] and the political center
+- [[Fivid]] - The "capital city" and political center of [[Linnæsa]]
+- [[Ruddy Rock]] - a marshy but welcoming town nestled in the [[Darwin Marshes]] on the north side of the island
+- 
 ## Inspiration
-- **1984** 
+- **1984**/**Animal Farm**
+- Narnia
 - 
