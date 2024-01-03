@@ -199,6 +199,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
+<<<<<<< HEAD
   "active": "05c95755214d5bee",
   "lastOpenFiles": [
     "places/landmarks/Standout River.md",
@@ -216,11 +217,40 @@
     "places/cities/Altalos.md",
     "npc/people/ESC.md",
     "npc/people/Composis.md",
+=======
+  "active": "ba3643d4a7934230",
+  "lastOpenFiles": [
+    "places/islands/Linnæsa.md",
+    "places/islands/Île Follette.md",
+    "places/landmarks/Uluran Plateau.md",
+    "places/landmarks/Bindo Lagoon.md",
+    "places/landmarks/Emerald Volcano.md",
+    "places/cities/Parthin.md",
+    "npc/groups/The Business.md",
+    "places/landmarks/Verdant Acres.md",
+    "npc/groups/The Crash.md",
+    "npc/groups/The Husk.md",
+    "places/landmarks/Aladien Ice Patch.md",
+    "places/cities/Ruddy Rock.md",
+    "places/cities/Fivid.md",
+    "places/landmarks/Darwin Marshes.md",
+    "places/cities/Altalos.md",
+    "npc/groups/The Parliament.md",
+    "npc/people/ESC.md",
+    "places/islands/Delta Prime.md",
+    "npc/groups/The Sleuth.md",
+    "lore/Animen Extradition.md",
+    "lore/Reinforcement.md",
+    "lore/Early Artyrian Timeline.md",
+    "lore/Artyrian Pantheon.md",
+    "Animen Extridition.md",
+>>>>>>> 4a4f79ddc5b42a0a1cbd66628b7116398643f685
     "npc/groups/Western Flank.md",
     "npc/groups/The Husk.md",
     "npc/groups/The Crash.md",
     "npc/groups/The Business.md",
     "npc/groups/Order of the Shara.md",
+<<<<<<< HEAD
     "lore/Reinforcement.md",
     "lore/Beta Revolution.md",
     "img/maps/Delta_Island_Chain.jpg",
@@ -229,6 +259,10 @@
     "The Parliament.md",
     "Early Artyrian Timeline.md",
     "Artyrian Pantheon.md",
+=======
+    "img/maps/Delta_Island_Chain.jpg",
+    "img/maps",
+>>>>>>> 4a4f79ddc5b42a0a1cbd66628b7116398643f685
     "Untitled",
     "npc/groups",
     "npc/people",
