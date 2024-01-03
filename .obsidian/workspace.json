@@ -22,55 +22,19 @@
             }
           },
           {
-            "id": "d484843924c6d73a",
+            "id": "ba3643d4a7934230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Parliament.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a58daa9eb673ad1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npc/people/ESC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9b5e41cbca25e33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Animen Extradition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16fe17365bd886e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "places/islands/Delta Prime.md",
+                "file": "places/islands/Île Follette.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places/islands/Delta Prime.md",
+                "file": "places/islands/Île Follette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "places/islands/Delta Prime.md",
+                "file": "places/islands/Île Follette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "places/islands/Delta Prime.md"
+                "file": "places/islands/Île Follette.md"
               }
             }
           },
@@ -235,36 +199,36 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "16fe17365bd886e0",
+  "active": "05c95755214d5bee",
   "lastOpenFiles": [
-    "npc/people/ESC.md",
-    "places/islands/Linnæsa.md",
-    "places/islands/Delta Prime.md",
-    "Animen Extradition.md",
-    "Animen Extridition.md",
-    "The Parliament.md",
-    "The Sleuth.md",
-    "npc/groups/The Business.md",
-    "npc/groups/The Crash.md",
-    "npc/groups/The Husk.md",
-    "npc/groups/Western Flank.md",
-    "npc/groups/Order of the Shara.md",
-    "npc/groups/Briny Armada.md",
-    "lore/Beta Revolution.md",
-    "lore/Reinforcement.md",
-    "lore/Geography of Artyrix.md",
-    "places/islands/Khiage.md",
-    "places/islands/Île Follette.md",
-    "places/islands/Machivelia.md",
-    "places/islands/Havangart.md",
-    "img/maps/Delta_Island_Chain.jpg",
-    "places/islands/Delta Major.md",
-    "places/landmarks/Lake Novam.md",
+    "places/landmarks/Standout River.md",
     "places/landmarks/Standin River.md",
+    "places/landmarks/River Txerys.md",
+    "places/landmarks/Lake Novam.md",
+    "places/cities/Tyrfall.md",
+    "places/cities/Sur'dame.md",
     "places/cities/Recoors.md",
-    "img/maps",
-    "places/cities/Ensilico.md",
     "places/cities/Paralax.md",
+    "places/cities/Kool-NT.md",
+    "places/cities/Khisba.md",
+    "places/cities/Harazid.md",
+    "places/cities/Ensilico.md",
+    "places/cities/Altalos.md",
+    "npc/people/ESC.md",
+    "npc/people/Composis.md",
+    "npc/groups/Western Flank.md",
+    "npc/groups/The Husk.md",
+    "npc/groups/The Crash.md",
+    "npc/groups/The Business.md",
+    "npc/groups/Order of the Shara.md",
+    "lore/Reinforcement.md",
+    "lore/Beta Revolution.md",
+    "img/maps/Delta_Island_Chain.jpg",
+    "img/maps",
+    "The Sleuth.md",
+    "The Parliament.md",
+    "Early Artyrian Timeline.md",
+    "Artyrian Pantheon.md",
     "Untitled",
     "npc/groups",
     "npc/people",
