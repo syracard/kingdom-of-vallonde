@@ -22,54 +22,19 @@
             }
           },
           {
-            "id": "d484843924c6d73a",
+            "id": "ba3643d4a7934230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Parliament.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a58daa9eb673ad1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npc/people/ESC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9b5e41cbca25e33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Animen Extradition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "16fe17365bd886e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "places/islands/Delta Prime.md",
+                "file": "places/islands/Île Follette.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places/islands/Linnæsa.md",
+                "file": "places/islands/Île Follette.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "places/islands/Linnæsa.md",
+                "file": "places/islands/Île Follette.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "places/islands/Linnæsa.md"
+                "file": "places/islands/Île Follette.md"
               }
             }
           },
@@ -234,36 +199,36 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "595d5597fc3b48ff",
+  "active": "ba3643d4a7934230",
   "lastOpenFiles": [
-    "places/islands/Delta Prime.md",
-    "npc/people/ESC.md",
     "places/islands/Linnæsa.md",
-    "Animen Extradition.md",
-    "Animen Extridition.md",
-    "The Parliament.md",
-    "The Sleuth.md",
+    "places/islands/Île Follette.md",
+    "places/landmarks/Uluran Plateau.md",
+    "places/landmarks/Bindo Lagoon.md",
+    "places/landmarks/Emerald Volcano.md",
+    "places/cities/Parthin.md",
     "npc/groups/The Business.md",
+    "places/landmarks/Verdant Acres.md",
     "npc/groups/The Crash.md",
     "npc/groups/The Husk.md",
+    "places/landmarks/Aladien Ice Patch.md",
+    "places/cities/Ruddy Rock.md",
+    "places/cities/Fivid.md",
+    "places/landmarks/Darwin Marshes.md",
+    "places/cities/Altalos.md",
+    "npc/groups/The Parliament.md",
+    "npc/people/ESC.md",
+    "places/islands/Delta Prime.md",
+    "npc/groups/The Sleuth.md",
+    "lore/Animen Extradition.md",
+    "lore/Reinforcement.md",
+    "lore/Early Artyrian Timeline.md",
+    "lore/Artyrian Pantheon.md",
+    "Animen Extridition.md",
     "npc/groups/Western Flank.md",
     "npc/groups/Order of the Shara.md",
-    "npc/groups/Briny Armada.md",
-    "lore/Beta Revolution.md",
-    "lore/Reinforcement.md",
-    "lore/Geography of Artyrix.md",
-    "places/islands/Khiage.md",
-    "places/islands/Île Follette.md",
-    "places/islands/Machivelia.md",
-    "places/islands/Havangart.md",
     "img/maps/Delta_Island_Chain.jpg",
-    "places/islands/Delta Major.md",
-    "places/landmarks/Lake Novam.md",
-    "places/landmarks/Standin River.md",
-    "places/cities/Recoors.md",
     "img/maps",
-    "places/cities/Ensilico.md",
-    "places/cities/Paralax.md",
     "Untitled",
     "npc/groups",
     "npc/people",

@@ -18,7 +18,10 @@ At the conclusion of the [[Animen Extradition]], life on [[Linnæsa]] tried to r
 ## Places of Interest
 - [[Fivid]] - The "capital city" and political center of [[Linnæsa]]
 - [[Ruddy Rock]] - a marshy but welcoming town nestled in the [[Darwin Marshes]] on the north side of the island
-- 
+- [[Aladien Ice Patch]] - a frozen biome in the north-eastern point of [[Linnæsa]]
+- [[Verdant Acres]] - the interior, fertile region surrounding the [[Emerald Volcano]]
+- [[Uluran Plateau]] - the western region of the island bordering the [[Verdant Acres]]
+- [[Parthin]] - the southern-most city of [[Linnæsa]], nestled on the [[Bindo Lagoon]]
 ## Inspiration
 - **1984**/**Animal Farm**
 - Narnia
