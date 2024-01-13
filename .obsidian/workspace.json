@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fd79a9eab0576423",
+        "id": "cd89567660bbc1d9",
         "type": "tabs",
         "children": [
           {
-            "id": "45f666dfab47ceb4",
+            "id": "8c4437ddf91c166c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "places/islands/Delta Major.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places/islands/Delta Major.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "places/islands/Delta Major.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "places/islands/Delta Major.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,19 +174,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45f666dfab47ceb4",
+  "active": "8c4437ddf91c166c",
   "lastOpenFiles": [
-    "places/islands/Delta Minor.md",
+    "lore/Animen Extradition.md",
+    "README.md",
+    "places/cities/Searidge Station.md",
+    "places/cities/Sunset Cove.md",
+    "places/landmarks/Astral Wind Farm.md",
     "places/islands/Delta Major.md",
+    "places/islands/Delta Minor.md",
     "places/islands/Corosiva.md",
     "places/islands/Machivelia.md",
     "places/islands/The Northern Barrier Islands.md",
-    "Astral Wind Farm.md",
-    "Ocean's 5 Casino.md",
-    "Searidge Station.md",
+    "places/landmarks/Ocean's 5 Casino.md",
     "npc/groups/The Business.md",
-    "Sunset Cove.md",
-    "Bindo Bungalows.md",
+    "places/landmarks/Bindo Bungalows.md",
     "places/islands/Linnæsa.md",
     "places/islands/Île Follette.md",
     "lore/Beta Revolution.md",
@@ -208,8 +202,6 @@
     "npc/groups/The Orinoco.md",
     "npc/people/Tethis Rosevale.md",
     "npc/people/ESC.md",
-    "npc/people/Captain Flint.md",
-    "npc/people/Composis.md",
     "img/maps/Delta_Island_Chain.jpg",
     "img/maps",
     "Untitled",
