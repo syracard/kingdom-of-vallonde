@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cd89567660bbc1d9",
+        "id": "be1c8bc4238eabbf",
         "type": "tabs",
         "children": [
           {
-            "id": "8c4437ddf91c166c",
+            "id": "22caae2f6d9a6a4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Boscuri Forest.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Boscuri Forest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Boscuri Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Boscuri Forest.md"
+              }
             }
           },
           {
@@ -174,34 +182,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c4437ddf91c166c",
+  "active": "22caae2f6d9a6a4f",
   "lastOpenFiles": [
+    "places/islands/Machivelia.md",
+    "Boscuri Forest.md",
+    "Pythinia.md",
+    "Vixeraven.md",
+    "Sanduroch.md",
+    "npc/groups/Sagezza.md",
+    "places/landmarks/Rocca Principe.md",
+    "places/landmarks/Katena Mountains.md",
+    "places/landmarks/Athenae.md",
+    "places/landmarks/Arcanum Decetto.md",
+    "places/landmarks/Garnetscar.md",
+    "places/landmarks/Dellavolpe.md",
+    "places/landmarks/Myrkvad River.md",
+    "places/cities/Vecchia.md",
+    "lore/Artyrian Pantheon.md",
+    "places/cities/Gatazka.md",
+    "places/islands/Île Follette.md",
+    "places/islands/Khiage.md",
+    "places/islands/Jolastokia.md",
+    "npc/people/Captain Flint.md",
+    "places/islands/Havangart.md",
     "lore/Animen Extradition.md",
     "README.md",
     "places/cities/Searidge Station.md",
     "places/cities/Sunset Cove.md",
     "places/landmarks/Astral Wind Farm.md",
-    "places/islands/Delta Major.md",
-    "places/islands/Delta Minor.md",
-    "places/islands/Corosiva.md",
-    "places/islands/Machivelia.md",
-    "places/islands/The Northern Barrier Islands.md",
-    "places/landmarks/Ocean's 5 Casino.md",
-    "npc/groups/The Business.md",
-    "places/landmarks/Bindo Bungalows.md",
-    "places/islands/Linnæsa.md",
-    "places/islands/Île Follette.md",
-    "lore/Beta Revolution.md",
-    "places/landmarks/Zodiac Row.md",
-    "npc/groups/The Ascendent.md",
-    "places/landmarks/South Crucible.md",
-    "places/landmarks/Outer Counties.md",
-    "places/cities/New Sigil.md",
-    "places/landmarks/Broken Oath.md",
-    "npc/groups/The Open Hand.md",
-    "npc/groups/The Orinoco.md",
-    "npc/people/Tethis Rosevale.md",
-    "npc/people/ESC.md",
     "img/maps/Delta_Island_Chain.jpg",
     "img/maps",
     "Untitled",
