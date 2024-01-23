@@ -13,11 +13,19 @@
                 <title>Artyrix</title>
 
                 <!-- Includes -->
-                
-<script src="/artyrix-campaign/obs.html/static/obsidian_core.js"></script>
+                <script src="/artyrix-campaign/obs.html/static/obsidian_core.js"></script>
 <script src="/artyrix-campaign/obs.html/static/encoding.js"></script>
 <link rel="stylesheet" href="/artyrix-campaign/obs.html/static/master.css" />
-<script src="/artyrix-campaign/obs.html/static/mermaid.9.0.1.min.js"></script>
+<script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({
+            'securityLevel': 'loose',
+            'theme': 'dark',
+            'themeVariables': {
+                    'darkMode': true,
+            }
+    });
+</script>
 <script>
   MathJax = {
     loader: {
@@ -43,6 +51,8 @@
 <script src="/artyrix-campaign/obs.html/static/pako.js"></script>
 <script src="/artyrix-campaign/obs.html/static/search.js"></script>
 <script src="/artyrix-campaign/obs.html/static/dirtree.js"></script>
+
+
 <link rel="stylesheet" href="/artyrix-campaign/obs.html/static/taglist.css" />
 
                 <!-- Onload tweaks -->
@@ -70,8 +80,8 @@
                         <div id="search-results"></div>
                     </div>
                     <div id="search-instructions">
-                        <div class="prompt-instruction">
-                                <b>esc</b> to dismiss
+                        <div class="prompt-instruction mobile">
+                            <button onclick="toggle_id('search-master-div');"><b>Close</b> Search </button>
                         </div>
                     </div>
             </div>
@@ -197,7 +207,6 @@
     <label for="cars">Theme </label>
 
     <select name="theme" id="theme" onchange="set_theme(this.value)">
-      <option value="light">light</option>
       <option value="obs-light" selected="selected">obsidian-light</option>
       <option value="obs-dark">obsidian-dark</option>
     </select> 
@@ -206,17 +215,17 @@
                 <div class="flex_row">
                         
                         <div class="container">
-                                <h1 id="notes">Notes</h1>
+                                <h1 id="faction">faction</h1>
+<h2 id="notes">Notes</h2>
 <ul>
 <li><a href="/artyrix-campaign/npc/groups/The Husk.html">The Husk</a></li>
 <li><a href="/artyrix-campaign/npc/groups/The Crash.html">The Crash</a></li>
 <li><a href="/artyrix-campaign/npc/groups/The Business.html">The Business</a></li>
 <li><a href="/artyrix-campaign/npc/groups/The Sleuth.html">The Sleuth</a></li>
 <li><a href="/artyrix-campaign/npc/groups/The Parliament.html">The Parliament</a></li>
-<li><a href="/artyrix-campaign/npc/groups/Order of the Shara.html">Order of the Shara</a></li>
-<li><a href="/artyrix-campaign/npc/groups/Western Flank.html">Western Flank</a></li>
 <li><a href="/artyrix-campaign/npc/groups/Briny Armada.html">Briny Armada</a></li>
 <li><a href="/artyrix-campaign/npc/groups/Sagezza.html">Sagezza</a></li>
+<li><a href="/artyrix-campaign/npc/groups/Velian Houses.html">Velian Houses</a></li>
 <li><a href="/artyrix-campaign/npc/groups/The Ascendent.html">The Ascendent</a></li>
 <li><a href="/artyrix-campaign/npc/groups/The Defiant.html">The Defiant</a></li>
 <li><a href="/artyrix-campaign/npc/groups/The Kismet.html">The Kismet</a></li>
@@ -224,6 +233,8 @@
 <li><a href="/artyrix-campaign/npc/groups/The Orinoco.html">The Orinoco</a></li>
 <li><a href="/artyrix-campaign/npc/groups/The Instinct.html">The Instinct</a></li>
 <li><a href="/artyrix-campaign/npc/groups/The Fated.html">The Fated</a></li>
+<li><a href="/artyrix-campaign/npc/groups/Order of the Shara.html">Order of the Shara</a></li>
+<li><a href="/artyrix-campaign/npc/groups/Western Flank.html">Western Flank</a></li>
 </ul>
 <blockquote>
 <p><a href="/artyrix-campaign/obs.html/tags/index.html">View all tags</a></p>

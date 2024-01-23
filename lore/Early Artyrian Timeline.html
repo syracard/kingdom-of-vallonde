@@ -13,11 +13,19 @@
                 <title>Artyrix</title>
 
                 <!-- Includes -->
-                
-<script src="/artyrix-campaign/obs.html/static/obsidian_core.js"></script>
+                <script src="/artyrix-campaign/obs.html/static/obsidian_core.js"></script>
 <script src="/artyrix-campaign/obs.html/static/encoding.js"></script>
 <link rel="stylesheet" href="/artyrix-campaign/obs.html/static/master.css" />
-<script src="/artyrix-campaign/obs.html/static/mermaid.9.0.1.min.js"></script>
+<script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({
+            'securityLevel': 'loose',
+            'theme': 'dark',
+            'themeVariables': {
+                    'darkMode': true,
+            }
+    });
+</script>
 <script>
   MathJax = {
     loader: {
@@ -45,6 +53,8 @@
 <script src="/artyrix-campaign/obs.html/static/dirtree.js"></script>
 
 
+
+
                 <!-- Onload tweaks -->
                 <script>
                         const CURRENT_NODE = 'early artyrian timeline';
@@ -70,8 +80,8 @@
                         <div id="search-results"></div>
                     </div>
                     <div id="search-instructions">
-                        <div class="prompt-instruction">
-                                <b>esc</b> to dismiss
+                        <div class="prompt-instruction mobile">
+                            <button onclick="toggle_id('search-master-div');"><b>Close</b> Search </button>
                         </div>
                     </div>
             </div>
@@ -197,7 +207,6 @@
     <label for="cars">Theme </label>
 
     <select name="theme" id="theme" onchange="set_theme(this.value)">
-      <option value="light">light</option>
       <option value="obs-light" selected="selected">obsidian-light</option>
       <option value="obs-dark">obsidian-dark</option>
     </select> 
@@ -207,169 +216,370 @@
                         <div id="left_pane" class="left_pane active">
     <div id="left_pane_fold_header" class="left_pane_fold_header fold_header">x</div>
     <div id="left_pane_content" class="left_pane_content">
-            <div class="dirtree"><button id="folder-1" class="dir-button" onclick="toggle_dir(this.id)">img</button>
+            <div id="dirtree"><button id="folder-1" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>img</button>
 <div id="folder-container-1" class="dir-container requires_js " path="/artyrix-campaign/img">
-	<button id="folder-2" class="dir-button" onclick="toggle_dir(this.id)">maps</button>
+	<button id="folder-2" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>maps</button>
 	<div id="folder-container-2" class="dir-container requires_js " path="/artyrix-campaign/img/maps">
 		<ul class="dir-list">
-			<li><a class="" href="/artyrix-campaign/img/maps/Delta_Island_Chain.jpg"  class="external-link">Delta_Island_Chain</a></li>
+			<li><div class="file-icon non-md-file"></div><a class="" href="/artyrix-campaign/img/maps/Delta_Island_Chain.jpg"  class="external-link">Delta_Island_Chain.jpg</a></li>
 		</ul>
 	</div>
 	<ul class="dir-list">
 	</ul>
 </div>
-<button id="folder-3" class="dir-button" onclick="toggle_dir(this.id)">lore</button>
+<button id="folder-3" class="dir-button active" onclick="toggle_dir(this.id)"><div class="file-icon"></div>lore</button>
 <div id="folder-container-3" class="dir-container requires_js active" path="/artyrix-campaign/lore">
 	<ul class="dir-list">
-		<li><a class="" href="/artyrix-campaign/lore/Animen Extradition.html"  >Animen Extradition</a></li>
-		<li><a class="" href="/artyrix-campaign/lore/Artyrian Pantheon.html"  >Artyrian Pantheon</a></li>
-		<li><a class="" href="/artyrix-campaign/lore/Beta Revolution.html"  >Beta Revolution</a></li>
-		<li><a class="active" href="/artyrix-campaign/lore/Early Artyrian Timeline.html"  >Early Artyrian Timeline</a></li>
-		<li><a class="" href="/artyrix-campaign/lore/Geography of Artyrix.html"  >Geography of Artyrix</a></li>
-		<li><a class="" href="/artyrix-campaign/lore/Reinforcement.html"  >Reinforcement</a></li>
+		<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/lore/Animen Extradition.html"  >Animen Extradition</a></li>
+		<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/lore/Artyrian Pantheon.html"  >Artyrian Pantheon</a></li>
+		<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/lore/Beta Revolution.html"  >Beta Revolution</a></li>
+		<li><div class="file-icon"></div><a class="active current_page_dirtree" href="/artyrix-campaign/lore/Early Artyrian Timeline.html"  >Early Artyrian Timeline</a></li>
+		<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/lore/Geography of Artyrix.html"  >Geography of Artyrix</a></li>
+		<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/lore/Reinforcement.html"  >Reinforcement</a></li>
+		<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/lore/The Dwindling.html"  >The Dwindling</a></li>
 	</ul>
 </div>
-<button id="folder-4" class="dir-button" onclick="toggle_dir(this.id)">npc</button>
+<button id="folder-4" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>npc</button>
 <div id="folder-container-4" class="dir-container requires_js " path="/artyrix-campaign/npc">
-	<button id="folder-5" class="dir-button" onclick="toggle_dir(this.id)">groups</button>
+	<button id="folder-5" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>groups</button>
 	<div id="folder-container-5" class="dir-container requires_js " path="/artyrix-campaign/npc/groups">
 		<ul class="dir-list">
-			<li><a class="" href="/artyrix-campaign/npc/groups/Briny Armada.html"  >Briny Armada</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/Order of the Shara.html"  >Order of the Shara</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/Sagezza.html"  >Sagezza</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/The Ascendent.html"  >The Ascendent</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/The Business.html"  >The Business</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/The Crash.html"  >The Crash</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/The Defiant.html"  >The Defiant</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/The Fated.html"  >The Fated</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/The Husk.html"  >The Husk</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/The Instinct.html"  >The Instinct</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/The Kismet.html"  >The Kismet</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/The Open Hand.html"  >The Open Hand</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/The Orinoco.html"  >The Orinoco</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/The Parliament.html"  >The Parliament</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/The Sleuth.html"  >The Sleuth</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/groups/Western Flank.html"  >Western Flank</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/Briny Armada.html"  >Briny Armada</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/Order of the Shara.html"  >Order of the Shara</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/Sagezza.html"  >Sagezza</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/The Ascendent.html"  >The Ascendent</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/The Business.html"  >The Business</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/The Crash.html"  >The Crash</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/The Defiant.html"  >The Defiant</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/The Fated.html"  >The Fated</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/The Husk.html"  >The Husk</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/The Instinct.html"  >The Instinct</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/The Kismet.html"  >The Kismet</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/The Open Hand.html"  >The Open Hand</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/The Orinoco.html"  >The Orinoco</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/The Parliament.html"  >The Parliament</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/The Sleuth.html"  >The Sleuth</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/Velian Houses.html"  >Velian Houses</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/groups/Western Flank.html"  >Western Flank</a></li>
 		</ul>
 	</div>
-	<button id="folder-6" class="dir-button" onclick="toggle_dir(this.id)">people</button>
+	<button id="folder-6" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>people</button>
 	<div id="folder-container-6" class="dir-container requires_js " path="/artyrix-campaign/npc/people">
 		<ul class="dir-list">
-			<li><a class="" href="/artyrix-campaign/npc/people/Captain Flint.html"  >Captain Flint</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/people/Composis.html"  >Composis</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/people/ESC.html"  >ESC</a></li>
-			<li><a class="" href="/artyrix-campaign/npc/people/Tethis Rosevale.html"  >Tethis Rosevale</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/people/Big Bunny.html"  >Big Bunny</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/people/Captain Flint.html"  >Captain Flint</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/people/Composis.html"  >Composis</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/people/ESC.html"  >ESC</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/npc/people/Tethis Rosevale.html"  >Tethis Rosevale</a></li>
 		</ul>
 	</div>
 	<ul class="dir-list">
 	</ul>
 </div>
-<button id="folder-7" class="dir-button" onclick="toggle_dir(this.id)">places</button>
+<button id="folder-7" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>places</button>
 <div id="folder-container-7" class="dir-container requires_js " path="/artyrix-campaign/places">
-	<button id="folder-8" class="dir-button" onclick="toggle_dir(this.id)">cities</button>
+	<button id="folder-8" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>cities</button>
 	<div id="folder-container-8" class="dir-container requires_js " path="/artyrix-campaign/places/cities">
 		<ul class="dir-list">
-			<li><a class="" href="/artyrix-campaign/places/cities/Altalos.html"  >Altalos</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Charterstown.html"  >Charterstown</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Corsair's Cove.html"  >Corsair's Cove</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Delver.html"  >Delver</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Ensilico.html"  >Ensilico</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Faciv.html"  >Faciv</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Fivid.html"  >Fivid</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Gatazka.html"  >Gatazka</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Harazid.html"  >Harazid</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Khisba.html"  >Khisba</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Kool-NT.html"  >Kool-NT</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/New Sigil.html"  >New Sigil</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Paralax.html"  >Paralax</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Parthin.html"  >Parthin</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Recoors.html"  >Recoors</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Rifterra.html"  >Rifterra</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Ruddy Rock.html"  >Ruddy Rock</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Searidge Station.html"  >Searidge Station</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Simulcepio.html"  >Simulcepio</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Sunset Cove.html"  >Sunset Cove</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Sur'dame.html"  >Sur'dame</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Tyrfall.html"  >Tyrfall</a></li>
-			<li><a class="" href="/artyrix-campaign/places/cities/Vecchia.html"  >Vecchia</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Altalos.html"  >Altalos</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Charterstown.html"  >Charterstown</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Corsair's Cove.html"  >Corsair's Cove</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Delver.html"  >Delver</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Ensilico.html"  >Ensilico</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Faciv.html"  >Faciv</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Fivid.html"  >Fivid</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Gatazka.html"  >Gatazka</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Harazid.html"  >Harazid</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Khisba.html"  >Khisba</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Kool-NT.html"  >Kool-NT</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/New Sigil.html"  >New Sigil</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Paralax.html"  >Paralax</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Parthin.html"  >Parthin</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Pythinia.html"  >Pythinia</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Recoors.html"  >Recoors</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Rifterra.html"  >Rifterra</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Ruddy Rock.html"  >Ruddy Rock</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Sanduroch.html"  >Sanduroch</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Searidge Station.html"  >Searidge Station</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Simulcepio.html"  >Simulcepio</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Sunset Cove.html"  >Sunset Cove</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Sur'dame.html"  >Sur'dame</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Tyrfall.html"  >Tyrfall</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Vecchia.html"  >Vecchia</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/cities/Vixeraven.html"  >Vixeraven</a></li>
 		</ul>
 	</div>
-	<button id="folder-9" class="dir-button" onclick="toggle_dir(this.id)">islands</button>
+	<button id="folder-9" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>islands</button>
 	<div id="folder-container-9" class="dir-container requires_js " path="/artyrix-campaign/places/islands">
 		<ul class="dir-list">
-			<li><a class="" href="/artyrix-campaign/places/islands/Corosiva.html"  >Corosiva</a></li>
-			<li><a class="" href="/artyrix-campaign/places/islands/Delta Major.html"  >Delta Major</a></li>
-			<li><a class="" href="/artyrix-campaign/places/islands/Delta Minor.html"  >Delta Minor</a></li>
-			<li><a class="" href="/artyrix-campaign/places/islands/Delta Prime.html"  >Delta Prime</a></li>
-			<li><a class="" href="/artyrix-campaign/places/islands/Dynistia.html"  >Dynistia</a></li>
-			<li><a class="" href="/artyrix-campaign/places/islands/Havangart.html"  >Havangart</a></li>
-			<li><a class="" href="/artyrix-campaign/places/islands/Jolastokia.html"  >Jolastokia</a></li>
-			<li><a class="" href="/artyrix-campaign/places/islands/Khiage.html"  >Khiage</a></li>
-			<li><a class="" href="/artyrix-campaign/places/islands/Linnæsa.html"  >Linnæsa</a></li>
-			<li><a class="" href="/artyrix-campaign/places/islands/Machivelia.html"  >Machivelia</a></li>
-			<li><a class="" href="/artyrix-campaign/places/islands/The Northern Barrier Islands.html"  >The Northern Barrier Islands</a></li>
-			<li><a class="" href="/artyrix-campaign/places/islands/Île Follette.html"  >Île Follette</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/islands/Corosiva.html"  >Corosiva</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/islands/Delta Major.html"  >Delta Major</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/islands/Delta Minor.html"  >Delta Minor</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/islands/Delta Prime.html"  >Delta Prime</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/islands/Dynistia.html"  >Dynistia</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/islands/Havangart.html"  >Havangart</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/islands/Jolastokia.html"  >Jolastokia</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/islands/Khiage.html"  >Khiage</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/islands/Linnæsa.html"  >Linnæsa</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/islands/Machivelia.html"  >Machivelia</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/islands/The Northern Barrier Islands.html"  >The Northern Barrier Islands</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/islands/Île Follette.html"  >Île Follette</a></li>
 		</ul>
 	</div>
-	<button id="folder-10" class="dir-button" onclick="toggle_dir(this.id)">landmarks</button>
+	<button id="folder-10" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>landmarks</button>
 	<div id="folder-container-10" class="dir-container requires_js " path="/artyrix-campaign/places/landmarks">
 		<ul class="dir-list">
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Aladien Ice Patch.html"  >Aladien Ice Patch</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Arcanum Decetto.html"  >Arcanum Decetto</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Astral Wind Farm.html"  >Astral Wind Farm</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Athenae.html"  >Athenae</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Bindo Bungalows.html"  >Bindo Bungalows</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Bindo Lagoon.html"  >Bindo Lagoon</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Broken Oath.html"  >Broken Oath</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Conquista Quarries.html"  >Conquista Quarries</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Darwin Marshes.html"  >Darwin Marshes</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Dellavolpe.html"  >Dellavolpe</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/East Foundry.html"  >East Foundry</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Emerald Volcano.html"  >Emerald Volcano</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Eternal Sea.html"  >Eternal Sea</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Flintpoint Harbor.html"  >Flintpoint Harbor</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Fool's Gold Mountains.html"  >Fool's Gold Mountains</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Garnetscar.html"  >Garnetscar</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Hilltop Observatory.html"  >Hilltop Observatory</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Katena Mountains.html"  >Katena Mountains</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Lake Novam.html"  >Lake Novam</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Myrkvad River.html"  >Myrkvad River</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Ocean's 5 Casino.html"  >Ocean's 5 Casino</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Outer Counties.html"  >Outer Counties</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Pyritian Lagoon.html"  >Pyritian Lagoon</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/River Txerys.html"  >River Txerys</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Rocca Principe.html"  >Rocca Principe</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/South Crucible.html"  >South Crucible</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Standin River.html"  >Standin River</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Standout River.html"  >Standout River</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/The Dueling Straights.html"  >The Dueling Straights</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/The Endless Pits.html"  >The Endless Pits</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/The Fermenti Caverns.html"  >The Fermenti Caverns</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/The Synaptic Highway.html"  >The Synaptic Highway</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Uluran Plateau.html"  >Uluran Plateau</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Verdant Acres.html"  >Verdant Acres</a></li>
-			<li><a class="" href="/artyrix-campaign/places/landmarks/Zodiac Row.html"  >Zodiac Row</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Aladien Ice Patch.html"  >Aladien Ice Patch</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Arcanum Decetto.html"  >Arcanum Decetto</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Astral Wind Farm.html"  >Astral Wind Farm</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Athenae.html"  >Athenae</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Bindo Bungalows.html"  >Bindo Bungalows</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Bindo Lagoon.html"  >Bindo Lagoon</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Boscuri Forest.html"  >Boscuri Forest</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Broken Oath.html"  >Broken Oath</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Conquista Quarries.html"  >Conquista Quarries</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Darwin Marshes.html"  >Darwin Marshes</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Dellavolpe.html"  >Dellavolpe</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/East Foundry.html"  >East Foundry</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Emerald Volcano.html"  >Emerald Volcano</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Eternal Sea.html"  >Eternal Sea</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Flintpoint Harbor.html"  >Flintpoint Harbor</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Fool's Gold Mountains.html"  >Fool's Gold Mountains</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Garnetscar.html"  >Garnetscar</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Hilltop Observatory.html"  >Hilltop Observatory</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Katena Mountains.html"  >Katena Mountains</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Lake Novam.html"  >Lake Novam</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Myrkvad River.html"  >Myrkvad River</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Ocean's 5 Casino.html"  >Ocean's 5 Casino</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Outer Counties.html"  >Outer Counties</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Pyritian Lagoon.html"  >Pyritian Lagoon</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/River Txerys.html"  >River Txerys</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Rocca Principe.html"  >Rocca Principe</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/South Crucible.html"  >South Crucible</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Standin River.html"  >Standin River</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Standout River.html"  >Standout River</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/The Dueling Straights.html"  >The Dueling Straights</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/The Endless Pits.html"  >The Endless Pits</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/The Fermenti Caverns.html"  >The Fermenti Caverns</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/The Synaptic Highway.html"  >The Synaptic Highway</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Uluran Plateau.html"  >Uluran Plateau</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Verdant Acres.html"  >Verdant Acres</a></li>
+			<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/places/landmarks/Zodiac Row.html"  >Zodiac Row</a></li>
 		</ul>
 	</div>
 	<ul class="dir-list">
 	</ul>
 </div>
 <ul class="dir-list">
-	<li><a class="" href="/artyrix-campaign/Boscuri Forest.html"  >Boscuri Forest</a></li>
-	<li><a class="" href="/artyrix-campaign/Pythinia.html"  >Pythinia</a></li>
-	<li><a class="" href="/artyrix-campaign/Sanduroch.html"  >Sanduroch</a></li>
-	<li><a class="" href="/artyrix-campaign/Vixeraven.html"  >Vixeraven</a></li>
-	<li><a class="" href="/artyrix-campaign/index.html"  >index</a></li>
+	<li><div class="file-icon"></div><a class="" href="/artyrix-campaign/index.html"  >index</a></li>
 </ul>
 </div>
     </div>
 </div>
                         <div class="container">
-                                <embeddedtitle>Early Artyrian Timeline</embeddedtitle>
-<div class="content"><p><a class="inline-tag" href="/artyrix-campaign/obs.html/tags/lore/index.html">lore</a>    </p>
-<p>Below is a record of founding events across the Artyrian Islands. Due to their distributed nature, and unique navigational quirks imposed the <a href="/artyrix-campaign/places/landmarks/Eternal%20Sea.html">Eternal Sea</a>, much is unknown about the specifics surrounding even pivotal events in the history of Artyrix. Thus, most dates might be best considered estimates - unless otherwise noted.</p></div>
+                                <div class="content"><p><a class="inline-tag" href="/artyrix-campaign/obs.html/tags/lore/index.html">lore</a>    </p>
+<p>Below is a record of founding events across the Artyrian Islands. Due to their distributed nature, and unique navigational quirks imposed the <a href="/artyrix-campaign/places/landmarks/Eternal%20Sea.html">Eternal Sea</a>, much is unknown about the specifics surrounding even pivotal events in the history of Artyrix. Thus, most dates might be best considered estimates - unless otherwise noted with an asterisk.   </p>
+<p>Years/Time in Artyrix is generally measured as being before or after some epoch defining event. The most notable of such events was the "discovery" of  <a href="/artyrix-campaign/places/islands/Jolastokia.html">Jolastokia</a>'s doorway in Sigil, leading to the subsequent influx of outlanders to the plane. That said, time and the Jolastokian/Artyrian plane certainly existed prior to the large-scale migration of others to the plane. Therefore, time and events are measured as either occurring in the Pre-Sigil Era (<strong>P.S.</strong>) or the Modern Sigil Era (<strong>M.S.</strong>). Artyrix's timeline, however, lands squarely in the Modern Sigil Era, as indicated in the timeline below.    </p>
+<h2 id="timeline-of-major-artyrian-events">Timeline of Major Artyrian Events</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Year (Modern Sigil Era/MS)</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Founding of Arcania on the<br>Jolastokian sub-continent</td>
+<td>26 MS</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>45 MS</td>
+<td>Founding of <a href="/artyrix-campaign/places/cities/Gatazka.html">Gatazka</a> on the <br>Jolastokian sub-continent</td>
+</tr>
+<tr>
+<td>First settlers depart <a href="/artyrix-campaign/places/cities/Gatazka.html">Gatazka</a> <br>for Artyrix</td>
+<td>175 MS</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>178 MS*</td>
+<td>First settlers arrive<br>on <a href="/artyrix-campaign/places/islands/Machivelia.html">Machivelia</a></td>
+</tr>
+<tr>
+<td><a href="/artyrix-campaign/npc/people/Captain%20Flint.html">Captain Flint</a> discovers <a href="/artyrix-campaign/places/islands/Havangart.html">Havangart</a></td>
+<td>181 MS*</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>182 MS*</td>
+<td><a href="/artyrix-campaign/npc/people/Captain%20Flint.html">Captain Flint</a> discovers <a href="/artyrix-campaign/places/islands/Khiage.html">Khiage</a></td>
+</tr>
+<tr>
+<td>First settlers from the <em>Wild Lands</em> in <a href="/artyrix-campaign/places/islands/Jolastokia.html">Jolastokia</a> discover <a href="/artyrix-campaign/places/islands/Linn%C3%A6sa.html">Linnæsa</a></td>
+<td>185 MS</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>205 MS</td>
+<td>First contact between <a href="/artyrix-campaign/places/islands/Khiage.html">Khiage</a> and <a href="/artyrix-campaign/places/islands/Linn%C3%A6sa.html">Linnæsa</a></td>
+</tr>
+<tr>
+<td>First documented landing on <a href="/artyrix-campaign/places/islands/The%20Northern%20Barrier%20Islands.html">The Northern Barrier Islands</a></td>
+<td>222 MS</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>241 MS*</td>
+<td>First setters arrive on <a href="/artyrix-campaign/places/islands/Corosiva.html">Corosiva</a> from <a href="/artyrix-campaign/places/islands/Machivelia.html">Machivelia</a></td>
+</tr>
+<tr>
+<td>First <a href="/artyrix-campaign/not_created.html" class="nonexistent-link">Mechs</a> rumored to have been discovered in <a href="/artyrix-campaign/places/landmarks/The%20Endless%20Pits.html">The Endless Pits</a> on <a href="/artyrix-campaign/places/islands/Corosiva.html">Corosiva</a></td>
+<td>250 MS</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>260 MS</td>
+<td>Formalization of the guilds on <a href="/artyrix-campaign/places/islands/Linn%C3%A6sa.html">Linnæsa</a></td>
+</tr>
+<tr>
+<td>Formalization of the <a href="/artyrix-campaign/npc/groups/Velian%20Houses.html">Velian Houses</a> on <a href="/artyrix-campaign/places/islands/Machivelia.html">Machivelia</a></td>
+<td>273 MS*</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>285 MS</td>
+<td>Arrival of <a href="/artyrix-campaign/npc/people/ESC.html">ESC</a> onto <a href="/artyrix-campaign/places/islands/Linn%C3%A6sa.html">Linnæsa</a></td>
+</tr>
+<tr>
+<td>First recorded scientific study on what would later come to be known as <a href="/artyrix-campaign/lore/The%20Dwindling.html">The Dwindling</a></td>
+<td>287 MS*</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>290 MS</td>
+<td>Sailors stumble upon <a href="/artyrix-campaign/places/landmarks/The%20Fermenti%20Caverns.html">The Fermenti Caverns</a> in <a href="/artyrix-campaign/places/islands/Havangart.html">Havangart</a>.</td>
+</tr>
+<tr>
+<td>First settlers arrive on <a href="/artyrix-campaign/places/islands/%C3%8Ele%20Follette.html">Île Follette</a></td>
+<td>292 MS*</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>295 MS*</td>
+<td><a href="/artyrix-campaign/places/islands/%C3%8Ele%20Follette.html">Île Follette</a> democratically elects its first leader; <a href="/artyrix-campaign/not_created.html" class="nonexistent-link">The Riggers</a> are subsequently barred from organizing</td>
+</tr>
+<tr>
+<td><a href="/artyrix-campaign/places/islands/%C3%8Ele%20Follette.html">Île Follette</a> officially banishes all members of <a href="/artyrix-campaign/not_created.html" class="nonexistent-link">The Sleepwalkers</a> from the island</td>
+<td>303 MS*</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>305 MS</td>
+<td>First settlers arrive on <a href="/artyrix-campaign/places/islands/Dynistia.html">Dynistia</a></td>
+</tr>
+<tr>
+<td>The <a href="/artyrix-campaign/lore/Animen%20Extradition.html">Animen Extradition</a> occurs in <a href="/artyrix-campaign/places/islands/Linn%C3%A6sa.html">Linnæsa</a></td>
+<td>306 MS*</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>307 MS*</td>
+<td><a href="/artyrix-campaign/npc/people/ESC.html">ESC</a> and their followers settle <a href="/artyrix-campaign/places/islands/Delta%20Prime.html">Delta Prime</a></td>
+</tr>
+<tr>
+<td>Beginning of the <a href="/artyrix-campaign/lore/Reinforcement.html">Reinforcement</a> on <a href="/artyrix-campaign/places/islands/Delta%20Prime.html">Delta Prime</a>; First large-scale investment in research towards <a href="/artyrix-campaign/lore/The%20Dwindling.html">The Dwindling</a></td>
+<td>309 MS*</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>311 MS*</td>
+<td><a href="/artyrix-campaign/places/cities/Sur%27dame.html">Sur'dame</a> is founded on <a href="/artyrix-campaign/places/islands/Dynistia.html">Dynistia</a></td>
+</tr>
+<tr>
+<td>Founding of the factories on <a href="/artyrix-campaign/places/islands/Delta%20Minor.html">Delta Minor</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>337 MS</td>
+<td>Beginning of the <a href="/artyrix-campaign/not_created.html" class="nonexistent-link">Drift</a> on <a href="/artyrix-campaign/places/islands/Delta%20Prime.html">Delta Prime</a></td>
+</tr>
+<tr>
+<td>The <a href="/artyrix-campaign/lore/Beta%20Revolution.html">Beta Revolution</a> occurs on <a href="/artyrix-campaign/places/islands/Delta%20Prime.html">Delta Prime</a>; <a href="/artyrix-campaign/npc/people/ESC.html">ESC</a> and others formally settle <a href="/artyrix-campaign/places/islands/Delta%20Major.html">Delta Major</a></td>
+<td>353 MS*</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>354 MS*</td>
+<td><a href="/artyrix-campaign/places/cities/Searidge%20Station.html">Searidge Station</a> is founded in <a href="/artyrix-campaign/places/islands/The%20Northern%20Barrier%20Islands.html">The Northern Barrier Islands</a></td>
+</tr>
+<tr>
+<td><a href="/artyrix-campaign/places/cities/Gatazka.html">Gatazka</a> is leveled in <a href="/artyrix-campaign/places/islands/Jolastokia.html">Jolastokia</a></td>
+<td>359 MS*</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>361 MS*</td>
+<td>The <a href="/artyrix-campaign/npc/groups/Sagezza.html">Sagezza</a> broker peace between the <a href="/artyrix-campaign/npc/groups/Velian%20Houses.html">Velian Houses</a> on <a href="/artyrix-campaign/places/islands/Machivelia.html">Machivelia</a></td>
+</tr>
+<tr>
+<td><a href="/artyrix-campaign/places/cities/Charterstown.html">Charterstown</a> in <a href="/artyrix-campaign/places/islands/Khiage.html">Khiage</a> is founded</td>
+<td>396 MS*</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>401 MS*</td>
+<td>First recorded battle in the Dwarven Civil War in <a href="/artyrix-campaign/places/islands/Jolastokia.html">Jolastokia</a></td>
+</tr>
+<tr>
+<td><a href="/artyrix-campaign/lore/The%20Dwindling.html">The Dwindling</a> intensifies to its current levels, with well-known artifacts showing signs of waning power</td>
+<td>403 MS*</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>404 MS*</td>
+<td><a href="/artyrix-campaign/places/cities/Sunset%20Cove.html">Sunset Cove</a> opens on <a href="/artyrix-campaign/places/islands/The%20Northern%20Barrier%20Islands.html">The Northern Barrier Islands</a></td>
+</tr>
+<tr>
+<td><a href="/artyrix-campaign/npc/people/Tethis%20Rosevale.html">Tethis Rosevale</a> is elected leader of <a href="/artyrix-campaign/places/islands/%C3%8Ele%20Follette.html">Île Follette</a></td>
+<td>425 MS*</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>428 MS</td>
+<td><strong>This Campaign</strong></td>
+</tr>
+</tbody>
+</table></div>
 <div class="note-footer">
-<div class="backlinks" style="display:none"></div>
+<div class="backlinks">
+<h2>Backlinks</h2>
+<ul>
+	<li><a class="backlink" href="/artyrix-campaign/places/islands/Dynistia.html">dynistia</a></li>
+	<li><a class="backlink" href="/artyrix-campaign/index.html">index</a></li>
+</ul>
+</div>
 
 <div class="tags">
 <h2>Tags</h2>
@@ -380,13 +590,17 @@
 
 </div>
 <div class="graph requires_js ">
-    <div id="A296823428522507813075121471416819185222{level}" class="graph_div"></div>
+    <div id="A26737378364811105941978747547606314048{level}" class="graph_div"></div>
+
+    <div class="graph-instructions" id="D26737378364811105941978747547606314048{level}">
+        Left-click: follow link, Right-click: select node, Scroll: zoom
+    </div>
     
     <div class="graph-button-row" style="display:flex;">
-        <button class="graph_button graph_show_button" id="B296823428522507813075121471416819185222{level}" level="{level}" note_temp_id="296823428522507813075121471416819185222" onclick="window.ObsHtmlGraph.run(this, '296823428522507813075121471416819185222', 'early artyrian timeline');">
+        <button class="graph_button graph_show_button" id="B26737378364811105941978747547606314048{level}" level="{level}" note_temp_id="26737378364811105941978747547606314048" onclick="window.ObsHtmlGraph.run(this, '26737378364811105941978747547606314048', 'early artyrian timeline');">
             Show Graph
         </button>
-        <button class="graph_button graph_type_button" id="C296823428522507813075121471416819185222{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+        <button class="graph_button graph_type_button" id="C26737378364811105941978747547606314048{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
             2D
         </button>
     </div>
