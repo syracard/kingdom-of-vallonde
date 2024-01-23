@@ -23,3 +23,17 @@ The current minor islands of Artyrix include:
 - [[Delta Minor]]
 - [[Havangart]]
 - [[The Northern Barrier Islands]]
+
+## General Layout
+
+This will turn into an actual map at some point. But until then...
+
+|  |  |  |  |  | [[The Northern Barrier Islands]] |  |  |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|  |  |  | [[Île Follette]] |  |  |  |  |
+|  |  |  |  |  |  |  | [[Dynistia]] |
+|  | [[Khiage]] |  |  |  |  |  |  |
+|  |  | [[Havangart]] |  | [[Machivelia]] |  |  |  |
+|  |  |  |  |  |  | [[Delta Prime]] |  |
+| [[Corosiva]] |  |  |  |  |  |  |  |
+|  |  |  | [[Linnæsa]] |  |  |  |  |
