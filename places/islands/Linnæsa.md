@@ -25,4 +25,3 @@ At the conclusion of the [[Animen Extradition]], life on [[Linnæsa]] tried to r
 ## Inspiration
 - **1984**/**Animal Farm**
 - Narnia
-- 

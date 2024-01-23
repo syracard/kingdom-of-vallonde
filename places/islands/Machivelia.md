@@ -12,7 +12,7 @@ After decades of conflict, however, a recent - if tenuous - form of peace has em
 The peace itself was brokered by no small feat by a troupe of mages all hailing from the same magical academy in [[Vecchia]], the [[Arcanum Decetto]]. Working tirelessly, students from the school returned to their respective hometowns and states - grinding day after day in low-level political appointments before eventually reaching advisory positions of note. Once in position, mages in all three states began advocating publicly and consistently for peace: at first in closed-door sessions but later in increasingly public displays of posturing. In time, the masses fell in line behind the message of peace being preached by these arcane advisors who came to be known (collectively) as the [[Sagezza]]. From that point, a truce was brokered and the conflicts largely ended as soldiers returned home, leaving the fighting to any poor bureaucrat serving their post amid the great halls in [[Vecchia]].
 ## Places of Interest
 - [[Vecchia]] - the metropolitan center of [[Machivelia]] where quarrels and disputes are settled between the three states
-- The three states/kingdoms:
+- The three states/kingdoms, collectively known at the [[Velian Houses]]:
 	- [[Garnetscar]] - to the east with its capital city [[Sanduroch]]
 	- [[Dellavolpe]] - to the north-west with its capital city [[Vixeraven]]
 	- [[Athenae]] - to the south-west with its capital city [[Pythinia]]
