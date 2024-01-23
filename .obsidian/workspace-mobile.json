@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Early Artyrian Timeline.md",
+                "file": "places/islands/Linnæsa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01bbadfa0eb3f6c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af89648f6822179e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +120,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Early Artyrian Timeline.md",
+            "file": "Session 0.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +137,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Early Artyrian Timeline.md",
+            "file": "Session 0.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +149,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Early Artyrian Timeline.md"
+            "file": "Session 0.md"
           }
         }
       }
@@ -143,35 +168,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "844d925617e9d4bb",
+  "active": "af89648f6822179e",
   "lastOpenFiles": [
-    "places/islands/Machivelia.md",
+    "admin/Family Heirlooms.md",
+    "Session 0.md",
+    "[[Family.md",
     "places/islands/Linnæsa.md",
-    "places/islands/Île Follette.md",
-    "Artyrian Pantheon.md",
-    "Early Artyrian Timeline.md",
-    "npc/people/Composis.md",
-    "lore/Geography of Artyrix.md",
+    "README.md",
+    "admin",
     "places/islands/Jolastokia.md",
-    "places/islands/Havangart.md",
-    "places/islands/Khiage.md",
-    "img/maps/Delta_Island_Chain.jpg",
-    "places/cities/Kool-NT.md",
-    "places/islands/Delta Prime.md",
-    "Standout River.md",
-    "Kool-NT.md",
-    "places/islands/Delta Major.md",
-    "places/islands/Delta Minor.md",
-    "places/islands/Dynistia.md",
-    "$/beta$-Era.md",
-    "$",
-    "places/cities/Corsair's Cove.md",
-    "places/cities/Charterstown.md",
-    "places/cities/Tyrfall.md",
-    "places/cities/Harazid.md",
-    "places/cities/Faciv.md",
-    "places/cities/Simulcepio.md",
-    "places/cities/Rifterra.md",
-    "npc/people/ESC.md"
+    "places/islands/Île Follette.md",
+    "npc/groups/The Husk.md",
+    "npc/groups/The Sleuth.md",
+    "npc/groups/The Crash.md",
+    "npc/groups/The Business.md",
+    "npc/groups/The Parliament.md",
+    "places/cities/Ruddy Rock.md",
+    "places/cities/Fivid.md",
+    "places/cities/Parthin.md",
+    "places/landmarks/Emerald Volcano.md",
+    "places/landmarks/Darwin Marshes.md",
+    "places/landmarks/Uluran Plateau.md",
+    "places/landmarks/Bindo Lagoon.md",
+    "places/landmarks/Aladien Ice Patch.md",
+    "places/landmarks/Verdant Acres.md",
+    "lore/Early Artyrian Timeline.md",
+    "lore/Animen Extradition.md",
+    "lore/Artyrian Pantheon.md",
+    "lore/Reinforcement.md",
+    "npc/people/Captain Flint.html",
+    "npc/people/Composis.html",
+    "npc/people/ESC.html",
+    "npc/groups/The Parliament.html",
+    "npc/groups/The Husk.html",
+    "npc/groups/Briny Armada.html",
+    "npc/groups/Order of the Shara.html",
+    "npc/groups/The Sleuth.html",
+    "npc/groups/The Business.html",
+    "Early Artyrian Timeline.md",
+    "obs.html/static/graph.svg",
+    "obs.html/static/hashtag.svg",
+    "obs.html/static/dirtree.svg",
+    "obs.html/static/rss.svg",
+    "obs.html/static/external.svg",
+    "obs.html/static/search.svg",
+    "img/maps/Delta_Island_Chain.jpg"
   ]
 }
