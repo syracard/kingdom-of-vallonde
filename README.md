@@ -6,3 +6,5 @@ Interested in some lore? Checkout the following:
 - [[Artyrian Pantheon]]
 - [[Early Artyrian Timeline]]
 
+Administrative Info:
+- [[Session Notes]]
