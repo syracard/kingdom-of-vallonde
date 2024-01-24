@@ -3,7 +3,6 @@
 Below is a record of founding events across the Artyrian Islands. Due to their distributed nature, and unique navigational quirks imposed the [[Eternal Sea]], much is unknown about the specifics surrounding even pivotal events in the history of Artyrix. Thus, most dates might be best considered estimates - unless otherwise noted with an asterisk.
 
 Years/Time in Artyrix is generally measured as being before or after some epoch defining event. The most notable of such events was the "discovery" of  [[Jolastokia]]'s doorway in Sigil, leading to the subsequent influx of outlanders to the plane. That said, time and the Jolastokian/Artyrian plane certainly existed prior to the large-scale migration of others to the plane. Therefore, time and events are measured as either occurring in the Pre-Sigil Era (**P.S.**) or the Modern Sigil Era (**M.S.**). Artyrix's timeline, however, lands squarely in the Modern Sigil Era, as indicated in the timeline below. 
-
 ## Timeline of Major Artyrian Events
 
 |  | Year (Modern Sigil Era/MS) |  |
@@ -32,7 +31,7 @@ Years/Time in Artyrix is generally measured as being before or after some epoch 
 |  | 307 MS* | [[ESC]] and their followers settle [[Delta Prime]] |
 | Beginning of the [[Reinforcement]] on [[Delta Prime]]; First large-scale investment in research towards [[The Dwindling]] | 309 MS* |  |
 |  | 311 MS* | [[Sur'dame]] is founded on [[Dynistia]] |
-| Founding of the factories on [[Delta Minor]] |  |  |
+| Founding of the factories on [[Delta Minor]] | 325 MS |  |
 |  | 337 MS | Beginning of the [[Drift]] on [[Delta Prime]] |
 | The [[Beta Revolution]] occurs on [[Delta Prime]]; [[ESC]] and others formally settle [[Delta Major]] | 353 MS* |  |
 |  | 354 MS* | [[Searidge Station]] is founded in [[The Northern Barrier Islands]] |

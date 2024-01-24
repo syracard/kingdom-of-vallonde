@@ -1,7 +1,6 @@
 #lore
 
-The Artyrian archipelago is a collection of culturally and aesthetically distinct islands. While each of these islands shares a common historical basis - that is, they were initially discovered and for the most part settled - by explorers hailing from [[Jolastokia]], the manner in which culture evolved over time and the types of individuals drawn to each of the islands making up Artyrix has been sharply
-different and unique.
+The Artyrian archipelago is a collection of culturally and aesthetically distinct islands. While each of these islands shares a common historical basis - that is, they were initially discovered and for the most part settled - by explorers hailing from [[Jolastokia]], the manner in which culture evolved over time and the types of individuals drawn to each of the islands making up Artyrix has been sharply different and unique.
 ## The Major Islands
 
 As with most island chains, regardless of overall size, Artyrix is comprised of both larger and smaller islands. Generally, larger islands feature more racial and cultural diversity, larger populations, and overall carry more sway in the overall political climate of the region. The shape and size of these large islands has remained relatively constant over time, though their importance and level of involvement in activities outside of their geographic borders has shifted.

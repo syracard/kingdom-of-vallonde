@@ -1,6 +1,5 @@
 #admin
 
-
 ## Welcome to Artyrix!
 - Quick overview of the campaign setting
 - High level goal of sandbox campaign 
