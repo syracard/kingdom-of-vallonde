@@ -44,9 +44,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0934050b68f13d5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lore/Geography of Artyrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c62e4021bbbc83d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lore/Artyrian Pantheon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lore/Early Artyrian Timeline.md",
+                "file": "lore/Artyrian Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lore/Early Artyrian Timeline.md",
+                "file": "lore/Artyrian Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lore/Early Artyrian Timeline.md"
+                "file": "lore/Artyrian Pantheon.md"
               }
             }
           },
@@ -218,11 +242,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d8501039f0bc0e8",
+  "active": "c62e4021bbbc83d6",
   "lastOpenFiles": [
     "lore/Geography of Artyrix.md",
-    "lore/Early Artyrian Timeline.md",
     "lore/Artyrian Pantheon.md",
+    "lore/Early Artyrian Timeline.md",
     "lore/Beta Revolution.md",
     "places/islands/Machivelia.md",
     "places/islands/Linnæsa.md",
