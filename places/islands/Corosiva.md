@@ -1,5 +1,6 @@
 #place #majorisland 
 
+
 > The island of Corosiva is less of a landmass and more of a semi-metallic, semi-organic structure that emerged from the [[Eternal Sea]] after spending years hidden from civilization. 
 ## History
 According to local historians and mages, machines the size of titans once inhabited this region of Artyrix. For one reason or another, these machines fell into disrepair or were destroyed, leaving their metallic shells littered around the world. While some religious cults still exist today believing that these great machines will one day arise out of the Eternal Sea, most others of Artyrix believe these constructs are gone for good.

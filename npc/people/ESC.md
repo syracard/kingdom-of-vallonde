@@ -1,4 +1,5 @@
 #npc #lore 
+
 - Race: Unknown
 - Cast out of [[Linnæsa]] during the [[Animen Extradition]] for their inventions
 - Credited with bringing advanced artifice to [[Delta Prime]]

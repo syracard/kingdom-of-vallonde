@@ -1,4 +1,6 @@
 #place #majorisland
+
+> _Power and greed...are one and the same. Each is earned._
 ## History
 The island of Machivelia was the first notable landmass discovered and subsequently lived on by the original settlers from [[Jolastokia]]. Due to the clear history drawing a direct connection between the two, many cultural and political structures which existed in Jolastokia - and in particular the city of [[Gatazka]] - were neatly mapped onto early Machivelian society. This includes an acceptance of most deities, spanning the [[Artyrian Pantheon]], though in Machivelia in particular, the boundaries separating mortal and the divine always seemed a bit less concrete - or at least, that is what the nobles seemed to believe.
 

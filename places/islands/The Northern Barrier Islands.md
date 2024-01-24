@@ -1,4 +1,5 @@
 #place #minorisland
+
 > _Woah - Sorry Mister Scientist Dude...Didn't mean to stumble into your lab space. I'm just staying at the resort over yonder and was wondering if this is where the Open Bar Concert is later tonight?_
 ## History
 Relative to almost all of the other islands of Artyrix, very little is known about the Northern Barrier Islands. Presumed to have been formed as by products in some cosmic event by logicians and powerful mages, leading theories suggest that the sweeping island chain may have been formed after a large asteroid  impacted the plane, sending shattered fragments of itself around the [[Eternal Sea]]. Others hypothesize that giants and titans may have formed them centuries before even the first explorers from Sigil entered the plane through the gate in [[Jolastokia]]. Regardless, its origin remains unconfirmed and shrouded in mystery - and these unknowns drive much of the interest, perceived exoticism, and public intrigue in the islands.

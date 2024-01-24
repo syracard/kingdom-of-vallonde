@@ -1,4 +1,5 @@
 #place #majorisland
+
 > _Wherever you go; Whatever you do; Anything you say...Just remember that Big Bunny is always watching..._
 ## History
 The discovery of [[Linnæsa]] occurred relatively distinct from the other major islands of Artyrix, with the original settlers hailing from the *Wild Lands* region of [[Jolastokia]] as opposed to the brunt of settlers from Gataz. Due to enchantments native to the Wild Lands, the individuals from this region tended towards the more animalistic - literally; often times with features more akin to a beast than to what some may call the "civilized" and more advanced humanoid races. As such, the first denizens of Linnæsa were predominantly hybrid-entities, a handful of were-creatures, and other races with lineages that ran parallel to other woodland beings such as the noble leonin, the sly tabaxi, and the nimble harengon to name but a few. Over time, other races were attracted to the civil society and strong social order of trust and inclusion fostered among the people of Linnæsa, leading to an incredibly diverse population, if one that tended to skew more towards of _Animen_ ancestry.

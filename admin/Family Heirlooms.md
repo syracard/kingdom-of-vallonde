@@ -1,4 +1,5 @@
 #admin 
+
 1. Alchemist Ring - When the wearer of this ring imbibes a healing potion, they receive an additional 1d6 HP
 2. All or Nothing Coin - On a roll you would normally use a d20, flip a coin instead. Heads is a critical success (NAT20), tails is a critical fail (NAT1). Can be used once per long rest.
 3. Antigravity Sphere - A small, fist-sized glass ball filled with a silvery smoke. When the sphere is destroyed, it disables the effect of gravity of everything within a 30ft cube for 30 second
@@ -77,5 +78,6 @@
 77. Twin Rings of Wonder - If two magic-users wearing these rings high-five as an Action, they can combine their two Spellcasting Ability stats and cast one spell at that level on their next turn. Has 5 charges, can be recharged by heating them with dragonfire.
 78. Physician’s Pendant - A pendant with a small cross engraved on it. After casting a spell that restores a creature’s hit points, the wearer rolls a d20. On a 17 or higher roll, the healing spell does not cost the user a spell slot. Upon a success, this feature cannot be used again until after a long rest. 
 79. Wabbajack - A gnarled-wood staff that randomly curses one target with a Wild Magic Surge d100 curse randomly rolled by the caster. Can only be used once per day.
-80. Water-Repellent Bedroll - A bedroll that creates a mild water repellent barrier around it as long as someone is laying on it. A gift made for a traveling merchant so that he wouldn’t worry about sleeping in the rain. Allows the user to survive in inclement weather without receiving damage.<br>97. Wind Sword - A steel cutlass that resembles a giant feather. Has three charges. One charge can be expended to give one attack a Gust knockback effect of 10 feet, or all three can be expended at once to imbue one attack with 20 foot Gust knockback with a failed DC13 strength save.
-81. Vest of Buoyancy - A small leather vest enchanted to magically float when exposed to water. Commissioned by a noble after his daughter almost drowned in the estate fish pond.<br>100.
+80. Water-Repellent Bedroll - A bedroll that creates a mild water repellent barrier around it as long as someone is laying on it. A gift made for a traveling merchant so that he wouldn’t worry about sleeping in the rain. Allows the user to survive in inclement weather without receiving damage.
+81. Wind Sword - A steel cutlass that resembles a giant feather. Has three charges. One charge can be expended to give one attack a Gust knockback effect of 10 feet, or all three can be expended at once to imbue one attack with 20 foot Gust knockback with a failed DC13 strength save.
+82. Vest of Buoyancy - A small leather vest enchanted to magically float when exposed to water. Commissioned by a noble after his daughter almost drowned in the estate fish pond.<br>100.

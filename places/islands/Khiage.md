@@ -1,4 +1,6 @@
 #place #majorisland
+
+> _Yo ho! Yo ho! A pirate's life for me! And don't you dare stand in the way of me, my rum, my doubloons, and my laissez faire lifestyle that infringes on no one but my own self!_
 ## History
 Khiage predominantly has a tropical climate, featuring countless palm trees and sandy beaches, particularly along the inner coastline that looks out across the crystal blue [[Pyritian Lagoon]]. A modest mountain range cuts across the northern end of the island which gradually levels out to rolling plains and rocky quarries which dot the southern end of the island.
 
