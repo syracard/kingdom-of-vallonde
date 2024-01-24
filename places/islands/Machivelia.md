@@ -12,6 +12,7 @@ After decades of conflict, however, a recent - if tenuous - form of peace has em
 3. The south-western state of [[Athenae]] largely drew the attention of humans, halflings, tritons, and genasi as it tended to be the most adventurous and maritime oriented state of the island. Life in [[Athenae]] depended on trading with other cities across the state - and even across the [[Eternal Sea]], leading the state to drive advancements in technology, particularly as it pertained to weapons that might be strategically positioned on a seafaring vessel. 
 
 The peace itself was brokered by no small feat by a troupe of mages all hailing from the same magical academy in [[Vecchia]], the [[Arcanum Decetto]]. Working tirelessly, students from the school returned to their respective hometowns and states - grinding day after day in low-level political appointments before eventually reaching advisory positions of note. Once in position, mages in all three states began advocating publicly and consistently for peace: at first in closed-door sessions but later in increasingly public displays of posturing. In time, the masses fell in line behind the message of peace being preached by these arcane advisors who came to be known (collectively) as the [[Sagezza]]. From that point, a truce was brokered and the conflicts largely ended as soldiers returned home, leaving the fighting to any poor bureaucrat serving their post amid the great halls in [[Vecchia]].
+
 ## Places of Interest
 - [[Vecchia]] - the metropolitan center of [[Machivelia]] where quarrels and disputes are settled between the three states
 - The three states/kingdoms, collectively known at the [[Velian Houses]]:
@@ -21,6 +22,24 @@ The peace itself was brokered by no small feat by a troupe of mages all hailing 
 - The [[Katena Mountains]] - the large mountain range in [[Garnetscar]]
 	- [[Rocca Principe]] - the highest peak in the Katenas
 - The [[Boscuri Forest]] - the large sweeping woods taking up most of [[Dellavolpe]]
+
+## Map
+
+```leaflet
+id: machivelia-map
+image: [[Machivelia.jpg]]
+height: 500px
+width: 380px
+minZoom: 6
+maxZoom: 10
+defaultZoom: 7
+scale: 1
+draw: false
+```
+
+> [!info]- Map not rendering correctly? Click here.
+> ![](img/maps/Machivelia.jpg)
+
 ## Inspiration
 - ...Machiavelli's _The Prince_
 -  Witcher: Mage Advisors/Rings
