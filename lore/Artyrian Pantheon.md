@@ -1,4 +1,5 @@
-#lore 
+#lore
+
 ## History 
 
 Religion and faith are both largely fluid across the Artyrian archipelago, owing at least in part to its unique heritage of settlers from the city of [[Gatazka]] in [[Jolastokia]]. During the period of time surrounding the first expeditions to Artyrix, deities flourished among the people of [[Gatazka]], going so far as to even enjoy walking among the mortals calling the city their home. This loose, laissez-faire attitude towards the separation of mortals and the Ascended was carried with the early settlers to [[Machivelia]], where it quickly took root in the culture of the region.
