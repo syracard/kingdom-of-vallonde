@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "admin/Session Notes.md",
+                "file": "lore/Artyrian Pantheon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "admin/Session Notes.md",
+                "file": "lore/Artyrian Pantheon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "admin/Session Notes.md",
+                "file": "lore/Artyrian Pantheon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "admin/Session Notes.md"
+                "file": "lore/Artyrian Pantheon.md"
               }
             }
           },
@@ -193,6 +193,22 @@
   },
   "active": "c62e4021bbbc83d6",
   "lastOpenFiles": [
+    "npc/groups/Zumaji.md",
+    "npc/people/Zumaj.md",
+    "npc/groups/The Sleuth.md",
+    "places/islands/Linnæsa.md",
+    "npc/groups/The Business.md",
+    "npc/groups/The Crash.md",
+    "npc/groups/The Husk.md",
+    "places/islands/Île Follette.md",
+    "npc/groups/The Ascendent.md",
+    "npc/people/Big Bunny.md",
+    "npc/people/Composis.md",
+    "npc/people/Captain Flint.md",
+    "lore/Artyrian Pantheon.md",
+    "lore/Animen Extradition.md",
+    "Lord Emberfall.md",
+    "admin/Session Notes.md",
     "README.md",
     "places/landmarks/Zodiac Row.md",
     "places/landmarks/Verdant Acres.md",
@@ -203,22 +219,6 @@
     "places/landmarks/Standout River.md",
     "places/landmarks/The Dueling Straights.md",
     "places/landmarks/Standin River.md",
-    "places/landmarks/South Crucible.md",
-    "places/landmarks/Rocca Principe.md",
-    "places/landmarks/Pyritian Lagoon.md",
-    "places/landmarks/River Txerys.md",
-    "places/landmarks/Garnetscar.md",
-    "places/landmarks/Hilltop Observatory.md",
-    "places/landmarks/Katena Mountains.md",
-    "places/landmarks/Lake Novam.md",
-    "places/landmarks/Myrkvad River.md",
-    "places/landmarks/Ocean's 5 Casino.md",
-    "places/landmarks/Outer Counties.md",
-    "places/landmarks/Fool's Gold Mountains.md",
-    "places/landmarks/Flintpoint Harbor.md",
-    "places/landmarks/Eternal Sea.md",
-    "places/landmarks/Emerald Volcano.md",
-    "places/landmarks/East Foundry.md",
     "admin/session_notes",
     "admin",
     "img/maps/Delta_Island_Chain.jpg",
