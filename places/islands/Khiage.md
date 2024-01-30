@@ -18,6 +18,22 @@ This gap in time of founding drives cultural and demographic differences between
 - [[Fool's Gold Mountains]] - the mountain range spanning most of the northern section of Khiage
 - [[Conquista Quarries]] - a series of quarries dotting the southern region of Khiage
 
+## Map
+
+```leaflet
+id: khiage-map
+image: [[Khiage.jpg]]
+height: 380px
+width: 500px
+minZoom: 6
+maxZoom: 10
+defaultZoom: 7
+scale: 1
+draw: false
+```
+
+> [!info]- Map not rendering correctly? Click here.
+> ![](img/maps/Khiage.jpg)
 ## Inspiration
 - Pirates of the Caribbean
 - Treasure Planet (The cyber-punk Disney remix)
