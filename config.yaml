@@ -25,6 +25,7 @@ exclude_subfolders:
   - ".obsidian"
   - "output"
   - "dm"
+  - "dm/sessions"
   - ".DS_Store"
   - ".git"
   - "venv"
