@@ -39,7 +39,9 @@ jobs:
           echo python and dependencies installed
 
       - name: Build Site
-        run: obsidianhtml convert -i config.yaml
+        run: | 
+          rm -rf dm/*
+          obsidianhtml convert -i config.yaml
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
