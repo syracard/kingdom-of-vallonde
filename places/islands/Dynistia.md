@@ -18,7 +18,25 @@ In the years that followed, troupes from the Order of the Shara would spread out
 - Large cities settled by other religious sects
 	- [[Tyrfall]]
 	- [[Altalos]]
+	- [[Wahatan]]
 - The North-South flowing [[River Txerys]]
+## Map
+
+```leaflet
+id: dynistia
+image: [[Dynistia.jpg]]
+height: 370px
+width: 500px
+minZoom: 6
+maxZoom: 10
+defaultZoom: 7
+scale: 1
+draw: false
+```
+
+> [!info]- Map not rendering correctly? Click here.
+> ![](img/maps/Dynistia.jpg)
+
 ## Sources of Inspiration
 - The Mummy
 - Ancient first civilizations
