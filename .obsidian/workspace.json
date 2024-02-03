@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "be1c8bc4238eabbf",
+        "id": "b9e59bb23add879c",
         "type": "tabs",
         "children": [
           {
-            "id": "c62e4021bbbc83d6",
+            "id": "d885a693a51e56d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npc/people/Zumaj.md",
+                "file": "places/cities/The Combine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "npc/people/Zumaj.md",
+                "file": "places/cities/The Combine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "npc/people/Zumaj.md",
+                "file": "places/cities/The Combine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "npc/people/Zumaj.md"
+                "file": "places/cities/The Combine.md"
               }
             }
           },
@@ -188,37 +188,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c62e4021bbbc83d6",
+  "active": "05c95755214d5bee",
   "lastOpenFiles": [
+    "places/cities/Devil's Bargain.md",
+    "places/islands/Île Follette.md",
+    "places/cities/The Combine.md",
+    "places/cities/Durmastra.md",
+    "places/cities/Pathos Harbor.md",
+    "places/cities/Inscriptus.md",
+    "places/cities/Vanishing Point.md",
+    "places/cities/Eagle's Nest.md",
+    "places/islands/Delta Prime.md",
+    "img/maps/IleFollette.png",
+    "places/cities/Doubtfire.md",
+    "places/cities/Valley of Broken Temples.md",
+    "places/cities/Wahatan.md",
+    "places/islands/Dynistia.md",
+    "npc/people/Lord Emberfall.md",
+    "img/maps/EternalSea.jpg",
+    "img/maps/Khiage.jpg",
+    "img/maps/Dynistia.jpg",
+    "places/islands/Khiage.md",
+    "places/islands/Machivelia.md",
+    "places/islands/Jolastokia.md",
+    "dm/sessions/000.md",
+    "admin/session_notes/Session 0.md",
+    "admin/Session Notes.md",
+    "admin/Family Heirlooms.md",
+    "places/islands/Havangart.md",
+    "dm/sessions",
+    "npc/people/Zumaj.md",
     "lore/Artyrian Pantheon.md",
     "npc/groups/Zumaji.md",
-    "npc/people/Zumaj.md",
     "npc/groups/The Sleuth.md",
-    "places/islands/Linnæsa.md",
-    "npc/groups/The Business.md",
-    "npc/groups/The Crash.md",
-    "npc/groups/The Husk.md",
-    "places/islands/Île Follette.md",
-    "npc/groups/The Ascendent.md",
-    "npc/people/Big Bunny.md",
-    "npc/people/Composis.md",
-    "npc/people/Captain Flint.md",
-    "lore/Animen Extradition.md",
-    "Lord Emberfall.md",
-    "admin/Session Notes.md",
-    "README.md",
-    "places/landmarks/Zodiac Row.md",
-    "places/landmarks/Verdant Acres.md",
-    "places/landmarks/Uluran Plateau.md",
-    "places/landmarks/The Synaptic Highway.md",
-    "places/landmarks/The Fermenti Caverns.md",
-    "places/landmarks/The Endless Pits.md",
-    "places/landmarks/Standout River.md",
-    "places/landmarks/The Dueling Straights.md",
-    "places/landmarks/Standin River.md",
     "admin/session_notes",
     "admin",
     "img/maps/Delta_Island_Chain.jpg",
@@ -228,7 +234,6 @@
     "npc/people",
     "dm",
     "places/landmarks",
-    "places/cities",
-    "places/islands"
+    "places/cities"
   ]
 }

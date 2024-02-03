@@ -27,9 +27,30 @@ In the most recent bout of elections, an outsider named [[Tethis Rosevale]] from
 - [[New Sigil]] - an enormous metropolitan city-capital of the island
 - [[Outer Counties]] - a catch-all term for the four arms/extremities of the island. Generally, with one dominant party on each:
 	- [[East Foundry]] - Led by [[The Ascendent]]
+		- Landmarks include: [[Eagle's Nest]], [[Vanishing Point]]
 	- [[Broken Oath]] - Led by [[The Defiant]]
+		- Landmarks including: [[Valley of Broken Temples]], [[Doubtfire]]
 	- [[Zodiac Row]] - Led by [[The Fated]]
+		- Landmarks including: [[Inscriptus]], [[Devil's Bargain]]
 	- [[South Crucible]] - Led by a mix of the three lesser parties
+		- Landmarks including: [[Pathos Harbor]], [[Durmastra]], [[The Combine]]
+
+## Map
+
+```leaflet
+id: ile-follette
+image: [[IleFollette.png]]
+height: 500px
+width: 500px
+minZoom: 6
+maxZoom: 10
+defaultZoom: 7
+scale: 1
+draw: false
+```
+
+> [!info]- Map not rendering correctly? Click here.
+> ![](img/maps/IleFollette.png)
 
 ## Inspiration
 - Film Noir
