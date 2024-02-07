@@ -20,6 +20,24 @@ Early explorers of the Pits encountered strange mechanical exoskeletons - inform
 - [[The Synaptic Highway]]
 - [[The Dueling Straights]] - The site of all sanctioned Mech-Duels
 
+
+## Map
+
+```leaflet
+id: corosiva-map
+image: [[Corosiva.jpg]]
+height: 380px
+width: 500px
+minZoom: 6
+maxZoom: 10
+defaultZoom: 7
+scale: 1
+draw: false
+```
+
+> [!info]- Map not rendering correctly? Click here.
+> ![](img/maps/Corosiva.jpg)
+
 ## Inspiration
 - Jakku from Star Wars
 - Warhammer 40K
