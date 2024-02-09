@@ -8,7 +8,7 @@
 ## PC Creation
 
 1. Design your character at **level 3**.
-    - We will roll for stats together at [[admin/session_notes/Session 0]]. TBD on which method we will use, but right now I'm favoring something with high variance but also "stronger" than Standard Array (15, 14, 13, 12, 10, 8; Avg: 12)
+    - We will roll for stats together at [[Session 0]]. TBD on which method we will use, but right now I'm favoring something with high variance but also "stronger" than Standard Array (15, 14, 13, 12, 10, 8; Avg: 12)
 2. As a part of your unique lived experience, background, skill set, or back story, select one (free) feat. 
     - Homebrew feats/edits to existing feats allowed - just run it by me so they’re not disproportionately strong 
     - Here’s a [biased ranked list](https://arcaneeye.com/players/dnd-5e-feats-tier-list/) of all published feats as of Fall 2023 for your reference.

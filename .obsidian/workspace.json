@@ -10,10 +10,24 @@
           {
             "id": "d885a693a51e56d3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/cities/The Combine.md",
+                "file": "dm/sessions/Session 0.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d71baa51f32a926a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "admin/session_notes/Session 0 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places/cities/The Combine.md",
+                "file": "dm/sessions/Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "places/cities/The Combine.md",
+                "file": "dm/sessions/Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "places/cities/The Combine.md"
+                "file": "dm/sessions/Session 0.md"
               }
             }
           },
@@ -192,17 +206,23 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "05c95755214d5bee",
+  "active": "d885a693a51e56d3",
   "lastOpenFiles": [
+    "img/maps/Havangart.jpg",
+    "admin/session_notes/Session 0 Notes.md",
+    "dm/sessions/Session 0.md",
+    "admin/Session Notes.md",
+    "places/cities/Flintpoint Harbor.md",
+    "places/islands/Corosiva.md",
+    "places/islands/Delta Prime.md",
+    "places/cities/The Combine.md",
     "places/cities/Devil's Bargain.md",
     "places/islands/Île Follette.md",
-    "places/cities/The Combine.md",
     "places/cities/Durmastra.md",
     "places/cities/Pathos Harbor.md",
     "places/cities/Inscriptus.md",
     "places/cities/Vanishing Point.md",
     "places/cities/Eagle's Nest.md",
-    "places/islands/Delta Prime.md",
     "img/maps/IleFollette.png",
     "places/cities/Doubtfire.md",
     "places/cities/Valley of Broken Temples.md",
@@ -215,16 +235,10 @@
     "places/islands/Khiage.md",
     "places/islands/Machivelia.md",
     "places/islands/Jolastokia.md",
-    "dm/sessions/000.md",
-    "admin/session_notes/Session 0.md",
-    "admin/Session Notes.md",
     "admin/Family Heirlooms.md",
     "places/islands/Havangart.md",
     "dm/sessions",
     "npc/people/Zumaj.md",
-    "lore/Artyrian Pantheon.md",
-    "npc/groups/Zumaji.md",
-    "npc/groups/The Sleuth.md",
     "admin/session_notes",
     "admin",
     "img/maps/Delta_Island_Chain.jpg",
