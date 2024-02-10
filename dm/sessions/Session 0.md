@@ -52,7 +52,9 @@
 	- Famous/celebrity?
 	- Political person?
 	- Powerful person (military, skill-based, magical, otherwise)?
-- Let's seed some rumors and legends into the world. What are some quests that your character has heard about that?
+- What's something your character is scared of? Why?
+- Imagine this is the second character you're rolling up for Artyrix. What happened to the first one?
+- Let's seed some rumors and legends into the world. What are some folk stories that your character has heard about that?
 	- Known location?
 	- Unknown location?
 	- Known figure?

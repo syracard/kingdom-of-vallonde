@@ -23,6 +23,24 @@ At the conclusion of the [[Animen Extradition]], life on [[Linnæsa]] tried to r
 - [[Verdant Acres]] - the interior, fertile region surrounding the [[Emerald Volcano]]
 - [[Uluran Plateau]] - the western region of the island bordering the [[Verdant Acres]]
 - [[Parthin]] - the southern-most city of [[Linnæsa]], nestled on the [[Bindo Lagoon]]
+
+
+## Map
+
+```leaflet
+id: linnaesa-map
+image: [[Linnaesa.jpg]]
+height: 380px
+width: 500px
+minZoom: 6
+maxZoom: 10
+defaultZoom: 7
+scale: 1
+draw: false
+```
+
+> [!info]- Map not rendering correctly? Click here.
+> ![](img/maps/Linnaesa.jpg)
 ## Inspiration
 - **1984**/**Animal Farm**
 - Narnia

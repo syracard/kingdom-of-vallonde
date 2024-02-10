@@ -32,8 +32,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a436de1f6b0a8c7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "places/islands/Khiage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0859ae82d910cb2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "places/islands/Linnæsa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dm/sessions/Session 0.md",
+                "file": "places/islands/Linnæsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dm/sessions/Session 0.md",
+                "file": "places/islands/Linnæsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dm/sessions/Session 0.md"
+                "file": "places/islands/Linnæsa.md"
               }
             }
           },
@@ -206,11 +231,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d885a693a51e56d3",
+  "active": "05c95755214d5bee",
   "lastOpenFiles": [
+    "dm/sessions/Session 0.md",
+    "places/islands/Khiage.md",
+    "places/islands/Linnæsa.md",
+    "img/maps/Linnaesa.jpg",
     "img/maps/Havangart.jpg",
     "admin/session_notes/Session 0 Notes.md",
-    "dm/sessions/Session 0.md",
     "admin/Session Notes.md",
     "places/cities/Flintpoint Harbor.md",
     "places/islands/Corosiva.md",
@@ -232,7 +260,6 @@
     "img/maps/EternalSea.jpg",
     "img/maps/Khiage.jpg",
     "img/maps/Dynistia.jpg",
-    "places/islands/Khiage.md",
     "places/islands/Machivelia.md",
     "places/islands/Jolastokia.md",
     "admin/Family Heirlooms.md",
