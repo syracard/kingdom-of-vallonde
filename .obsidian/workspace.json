@@ -34,31 +34,32 @@
             }
           },
           {
-            "id": "a436de1f6b0a8c7f",
+            "id": "ee8a84856ea11a94",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/islands/Khiage.md",
+                "file": "lore/Geography of Artyrix.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "0859ae82d910cb2f",
+            "id": "3aa6d36f61f848c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/islands/Linnæsa.md",
+                "file": "lore/The Dwindling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "places/islands/Linnæsa.md",
+                "file": "dm/sessions/Session 0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "places/islands/Linnæsa.md",
+                "file": "dm/sessions/Session 0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "places/islands/Linnæsa.md"
+                "file": "dm/sessions/Session 0.md"
               }
             }
           },
@@ -231,41 +232,41 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "05c95755214d5bee",
+  "active": "d885a693a51e56d3",
   "lastOpenFiles": [
+    "img/maps/NorthernBarrierIslands.jpg",
+    "lore/Geography of Artyrix.md",
     "dm/sessions/Session 0.md",
-    "places/islands/Khiage.md",
+    "Krystabald.md",
+    "lore/The Dwindling.md",
+    "Sybil.md",
+    "admin/Family Heirlooms.md",
+    "lore/Artyrian Pantheon.md",
+    "places/islands/Île Follette.md",
+    "Untitled.md",
+    "places/islands/Havangart.md",
+    "npc/groups/The Kismet.md",
     "places/islands/Linnæsa.md",
+    "admin/session_notes/Session 0 Notes.md",
+    "places/islands/Khiage.md",
     "img/maps/Linnaesa.jpg",
     "img/maps/Havangart.jpg",
-    "admin/session_notes/Session 0 Notes.md",
     "admin/Session Notes.md",
     "places/cities/Flintpoint Harbor.md",
     "places/islands/Corosiva.md",
     "places/islands/Delta Prime.md",
     "places/cities/The Combine.md",
     "places/cities/Devil's Bargain.md",
-    "places/islands/Île Follette.md",
     "places/cities/Durmastra.md",
     "places/cities/Pathos Harbor.md",
     "places/cities/Inscriptus.md",
     "places/cities/Vanishing Point.md",
     "places/cities/Eagle's Nest.md",
     "img/maps/IleFollette.png",
-    "places/cities/Doubtfire.md",
-    "places/cities/Valley of Broken Temples.md",
-    "places/cities/Wahatan.md",
-    "places/islands/Dynistia.md",
-    "npc/people/Lord Emberfall.md",
     "img/maps/EternalSea.jpg",
     "img/maps/Khiage.jpg",
     "img/maps/Dynistia.jpg",
-    "places/islands/Machivelia.md",
-    "places/islands/Jolastokia.md",
-    "admin/Family Heirlooms.md",
-    "places/islands/Havangart.md",
     "dm/sessions",
-    "npc/people/Zumaj.md",
     "admin/session_notes",
     "admin",
     "img/maps/Delta_Island_Chain.jpg",
