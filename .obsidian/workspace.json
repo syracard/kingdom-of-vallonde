@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dm/sessions/Session 0.md",
+                "file": "lore/The Dwindling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dm/sessions/Session 0.md",
+                "file": "lore/The Dwindling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dm/sessions/Session 0.md"
+                "file": "lore/The Dwindling.md"
               }
             }
           },
@@ -232,18 +233,18 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d885a693a51e56d3",
+  "active": "3aa6d36f61f848c2",
   "lastOpenFiles": [
+    "Untitled.md",
+    "dm/sessions/Session 0.md",
     "img/maps/NorthernBarrierIslands.jpg",
     "lore/Geography of Artyrix.md",
-    "dm/sessions/Session 0.md",
     "Krystabald.md",
     "lore/The Dwindling.md",
     "Sybil.md",
     "admin/Family Heirlooms.md",
     "lore/Artyrian Pantheon.md",
     "places/islands/Île Follette.md",
-    "Untitled.md",
     "places/islands/Havangart.md",
     "npc/groups/The Kismet.md",
     "places/islands/Linnæsa.md",
