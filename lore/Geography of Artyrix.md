@@ -23,16 +23,17 @@ The current minor islands of Artyrix include:
 - [[Havangart]]
 - [[The Northern Barrier Islands]]
 
-## General Layout
+## World Map
 
-This will turn into an actual map at some point. But until then...
+![](img/maps/artyrix_full.png)
 
-|  |  |  |  |  | [[The Northern Barrier Islands]] |  |  |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|  |  |  | [[Île Follette]] |  |  |  |  |
-|  |  |  |  |  |  |  | [[Dynistia]] |
-|  | [[Khiage]] |  |  |  |  |  |  |
-|  |  | [[Havangart]] |  | [[Machivelia]] |  |  |  |
-|  |  |  |  |  |  | [[Delta Prime]] |  |
-| [[Corosiva]] |  |  |  |  |  |  |  |
-|  |  |  | [[Linnæsa]] |  |  |  |  |
+> [!info]- Map not rendering correctly? Click here.
+> |  |  |  |  |  | [[The Northern Barrier Islands]] |  |  |
+> | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+> |  |  |  | [[Île Follette]] |  |  |  |  |
+> |  |  |  |  |  |  |  | [[Dynistia]] |
+> |  | [[Khiage]] |  |  |  |  |  |  |
+> |  |  | [[Havangart]] |  | [[Machivelia]] |  |  |  |
+> |  |  |  |  |  |  | [[Delta Prime]] |  |
+> | [[Corosiva]] |  |  |  |  |  |  |  |
+> |  |  |  | [[Linnæsa]] |  |  |  |  |
