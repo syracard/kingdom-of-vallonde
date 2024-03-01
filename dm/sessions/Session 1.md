@@ -49,3 +49,35 @@ Something...mysterious and thematic?
 	- https://krfurlong.github.io/bestiary/creature/kuo-toa-monitor
 	- **_Corrupting Smite._** Melee Weapon Attack: +6 to hit, reach 5ft., one target. Hit: 7 (1d6 + 2) bludgeoning damage plus 7 (2d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with necrotic fever. The cursed target can’t regain hit points, and its hit point maximum decreases by 7 (2d6) for every 24 hours that elapse. If the curse reduces the target’s hit point maximum to 0, the target dies. The curse lasts until removed by the remove curse spell or other magic.
 
+## Exploring Pontecita
+
+> Safest path through the island to follow the tracks of \insert NPC of interest\ is: **25, 22, 18, 13, 14, 20**.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25. The starting beach and the scene of the initial Kuo-Toa led combat. Also the site of [[Taruk's Tiny Tiki Taverna]].
+
+
+![](img/maps/isle_pontecita.png)
