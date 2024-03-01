@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d885a693a51e56d3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/sessions/Session 0.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d71baa51f32a926a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "admin/session_notes/Session 0 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ee8a84856ea11a94",
             "type": "leaf",
             "pinned": true,
@@ -48,19 +22,33 @@
             }
           },
           {
-            "id": "3aa6d36f61f848c2",
+            "id": "00247c64d16dd16a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/sessions/Session 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e6c102fc4b548bef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/The Dwindling.md",
+                "file": "dm/sessions/Session 0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lore/The Dwindling.md",
+                "file": "dm/sessions/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lore/The Dwindling.md",
+                "file": "dm/sessions/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,32 +154,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lore/The Dwindling.md"
+                "file": "dm/sessions/Session 1.md"
               }
-            }
-          },
-          {
-            "id": "98e246ae76682415",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
-            "id": "5b522eb1f33e3197",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "7ad2975bdb095a48",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {}
             }
           },
           {
@@ -205,16 +169,9 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "85820f0fd8cccf25",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -233,22 +190,28 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "3aa6d36f61f848c2",
+  "active": "00247c64d16dd16a",
   "lastOpenFiles": [
-    "Untitled.md",
     "dm/sessions/Session 0.md",
-    "img/maps/NorthernBarrierIslands.jpg",
+    "dm/sessions/Session 1.md",
+    "places/islands/Île Follette.md",
+    "npc/groups/The Kismet.md",
+    "places/islands/Havangart.md",
+    "pc/Aoife.md",
+    "pc/Kailani.md",
     "lore/Geography of Artyrix.md",
-    "Krystabald.md",
+    "README.md",
+    "dm/quests",
+    "admin/session_notes/Session 0 Notes.md",
+    "pc/Bugsy.md",
+    "pc/Krystabald.md",
+    "pc/Sybil.md",
+    "pc",
     "lore/The Dwindling.md",
-    "Sybil.md",
+    "img/maps/NorthernBarrierIslands.jpg",
     "admin/Family Heirlooms.md",
     "lore/Artyrian Pantheon.md",
-    "places/islands/Île Follette.md",
-    "places/islands/Havangart.md",
-    "npc/groups/The Kismet.md",
     "places/islands/Linnæsa.md",
-    "admin/session_notes/Session 0 Notes.md",
     "places/islands/Khiage.md",
     "img/maps/Linnaesa.jpg",
     "img/maps/Havangart.jpg",
@@ -259,10 +222,6 @@
     "places/cities/The Combine.md",
     "places/cities/Devil's Bargain.md",
     "places/cities/Durmastra.md",
-    "places/cities/Pathos Harbor.md",
-    "places/cities/Inscriptus.md",
-    "places/cities/Vanishing Point.md",
-    "places/cities/Eagle's Nest.md",
     "img/maps/IleFollette.png",
     "img/maps/EternalSea.jpg",
     "img/maps/Khiage.jpg",
@@ -275,8 +234,6 @@
     "Untitled",
     "npc/groups",
     "npc/people",
-    "dm",
-    "places/landmarks",
-    "places/cities"
+    "dm"
   ]
 }

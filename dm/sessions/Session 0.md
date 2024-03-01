@@ -116,6 +116,7 @@
 	- Lead from a case, lucrative opportunity elsewhere?
 	- Heading to [[Khiage]]
 - [[Aoife]] starting in [[Khiage]]; Chilling with pirates
+	- Sailing south to northern khiage
 
 ## Debt
 - 1100 [[Bugsy]]
@@ -125,4 +126,13 @@
 - 1300 [[Aoife]]
 
 
+## Stats
 
+
+|  | 1 | 2 | 3 | 4 | 5 | 6 | total |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Mike | 9 | 10 | 16 | 16 | 18 | 20 | 89 |
+| Lindsay | 10 | 11 | 7 | 16 | 20 | 20 | 84 |
+| Lauren | 12 | 10 | 12 | 14 | 18 | 14 | 80 |
+| Mary | 9 | 11 | 7 | 13 | 26 | 13 | 79 |
+| Rei | 8 | 11 | 15 | 15 | 18 | 20 | 87 |
