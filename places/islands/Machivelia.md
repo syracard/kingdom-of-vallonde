@@ -1,4 +1,4 @@
-#place #majorisland
+,#place #majorisland
 
 > _Power and greed...are one and the same. Each is earned._
 ## History

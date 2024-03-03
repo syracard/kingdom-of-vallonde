@@ -24,24 +24,22 @@
           {
             "id": "00247c64d16dd16a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/sessions/Session 1.md",
+                "file": "admin/session_notes/Session 1 Notes.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "e6c102fc4b548bef",
+            "id": "fbf7c7a4c849aa2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/sessions/Session 0.md",
+                "file": "places/islands/Machivelia.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dm/sessions/Session 1.md",
+                "file": "admin/session_notes/Session 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dm/sessions/Session 1.md",
+                "file": "admin/session_notes/Session 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dm/sessions/Session 1.md"
+                "file": "admin/session_notes/Session 1 Notes.md"
               }
             }
           },
@@ -192,17 +190,33 @@
   },
   "active": "00247c64d16dd16a",
   "lastOpenFiles": [
-    "dm/sessions/Session 0.md",
+    "Dimensional Penitentiary.md",
+    "admin/session_notes/Session 1 Notes.md",
+    "Ralph Midcliff.md",
+    "Captain Garvin.md",
+    "admin/session_notes/Session 0 Notes.md",
+    "admin/Session Notes.md",
     "dm/sessions/Session 1.md",
+    "dm/puzzles/31DAC500",
+    "places/islands/Machivelia.md",
+    "lore/Artyrian Mysticism.md",
+    "npc/people/Lord Emberfall.md",
+    "dm/sessions/Session 0.md",
+    "dm/puzzles/BB962500",
+    "lore/Geography of Artyrix.md",
+    "dm/puzzles/~$pontecita_puzzle.xlsx",
+    "dm/puzzles/pontecita_puzzle.xlsx",
+    "dm/puzzles",
+    "dm/DM Session Index.md",
+    "lore/Artyrian Pantheon.md",
+    "img/maps/isle_pontecita.png",
     "places/islands/Île Follette.md",
     "npc/groups/The Kismet.md",
     "places/islands/Havangart.md",
     "pc/Aoife.md",
     "pc/Kailani.md",
-    "lore/Geography of Artyrix.md",
     "README.md",
     "dm/quests",
-    "admin/session_notes/Session 0 Notes.md",
     "pc/Bugsy.md",
     "pc/Krystabald.md",
     "pc/Sybil.md",
@@ -210,18 +224,9 @@
     "lore/The Dwindling.md",
     "img/maps/NorthernBarrierIslands.jpg",
     "admin/Family Heirlooms.md",
-    "lore/Artyrian Pantheon.md",
     "places/islands/Linnæsa.md",
-    "places/islands/Khiage.md",
     "img/maps/Linnaesa.jpg",
     "img/maps/Havangart.jpg",
-    "admin/Session Notes.md",
-    "places/cities/Flintpoint Harbor.md",
-    "places/islands/Corosiva.md",
-    "places/islands/Delta Prime.md",
-    "places/cities/The Combine.md",
-    "places/cities/Devil's Bargain.md",
-    "places/cities/Durmastra.md",
     "img/maps/IleFollette.png",
     "img/maps/EternalSea.jpg",
     "img/maps/Khiage.jpg",
@@ -229,11 +234,6 @@
     "dm/sessions",
     "admin/session_notes",
     "admin",
-    "img/maps/Delta_Island_Chain.jpg",
-    "img/maps",
-    "Untitled",
-    "npc/groups",
-    "npc/people",
-    "dm"
+    "img/maps/Delta_Island_Chain.jpg"
   ]
 }
