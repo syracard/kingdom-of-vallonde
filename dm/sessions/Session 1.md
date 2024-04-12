@@ -1,7 +1,6 @@
 Date: 2/25/2024
-Title: ?
+Title: **A Soppy Start**
 <hr>
-
 ## A Soppy Start
 
 >The Eternal Sea. An enormous body of water that drives apart people, separates distinct cultures, and forces individuals to think for themselves. And yet, the ocean is also a great unifier: all who brave it face the same dangers. It connects everyone - despite these perils - and allows people, ideas, and culture to be shared around the world. There is something...striking about these waters. There is power in what is hidden deep in the watery abyss below. There is wisdom in knowing when to surge forward into the unknown; and knowing when to call the search off full-stop. There are stories to be told upon these waters, _concerning_ these waters, and about those who become the source of legend who travel upon it. 
@@ -92,6 +91,7 @@ as you all feel your ships lurch from beneath you, the wave impacts your sides a
 7. Jungle - Thick vines require significant effort to carve through: Con save DC13 or 1pt exhaustion
 8. Jungle - Displacer beast family (1 normal + 2 at half HP, 1 attack each)
 9. Marshy/swamp - a wide variety of odd looking mushrooms grow here. Many are completely harmless and can sustain an individual for a day (DC13 Inv check to find); DC14 Surv check to discern whether they're poisonous or not
+	- Also, quicksand?
 10. Beach - lots of seaweed blown in from the storm, overturned trees. [Corpse candle](https://krfurlong.github.io/bestiary/creature/corpse-candle) floats just on the waters edge as if to lure people in.
 11. A hidden grotto between the jungle and mountains feat. a legit mermaid [[Caspianna]] who's trapped in this small lake. No immediately viable way to get her out - perhaps through the river though?
 12. Caves nestled among higher peaks and jungle area: an offshoot group of Kuo-Toas followers, who are actively worshiping the medusa in #17 after seeing it turn one of their own into stone.
@@ -100,8 +100,9 @@ as you all feel your ships lurch from beneath you, the wave impacts your sides a
 14. Traversing the more mountainous terrain here requires a Con Save DC11 or 1pt of exhaustion; At the end of the trail, a large cave/tunnel meets the group with a camp visibly set up inside 
     Koa-Toa _Archpriest_ + 2 normal kuo-toas. **Very dangerous encounter.** Archpriest Yumagluglug willing to converse with party, investigate the inner chamber. They're afraid of going in because they saw an intense arcane flash and don't want to upset their presumed god.
     There are some 
-15. Southern beach - forested leading to a decent (50ft) sheer cliff. Higher likelihood to flag down [[Havangart]] bound vessels. High density of vines here indicates maybe building a raft here would be more likely...
+15. Southern beach - forested leading to a decent (120ft) sheer cliff. Higher likelihood to flag down [[Havangart]] bound vessels. High density of vines here indicates maybe building a raft here would be more likely...
 	    Potential combat: Assassin vine + 2 vine vipers.
+	    Emberfall's boat hidden among the trees here
 16. The stream here flows clear and could be a source of drinking water. Small beasts also attracted to this area of rolling hills. Potentially flag down a [[Khiage]] - [[Machivelia]] vessel.
 17. **Medusa lair** - strange jungle terrain ground shift suddenly from dirt to small pieces of stone. Rumors/notes around the entrance to a dark cave seem to imply that a good bit of wealth may be held within...Maybe just a map to the treasure hidden in #2
 18. Dirt path leading to an Intersection - paths to #17, #13, #22, and #19 next to the bank of a small stream.
@@ -136,42 +137,9 @@ If the party opts to rest (long or short), one of the following occurs:
 
 ### Navigational Puzzle
 
-Riddle/Instructions - again seemingly hidden within a textbook entry:
-> Whirlpools, unsurprisingly, are common among the waters of the [[Eternal Sea]], and as such, any experienced captain should know how to avoid them entirely. For those unlucky souls caught in the abyssal riptide, their fates are cast in stone: their paths never again destined to cross itself as the current pulls them ever inward and downward, encircling them until the meet their doom.
+See the [[Pontecita Navigational Puzzle]]. 
 
-> We set off from from solid land facing the water blue
-> Going as far as we could until the waters turned green.
-> Yet the skies on the horizon had already turned black,
-> Never more would we see the forests so green.
-
-> The waters below churned and spewed ever azure
-> While the fires held by deckhands burned red
-> How dark things grew - like a fog made of soot
-> How we yearned to see the bright rays of sun
-
-> Yet there we were, sinking deeper into darkness
-> Cursing our greed, our envy so green
-> Such waters of night
-> Our blood coursing crimson
-> Only to dry the most darkest of shades
-
-> I'll remember the peaceful waves of the sea.
-> I'll remember my lover's sweet blush.
-> Even if the sea takes me downward to death.
-> I'll arise and warn others, my tale's like the phoenix,
-> Arising once again from the deepest of sapphires.
-
-
-**Solution**:
-Keep river on right, but19 
-stay straight at signpost
-but in timber cover
-before find high peaks
-press up and into volcano
-
+## End of the Session
 
 > Party stops just entering 14!!
-> KAI IS cursed
-## Lord Emberfall's Workshop
-
-> As you pass through the 
+> KAI IS cursed (HP max is reduced by 2d6 every long rest.)

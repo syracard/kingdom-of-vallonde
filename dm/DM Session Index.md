@@ -6,4 +6,4 @@ DM note to track the flow of sessions.
 
 - [[Session 0]]
 - [[Session 1]]
-- 
+- [[Session 2]]
