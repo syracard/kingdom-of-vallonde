@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bafe468b913f6ae0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/sessions/Session 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d64ca9c8b6c20718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b31ebc85a638442",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/sessions/Session 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 3.md",
+                "file": "lore/adventuring_info/Pontecita TE Journal Entry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 3.md",
+                "file": "lore/adventuring_info/Pontecita TE Journal Entry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 3.md"
+                "file": "lore/adventuring_info/Pontecita TE Journal Entry.md"
               }
             }
           }
@@ -197,13 +160,17 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d64ca9c8b6c20718",
+  "active": "05c95755214d5bee",
   "lastOpenFiles": [
-    "places/islands/Machivelia.md",
+    "npc/people/Miranda Barnibas.md",
+    "lore/adventuring_info",
     "dm/sessions/Session 2.md",
-    "Session 3.md",
+    "dm/sessions/Session 3.md",
+    "places/islands/Khiage.md",
+    "admin/Session Notes.md",
     "dm/sessions/Session 1.md",
-    "Pontecita TE Journal Entry.md",
+    "places/islands/Machivelia.md",
+    "lore/adventuring_info/Pontecita TE Journal Entry.md",
     "npc/people/Lord Emberfall.md",
     "lore/Artyrian Pantheon.md",
     "img/maps/pontecita_region.png",
@@ -223,17 +190,13 @@
     "places/landmarks/Dimensional Penitentiary.md",
     "npc/people/Captain Garvin.md",
     "admin/session_notes/Session 0 Notes.md",
-    "admin/Session Notes.md",
     "dm/puzzles/31DAC500",
     "lore/Artyrian Mysticism.md",
-    "dm/sessions/Session 0.md",
     "dm/puzzles/BB962500",
     "dm/puzzles/~$pontecita_puzzle.xlsx",
     "dm/puzzles/pontecita_puzzle.xlsx",
     "dm/puzzles",
     "img/maps/isle_pontecita.png",
-    "places/islands/Île Follette.md",
-    "npc/groups/The Kismet.md",
     "dm/quests",
     "pc",
     "img/maps/NorthernBarrierIslands.jpg",
@@ -243,7 +206,6 @@
     "img/maps/EternalSea.jpg",
     "img/maps/Khiage.jpg",
     "dm/sessions",
-    "admin/session_notes",
-    "admin"
+    "admin/session_notes"
   ]
 }

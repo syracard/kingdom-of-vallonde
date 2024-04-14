@@ -84,7 +84,7 @@ _Regardless, what I needed was a place - a laboratory - away from the prying eye
 [[Lord Emberfall]]'s discarded note/location his ship in within the volcano provides a clue as to a way off the island...
 ### Ship Captains in the region
 1. [[Tobias Whalesong]] - triton captain, sailing between [[Linnæsa]] and [[Khiage]] aboard the Melodic Concord
-2. [[Miranda Barnibas]] - half-elven pirate/corsair sailing frequent routes between [[Khiage]] and [[Havangart]]
+2. [[Miranda Barnibas]] - half-elven pirate/corsair sailing frequent routes between [[Khiage]] and [[Corosiva]]
 3. [[Txemas Scarletson]] - Elven captain, dealt with multiple mutinies and has lost the use of his left eye due to a large scar across it; Hard around the edges, but looks after his men provided they keep in line
 4. [[Veena Autumnshade]] - female deep-gnome from [[Machivelia]]; frequents travel between the northern/western parts of that islands and around [[Havangart]]. Cheery - though quick to negotiate with pirates 
 ## End of the Session

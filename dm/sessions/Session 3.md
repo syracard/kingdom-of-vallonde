@@ -20,6 +20,11 @@ _(The volcano kicks  up a large plume of brackish, yellow smoke...)_
 	- East goes towards Teg, the Lake Troll
 	- West goes towards a rather precarious swamp
 
+Aoife, 
+Bugsy
+Sybil
+Kai
+Kryst
 ### Leaving through the Swamp
 > Journeying westward towards what you only presume to be the lowlands, the ground beneath you gets softer and more most: gradually at first, but increasingly sopping wet as you carry the boat to water. 
 
@@ -63,3 +68,8 @@ Complications (in order of badness)
 		- 1 opens the bottom out of the platform
 		- Also: 3 buttons that "lock" each of the settings above?
 	- 25 by 25 ft in size platform at the base of the 100ft cliff
+ 
+## End of the Session
+- Kai is still cursed! Wakes up and is down to 12 HP!
+- Party is _unintentionally_ headed south, towards [[Corosiva]]
+- [[Miranda Barnibas]] 
