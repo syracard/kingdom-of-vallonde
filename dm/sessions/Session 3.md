@@ -1,5 +1,5 @@
 Date: 4/12/2024
-Title: ?
+Title: Boat Logic Escapes Us
 <hr>
 
 > You all emerge from the long tunnel exiting the volcano - You were not inside of it long, though even in the few hours since delving inward, the temperature and humidity of the island swelled substantially, and it only takes but a moment upon your departure from the dry volcanic vent until your clothes once again begin uncomfortably sticking to your back and sagging with the weight of the tepid air.

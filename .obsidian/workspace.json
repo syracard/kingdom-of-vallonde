@@ -4,22 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "b9e59bb23add879c",
+        "id": "293c1121c62205f6",
         "type": "tabs",
         "children": [
           {
-            "id": "fbf7c7a4c849aa2f",
+            "id": "0b87c556e51805dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/islands/Machivelia.md",
+                "file": "npc/people/General Lutskyiv.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5f06c82a9e07fdb",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/sessions/Session 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f79c7b968c212f76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/DM Session Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66080ac2c7141fb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/quests/A Courtly Summoning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,12 +130,12 @@
             }
           },
           {
-            "id": "8f183b2701e250e7",
+            "id": "953c4e0dbea8df6e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lore/adventuring_info/Pontecita TE Journal Entry.md",
+                "file": "dm/quests/A Courtly Summoning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,19 +147,19 @@
             }
           },
           {
-            "id": "2eff3a0c988d38d5",
+            "id": "8e9ec9be5173fe5f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lore/adventuring_info/Pontecita TE Journal Entry.md",
+                "file": "dm/quests/A Courtly Summoning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3a8d69d53bb9b714",
+            "id": "0033e2df6df5e9e7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -132,12 +171,12 @@
             }
           },
           {
-            "id": "ea68401f89d5a764",
+            "id": "5d21be3fb55622b1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "lore/adventuring_info/Pontecita TE Journal Entry.md"
+                "file": "dm/quests/A Courtly Summoning.md"
               }
             }
           }
@@ -162,49 +201,50 @@
   },
   "active": "05c95755214d5bee",
   "lastOpenFiles": [
+    "dm/sessions/Session 5.md",
+    "dm/quests/A Courtly Summoning.md",
+    "npc/people/Pontif Rogana.md",
+    "npc/people/Big Bunny.md",
     "npc/people/Miranda Barnibas.md",
-    "lore/adventuring_info",
-    "dm/sessions/Session 2.md",
+    "npc/groups/The Black Lapis.md",
+    "places/cities/Faciv.md",
+    "places/islands/Corosiva.md",
+    "dm/DM Session Index.md",
+    "Steward Rast Brecchiason.md",
+    "dm/sessions/Session 4.md",
+    "img/maps/Dynistia.jpg",
     "dm/sessions/Session 3.md",
+    "dm/sessions/Session 2.md",
+    "dm/sessions/Session 1.md",
+    "img/maps/faciv.png",
+    "places/landmarks/The Synaptic Highway.md",
+    "img/maps/Corosiva.jpg",
+    "npc/people/General Lutskyiv.md",
+    "img/maps/isle_pontecita.png",
+    "lore/Artyrian Pantheon.md",
+    "dm/sessions/Session 0.md",
+    "admin/session_notes/Session 0 Notes.md",
+    "img/maps/artyrix_full.png",
+    "lore/Geography of Artyrix.md",
+    "img/maps/Khiage.jpg",
+    "Galin Sweetgrass.md",
+    "places/islands/Machivelia.md",
+    "lore/adventuring_info",
     "places/islands/Khiage.md",
     "admin/Session Notes.md",
-    "dm/sessions/Session 1.md",
-    "places/islands/Machivelia.md",
     "lore/adventuring_info/Pontecita TE Journal Entry.md",
     "npc/people/Lord Emberfall.md",
-    "lore/Artyrian Pantheon.md",
     "img/maps/pontecita_region.png",
-    "admin/Family Heirlooms.md",
-    "npc/people/Zumaj.md",
-    "places/landmarks/Arcanum Decetto.md",
-    "pc/Bugsy.md",
-    "lore/Early Artyrian Timeline.md",
-    "pc/Aoife.md",
     "img/maps/Machivelia.jpg",
-    "img/maps/artyrix_full.png",
-    "dm/DM Session Index.md",
-    "npc/people/Ralph Midcliff.md",
-    "admin/session_notes/Session 1 Notes.md",
-    "dm/puzzles/Pontecita Navigational Puzzle.md",
-    "lore/Geography of Artyrix.md",
-    "places/landmarks/Dimensional Penitentiary.md",
-    "npc/people/Captain Garvin.md",
-    "admin/session_notes/Session 0 Notes.md",
     "dm/puzzles/31DAC500",
-    "lore/Artyrian Mysticism.md",
     "dm/puzzles/BB962500",
     "dm/puzzles/~$pontecita_puzzle.xlsx",
     "dm/puzzles/pontecita_puzzle.xlsx",
     "dm/puzzles",
-    "img/maps/isle_pontecita.png",
     "dm/quests",
     "pc",
     "img/maps/NorthernBarrierIslands.jpg",
     "img/maps/Linnaesa.jpg",
-    "img/maps/Havangart.jpg",
-    "img/maps/IleFollette.png",
-    "img/maps/EternalSea.jpg",
-    "img/maps/Khiage.jpg",
     "dm/sessions",
     "admin/session_notes"
   ]

@@ -122,7 +122,7 @@
 - 1100 [[Bugsy]]
 - 1900 [[Sybil]]
 - 900 [[Kailani]]
-- 1700 [[Krystabald]]
+- 2200 [[Krystabald]]
 - 1300 [[Aoife]]
 
 
