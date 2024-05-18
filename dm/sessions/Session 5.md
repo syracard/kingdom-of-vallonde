@@ -51,28 +51,18 @@ In rumbling **draconic** once it reaches 1k feet off, you here reverberating thr
 		- Walks around in robot-like extensions, stands closer to 8 feet tall because of it; friendly but very mercantile
 
 ### [[Faciv]]
-(Eventually transition this to public page)
-
-Main description: Upon exiting the hubbub of the port and harbor, you all gaze ahead of you and upward to a sight largely unfamiliar to the majority of you. Before you, perched on top of what seems to be a mossy and strangely patterned plateau is what you can only assume to be the large city of [[Faciv]]. As you draw slightly nearer to the city, following the path of merchants and the only road in sight, your eyes adjust and realize the patterns at the distance are not cosmetic, but rather the plateau itself is _threaded_ like an enormous screw - with grooves so wide that you begin to clock and follow movement of peoples and carts as they slowly follow the circular grooves ever upward until reaching the top: the city of [[Faciv]] itself. 
-
 ![](img/maps/faciv.png)
 #### Faciv Note Boards/quests
 - Descend the Pits! Now recruiting for 1, 2, and 3- month tours of duty. Insurance provided at no cost* to you and your family!
 	- Quest: [[Such a Pity...]]
 - Schedule of events for [[The Dueling Straights]]. Next fight is slated for tomorrow (2 to occur).
-	- Names of people fighting: Lord Arthur Tennyson vs Squire Remus Neyender
+	- Names of people fighting: Lord [[Arthur Tennyson]] vs Squire Remus Neyender
 	- [[General Lutskyiv]] vs. Baron VanBeek
-- Seeking ambitious engineers with expertise in internal combustion and maritime architecture for large-scale bridge construction - interested parties should inquire at the Lutskyiv Estate.
+- Seeking ambitious engineers with expertise in internal combustion and maritime architecture for large-scale bridge construction - interested parties should inquire at the Lutskyiv Estate: 
+	- [[A Bridge to the Future]] 
 - Escaped elk from [[Lady du Gisaal]]'s hunting grounds on the outskirts of the city - seeking aid to return them safely.
 - Errands for the Court: Run a missive across [[The Synaptic Highway]] 
 	- Quest: [[A Courtly Summoning]]
-	
-### Mechanusburg
-
-Shops taverns:
-- Shimmering Blinker (tavern), in Old Quarter
-- Worn Tablet Inn - budget
-- Blitz and Bobbles?
 ## End of Session
 - Party beds down in [[Port Ruggine]] (on their sloop) on the outskirts of [[Faciv]].
 - 
