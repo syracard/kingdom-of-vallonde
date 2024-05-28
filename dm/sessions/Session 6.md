@@ -1,14 +1,15 @@
 Date: 5/19/2024
-Title: *?*
+Title: An absconded scone (or is it scahn?)
 <hr>
 
 > You all sleep restfully - as you are gently rocked to sleep by the calm ebbs and flows of the Eternal Sea and notably out of immediate danger for the first time since finding one another. An errant bell and sporadic seagull's squak jerk a few of you awake from time to time throughout the night, but for the most part, you all arise naturally - to the unmistakable iridescence of the sun's rays glinting off of the water and casting a prismatic spray of colors across your face, as morning breaks and Port Ruggine gradually begins to liven up.
-> 
-> (who's awake first?)
-> 
+
+> (who's awake first?) --> [[Bugsy]].
+
 > As you arise from your deep slumber, you notice an auburn colored fox-like humanoid - a Vulpin ([[Kikai]]), intently watching your ship - or sloop - whilst absent mindedly whittling a piece of wood, now down to a mere splinter as you clock the small pile of wood-shaving at their feet. Upon seeing you arise, they kick off the dock post they were leaning against and casually saunter towards your vessel.
 ## Recouping Costs - and Connecting Buyers
 - Kikai leads a small but more elite scavenger ship called the [[Brazen Barnacle]]
+	- Finders fee: 20% (375 gp/scale)
 - You did recall seeing them when you were finishing off [[Miranda Barnibas]] and [[Eilif Talbjorne]]
 - Bela spoke with the corpse of Miranda and Eilif a la speak with dead. They learned the following:
 	- They were contracted to get scales - but also nagged the eggs when the opportunity presented itself.
@@ -25,12 +26,18 @@ Title: *?*
 
 Fees here run higher because of this:
 - 5gp a day - or 50gp for a fortnight.
+	- They opt for day by day.
 
  Steward [[Rast Brecchiason]] comes by shortly after their discussion with [[Kikai]] to discuss this matter.
 ## Lingering Quests
-- Selling dragon scales
-- Recapturing the prized elks
+- Selling dragon scales - to [[General Lutskyiv]]'s attendant
+- Recapturing the prized elks for [[Lady du Gisaal]]
 - Delivering some missives to around [[Delver]]
 	- [[A Courtly Summoning]]
 - Exploring [[The Endless Pits]]?
 ## End of Session
+- Group returns to their sloop for the evening to the sounds of Scandia of the [[Brazen Barnacle]] woo-ing in the night
+- Sold of the scales with the aid of [[Kikai]], interaction was...largely positive if a little slimy
+- Group herded the lost elk on behalf of [[Lady du Gisaal]]
+- At least one commission at [[Berrick Bloodrock]]'s shop was made (armor for [[Sybil]]); 
+	- Vest for [[Bugsy]]/[[Aoife]]?

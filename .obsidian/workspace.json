@@ -8,67 +8,135 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b87c556e51805dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/quests/Such a Pity....md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f79c7b968c212f76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/quests/A Bridge to the Future.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "301df96d0e5a57e0",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "places/landmarks/Screwbloods.md",
+                "file": "dm/sessions/Session 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "baf2e23afd82a97f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/sessions/Session 7.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "48668200bd38f623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/Roll a 20.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "82a279043251aee2",
+            "id": "421a04b26097e073",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/quests/Dead Teen Walking.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d08b920c40bfdb9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npc/groups/Brazen Barnacle.md",
+                "file": "npc/people/Lady du Gisaal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d1dc4592a46638fa",
+            "id": "5bdd8e167f1716a7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "places/cities/Faciv.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "970f36e0e020d00c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "npc/groups/The Black Lapis.md",
+                "file": "places/landmarks/Queen's Lace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05d9c686d85ebcb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/sessions/Session 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bbe512ac391ea86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/quests/Dead Teen Walking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb2c72c4eb12c816",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm/sessions/Session 6.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -97,8 +165,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "beek",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -114,7 +182,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dm/quests/A Bridge to the Future.md",
+                "file": "dm/sessions/Session 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dm/quests/A Bridge to the Future.md",
+                "file": "dm/sessions/Session 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dm/quests/A Bridge to the Future.md"
+                "file": "dm/sessions/Session 5.md"
               }
             }
           }
@@ -209,36 +278,36 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "05c95755214d5bee",
+  "active": "006eb62f5e999630",
   "lastOpenFiles": [
-    "dm/sessions/Session 5.md",
-    "dm/quests/A Bridge to the Future.md",
-    "npc/people/Arthur Tennyson.md",
-    "dm/quests/Such a Pity....md",
-    "places/landmarks/Screwbloods.md",
-    "places/landmarks/The Dueling Straights.md",
-    "dm/quests/A Courtly Summoning.md",
+    "places/landmarks/The Glass Hearth.md",
     "dm/sessions/Session 6.md",
-    "npc/people/General Lutskyiv.md",
-    "places/cities/Faciv.md",
-    "npc/groups/Brazen Barnacle.md",
-    "places/cities/Fivid.md",
-    "dm/quests/elk_puzzle.png",
-    "dm/quests/A Lion's Share.md",
     "dm/sessions/Session 4.md",
+    "dm/sessions/Session 5.md",
+    "dm/quests/Dead Teen Walking.md",
+    "dm/sessions/Session 7.md",
+    "npc/people/Lady du Gisaal.md",
+    "places/landmarks/Queen's Lace.md",
+    "places/cities/Faciv.md",
+    "places/cities/Doubtfire.md",
+    "dm/Roll a 20.md",
+    "npc/groups/Brazen Barnacle.md",
     "npc/groups/The Black Lapis.md",
-    "dm/DM Session Index.md",
+    "npc/people/Remus Neyender.md",
+    "admin/session_notes/Session 1 Notes.md",
     "dm/sessions/Session 2.md",
-    "places/cities/Port Ruggine.md",
-    "dm/sessions/Session 3.md",
-    "dm/quests/A Courtly Summoning 1.md",
+    "dm/sessions/Session 1.md",
+    "dm/quests/Such a Pity....md",
+    "places/landmarks/The Endless Pits.md",
+    "admin/session_notes/Session 0 Notes.md",
+    "dm/DM Session Index.md",
+    "npc/people/Berrick Bloodrock.md",
+    "npc/people/Arthur Tennyson.md",
+    "npc/people/General Lutskyiv.md",
+    "dm/puzzles/elk_puzzle.png",
+    "places/landmarks/Screwbloods.md",
+    "dm/quests/A Bridge to the Future.md",
     "img/maps/Corosiva.jpg",
-    "places/landmarks/The Synaptic Highway.md",
-    "npc/people/Pontif Rogana.md",
-    "npc/people/Big Bunny.md",
-    "npc/people/Miranda Barnibas.md",
-    "places/islands/Corosiva.md",
-    "Steward Rast Brecchiason.md",
     "img/maps/Dynistia.jpg",
     "img/maps/faciv.png",
     "img/maps/isle_pontecita.png",

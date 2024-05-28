@@ -56,8 +56,8 @@ In rumbling **draconic** once it reaches 1k feet off, you here reverberating thr
 - Descend the Pits! Now recruiting for 1, 2, and 3- month tours of duty. Insurance provided at no cost* to you and your family!
 	- Quest: [[Such a Pity...]]
 - Schedule of events for [[The Dueling Straights]]. Next fight is slated for tomorrow (2 to occur).
-	- Names of people fighting: Lord [[Arthur Tennyson]] vs Squire Remus Neyender
-	- [[General Lutskyiv]] vs. Baron VanBeek
+	- Names of people fighting: Lord [[Arthur Tennyson]] vs Squire [[Remus Neyender]]
+	- [[General Lutskyiv]] vs. Baron VanBeek (name==baron? or youngest son)
 - Seeking ambitious engineers with expertise in internal combustion and maritime architecture for large-scale bridge construction - interested parties should inquire at the Lutskyiv Estate: 
 	- [[A Bridge to the Future]] 
 - Escaped elk from [[Lady du Gisaal]]'s hunting grounds on the outskirts of the city - seeking aid to return them safely.

@@ -6,7 +6,10 @@ Upon exiting the hubbub of the port and harbor, you all gaze ahead of you and up
 ## Neighborhoods & Places of Interest
 - The Overlooks: Upper class residences for those largely in the "old money" camp of individuals
 	- [[Lady du Gisaal]]'s mansion
-	- Diamonte's: a jewelry shop well known for incorporating niche materials into their  
+	- Diamonte's: a jewelry shop well known for incorporating niche materials into their pieces of art
+	- [[The Glass Hearth]] - a tavern/tiki-bar transitioning to a sheer glass-backed performance space
+	- [[Queen's Lace]] - a music shop run by [[Annalisa de Leña]], a portly middle-aged and successful wood-elf musician, builder, trader, and collector of bardic instruments; Advocate for self-protection
+	- The [[Neyender Residence]]
 - The Upper Ward: Adjacent to the city-center, the center of political power
 	- The Court of [[Corosiva]]
 	- [[General Lutskyiv]]'s estate
@@ -18,6 +21,10 @@ Upon exiting the hubbub of the port and harbor, you all gaze ahead of you and up
 - Mechanusburg: the up-and-coming neighborhood
 	- [[Screwbloods]] - a small but well-known magic shop that looks like a screw, wedged in between two other buildings/row-houses that almost tower over the roughly 5 foot tall structure	
 	- Worn Tablet Inn - a budget tavern
+		- Jan Stolz, firbolg bar keep
+		- 1sp/beer
+	- The Leaking Keg
+		- Kevi Starrilvast, younger female gnome 
 
 ## Map
 
