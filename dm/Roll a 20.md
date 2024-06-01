@@ -5,7 +5,7 @@
 # Mike
 - 
 # Rei
-- d
+- 
 # Lauren
 - 
 # Lindsay

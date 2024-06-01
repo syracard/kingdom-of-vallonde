@@ -36,107 +36,19 @@
             }
           },
           {
-            "id": "48668200bd38f623",
+            "id": "6352b4aa8ce47c9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/Roll a 20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "421a04b26097e073",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/quests/Dead Teen Walking.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "d08b920c40bfdb9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "npc/people/Lady du Gisaal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bdd8e167f1716a7",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "places/cities/Faciv.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "970f36e0e020d00c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "places/landmarks/Queen's Lace.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05d9c686d85ebcb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/sessions/Session 5.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bbe512ac391ea86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/quests/Dead Teen Walking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb2c72c4eb12c816",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/sessions/Session 6.md",
+                "file": "admin/Session Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -182,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dm/sessions/Session 5.md",
+                "file": "admin/Session Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dm/sessions/Session 5.md",
+                "file": "admin/Session Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dm/sessions/Session 5.md"
+                "file": "admin/Session Notes.md"
               }
             }
           }
@@ -278,35 +189,35 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "006eb62f5e999630",
+  "active": "6352b4aa8ce47c9d",
   "lastOpenFiles": [
-    "places/landmarks/The Glass Hearth.md",
+    "admin/session_notes/Session 4 Notes.md",
+    "dm/sessions/Session 7.md",
+    "places/cities/Charterstown.md",
     "dm/sessions/Session 6.md",
+    "Black Lapis.md",
+    "admin/Session Notes.md",
+    "dm/Roll a 20.md",
+    "admin/session_notes/Session 3 Notes.md",
+    "admin/session_notes/Session 2 Notes.md",
+    "dm/quests/Dead Teen Walking.md",
+    "admin/session_notes/Session 1 Notes.md",
+    "places/landmarks/The Glass Hearth.md",
     "dm/sessions/Session 4.md",
     "dm/sessions/Session 5.md",
-    "dm/quests/Dead Teen Walking.md",
-    "dm/sessions/Session 7.md",
     "npc/people/Lady du Gisaal.md",
     "places/landmarks/Queen's Lace.md",
     "places/cities/Faciv.md",
     "places/cities/Doubtfire.md",
-    "dm/Roll a 20.md",
     "npc/groups/Brazen Barnacle.md",
     "npc/groups/The Black Lapis.md",
     "npc/people/Remus Neyender.md",
-    "admin/session_notes/Session 1 Notes.md",
     "dm/sessions/Session 2.md",
     "dm/sessions/Session 1.md",
     "dm/quests/Such a Pity....md",
     "places/landmarks/The Endless Pits.md",
     "admin/session_notes/Session 0 Notes.md",
-    "dm/DM Session Index.md",
-    "npc/people/Berrick Bloodrock.md",
-    "npc/people/Arthur Tennyson.md",
-    "npc/people/General Lutskyiv.md",
     "dm/puzzles/elk_puzzle.png",
-    "places/landmarks/Screwbloods.md",
-    "dm/quests/A Bridge to the Future.md",
     "img/maps/Corosiva.jpg",
     "img/maps/Dynistia.jpg",
     "img/maps/faciv.png",
