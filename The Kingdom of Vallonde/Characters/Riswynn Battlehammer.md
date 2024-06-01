@@ -1,0 +1,1 @@
+Riswynn is the youngest member of the [[Onssbruck Cartel]], only taking the leadership of her family's trading company in the past five years. 

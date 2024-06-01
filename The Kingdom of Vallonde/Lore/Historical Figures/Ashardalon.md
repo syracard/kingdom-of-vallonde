@@ -1,0 +1,5 @@
+Ashardalon was an ancient black dragon who terrorized [[Osstoria]] during the [[The Age of Dominion]]. He was old enough to still retain some of the psionic abilities that dragons had before coming to the material plane. It is unclear why, but something about this crazed him and his terror turned into destruction. 
+
+A group of heroes, led by the elf [[Athlonion]] fought him, but by the time of their conflict the dragon had already performed a ritual that connected his life force to the material plane; destroying Ashardalon would send the world into ruin. Athlonion devised a plan: he used the latent psionic energies of Ashardalon and the connection between him and the material plane to construct a prison plane that was anchored by four massive crystals. These would be interred at the homes of the adventurers who helped him: [[The Sunken Citadel]], [[Agros]], [[Abanzbazzan]], and [[Rothhold]]. 
+
+The anchors remained dormant until [[Piru, the Volatile]] devised a plan to absorb Ashardalon's power. 

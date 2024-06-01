@@ -1,0 +1,1 @@
+[[Lord Mayor Alistair Veneti]]'s official legate to oversee and govern [[Golon]]. 

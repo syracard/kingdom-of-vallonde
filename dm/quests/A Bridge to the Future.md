@@ -1,2 +1,0 @@
-#quest 
-**Premise**: [[General Lutskyiv]] is wary of continuing to rely on the boom-bust cycle of digging in [[The Endless Pits]] and increasingly sees foreign trade as a means of supplying him with the wares needed to ensure dominance on [[Corosiva]]. To that end, he's self-funding a massive infrastructure project: the construction of a rail line connecting [[Charterstown]] in [[Khiage]] with [[Faciv]], likely cutting travel time down from 3-4 days by sea to 1-2 days by rail.

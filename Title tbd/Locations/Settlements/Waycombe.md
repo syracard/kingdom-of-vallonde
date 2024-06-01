@@ -1,0 +1,5 @@
+The village of Waycombe lies in a shallow depression on the north side of the main highway. To the south, the ground slopes sharply down to the edges of [[the Great Southern Swamp]]. 
+
+Waycombe has always been known as a prosperous peasant village, but its appearance now tells you immediately that this is no longer the case. From the upper edge of the slope you can see some 28 peasants' huts scattered in clusters on both sides of the road. All but five of these have been burned down. The fields, which should be filled with crops and farmers tending those crops, contain nothing but blackened stubble. 
+
+The only building of note is a large wooden structure facing the main highway. Behind it is a large field, and near the field stands a good-sized copse. There are no signs of human inhabitation to be seen from the distance

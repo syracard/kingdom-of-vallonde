@@ -1,0 +1,3 @@
+The Duma is the legislative body of the [[Tev'ash Empire]]. It is comprised of representatives from the Dwarven clans who legislate and debate policy for the empire. It is presided over by the emperor and aids in the succession process when an emperor dies. 
+
+The building where the Duma meets is located in the city of [[Last Hearth]] on the north shore of the harbor. It is a large, marble domed building.

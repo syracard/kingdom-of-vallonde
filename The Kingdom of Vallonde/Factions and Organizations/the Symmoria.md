@@ -1,0 +1,1 @@
+The Symmoria is the gang that controls the organized crime in [[Last Hearth]] and are led by [[Aedor]]. 

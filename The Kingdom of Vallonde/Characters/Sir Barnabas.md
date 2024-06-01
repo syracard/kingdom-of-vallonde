@@ -1,0 +1,1 @@
+He is the leader of [[Duke Damsor]]'s army, stationed at [[Farbrook Castle]]. 

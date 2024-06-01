@@ -1,0 +1,1 @@
+These altars are simultaneously workbenches and places of worship to the half-ascended god, [[Yawgmoth]].  

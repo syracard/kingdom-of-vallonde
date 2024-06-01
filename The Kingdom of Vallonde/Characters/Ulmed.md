@@ -1,0 +1,3 @@
+Ulmed is the leader of the resurgent [[Ulmist Inquisition]]. Originally from [[Barovia]], Ulmed operated his inquisition before the fall of the barony and witnessed the corruption of [[Strahd]] first hand. 
+
+After fleeing Barovia, he ended up in [[The Sister Cities|Osstun]] where the father of [[Ludwig von Osstun]] gave him safe haven. This led Ulmed to dedicating himself to the von Osstun's an their cause. 

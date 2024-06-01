@@ -1,0 +1,1 @@
+The empire has historically been one of the most prominent nations on the continent of [[Osstoria]].

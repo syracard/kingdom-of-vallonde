@@ -1,0 +1,3 @@
+The Condottiere are the military and city watch of [[Dukesfane]]. 
+
+The lords of Dukesfane contrived a novel solution to resolve the tension between the lesser lords and the grand duke who ruled the city: the Condottiere are the private armies of the lords and the grand duke is barred from forming their own, but they are prevented by the strictest consequences of law from operating within the city. 

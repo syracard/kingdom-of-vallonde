@@ -1,3 +1,0 @@
-#faction 
-
-A late-forming faction almost entirely centered in the capital city of [[Fivid]], members of the Parliament first organized over the notion that peace and goodwill aught not to be monetized (e.g., as was previously the norm set out by members of [[The Business]]). As such, individuals of the faction often times nominate delegates to visit the various regions of [[Linnæsa]] in order to better understand the motivations and needs of those living there. They're diplomatic in their actions, which sometimes stands in the way of acting quickly, yet they nonetheless value dialogue, empathy, peace, and a single, unified [[Linnæsa]] political system.

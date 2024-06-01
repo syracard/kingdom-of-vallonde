@@ -1,0 +1,1 @@
+Githyanki dispatched to [[Abanzbazzan]]

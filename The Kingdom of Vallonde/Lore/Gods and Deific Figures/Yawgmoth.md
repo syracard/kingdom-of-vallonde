@@ -1,0 +1,3 @@
+Yawgmoth was a heretical Dwarf who lived during the height of the [[Tev'ash Empire]]. 
+
+He was a researcher of artifice and sought to 'improve' the Dwarven body by replacing biological features with the arcane machinery that he was developing. Eventually he formed a cult as he gained power and while his deification ritual was interrupted, he was not fully destroyed. His spirit remained and became a patron for radical Dwarven researchers who wanted to push the bounds of what was possible within the empire. After some time a group of heroes imprisoned him on a demiplane that would contain his essence and his name was struck from Dwarven history as much as was possible. 

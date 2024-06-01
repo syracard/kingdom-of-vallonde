@@ -1,0 +1,3 @@
+Aegleforth is an elder Grand Duke of [[Dukesfane]]. He has led the city through the victory over the goblinoids as well as the strengthening of the bonds of [[The Republican Alliance]]. 
+
+It was reported that he was particularly close with [[General Athlonia]] and while he will dismiss those rumors, the truth is that his eldest son, [[Aethward]], was born to Athlonia and not the duke's lawful wife. 

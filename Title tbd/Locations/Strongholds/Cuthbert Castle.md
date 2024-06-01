@@ -1,0 +1,1 @@
+Cuthbert Castle is the seat of Teyrn Ebeorht in the city of [[Cadun]]. It is an ancient citadel that overlooks Enchanter's Bay. It was originally constructed by the mages who founded the city. 

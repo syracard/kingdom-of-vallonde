@@ -1,68 +1,52 @@
 {
   "main": {
-    "id": "9fa0b0613b12c9e3",
+    "id": "b3d32570eb810b86",
     "type": "split",
     "children": [
       {
-        "id": "293c1121c62205f6",
+        "id": "9511d4cbee8d2b43",
         "type": "tabs",
         "children": [
           {
-            "id": "301df96d0e5a57e0",
+            "id": "34e7162ec76916e0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm/sessions/Session 6.md",
+                "file": "Title tbd/TBD Notes and Drafting.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "baf2e23afd82a97f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm/sessions/Session 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "6352b4aa8ce47c9d",
+            "id": "399b95fb73f42bec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "admin/Session Notes.md",
+                "file": "The Kingdom of Vallonde/General Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "eac2d945435f60fa",
+    "id": "6b172e5c3c1576a4",
     "type": "split",
     "children": [
       {
-        "id": "e643191698a6c5fc",
+        "id": "56251a0e6217e63d",
         "type": "tabs",
         "children": [
           {
-            "id": "05c95755214d5bee",
+            "id": "61596bb36fe2ad8c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,13 +56,13 @@
             }
           },
           {
-            "id": "006eb62f5e999630",
+            "id": "0c56390859ae88fe",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "beek",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -87,7 +71,7 @@
             }
           },
           {
-            "id": "8699f43334886a6a",
+            "id": "187419e878561373",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,84 +82,80 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "c709221921f0dbc1",
+    "id": "f5909bcd234350c6",
     "type": "split",
     "children": [
       {
-        "id": "b48f1478eb8370ef",
+        "id": "54b9eae7992a9cc2",
         "type": "tabs",
         "children": [
           {
-            "id": "ab168f9c2f5e621a",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": false
-              }
-            }
-          },
-          {
-            "id": "953c4e0dbea8df6e",
+            "id": "4bf9f88ebd492716",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "admin/Session Notes.md",
-                "collapseAll": false,
+                "file": "The Kingdom of Vallonde/General Notes.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "8e9ec9be5173fe5f",
+            "id": "ab42c04b4e88766b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "admin/Session Notes.md",
+                "file": "The Kingdom of Vallonde/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0033e2df6df5e9e7",
+            "id": "191553a146423151",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
+              "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "5d21be3fb55622b1",
+            "id": "dc3181f43f487542",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "admin/Session Notes.md"
+                "file": "The Kingdom of Vallonde/General Notes.md"
               }
             }
+          },
+          {
+            "id": "8f1d4b945566afc8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,57 +165,46 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6352b4aa8ce47c9d",
+  "active": "399b95fb73f42bec",
   "lastOpenFiles": [
-    "admin/session_notes/Session 4 Notes.md",
-    "dm/sessions/Session 7.md",
-    "places/cities/Charterstown.md",
-    "dm/sessions/Session 6.md",
-    "Black Lapis.md",
-    "admin/Session Notes.md",
-    "dm/Roll a 20.md",
-    "admin/session_notes/Session 3 Notes.md",
-    "admin/session_notes/Session 2 Notes.md",
-    "dm/quests/Dead Teen Walking.md",
-    "admin/session_notes/Session 1 Notes.md",
-    "places/landmarks/The Glass Hearth.md",
-    "dm/sessions/Session 4.md",
-    "dm/sessions/Session 5.md",
-    "npc/people/Lady du Gisaal.md",
-    "places/landmarks/Queen's Lace.md",
-    "places/cities/Faciv.md",
-    "places/cities/Doubtfire.md",
-    "npc/groups/Brazen Barnacle.md",
-    "npc/groups/The Black Lapis.md",
-    "npc/people/Remus Neyender.md",
-    "dm/sessions/Session 2.md",
-    "dm/sessions/Session 1.md",
-    "dm/quests/Such a Pity....md",
-    "places/landmarks/The Endless Pits.md",
-    "admin/session_notes/Session 0 Notes.md",
-    "dm/puzzles/elk_puzzle.png",
-    "img/maps/Corosiva.jpg",
-    "img/maps/Dynistia.jpg",
-    "img/maps/faciv.png",
-    "img/maps/isle_pontecita.png",
-    "img/maps/artyrix_full.png",
-    "img/maps/Khiage.jpg",
-    "lore/adventuring_info",
-    "img/maps/pontecita_region.png",
-    "img/maps/Machivelia.jpg",
-    "dm/puzzles/31DAC500",
-    "dm/puzzles/BB962500",
-    "dm/puzzles/~$pontecita_puzzle.xlsx",
-    "dm/puzzles/pontecita_puzzle.xlsx",
-    "dm/puzzles",
-    "dm/quests",
-    "pc",
-    "img/maps/NorthernBarrierIslands.jpg",
-    "dm/sessions",
-    "admin/session_notes"
+    "The Kingdom of Vallonde/Locations/Settlements/Mayheath.md",
+    "Warm-Up Questions.md",
+    "Title tbd/TBD Notes and Drafting.md",
+    "Campaign Theorizing.md",
+    "The Kingdom of Vallonde/General Notes.md",
+    "Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
+    "Title tbd/Locations/Settlements/Cadun.md",
+    "Title tbd/Locations/Dungeons/Wina's Keep.md",
+    "Title tbd/Locations/Dungeons",
+    "Title tbd/Locations/Strongholds/Cuthbert Castle.md",
+    "Title tbd/Locations/Strongholds",
+    "Title tbd/Characters/Brida.md",
+    "Title tbd/Characters/Aeron.md",
+    "Title tbd/Locations/Or.md",
+    "Title tbd/Characters/the Baron of Or.md",
+    "Title tbd/Locations/Settlements",
+    "The Kingdom of Vallonde/Locations/Dungeons/Orc Caverns.md",
+    "Worldbuilding Notes and Tables.md",
+    "The Kingdom of Vallonde/Lore/Legendary Weapons/Zealcleaver.md",
+    "Untitled 1.md",
+    "The Kingdom of Vallonde/Location Notes.md",
+    "Title tbd/Characters/Mordrin.md",
+    "The Kingdom of Vallonde/Lore/Artifacts",
+    "The Kingdom of Vallonde/Characters/Emperor Beragor.md",
+    "The Kingdom of Vallonde/Factions and Organizations/Clan Esagoga.md",
+    "The Kingdom of Vallonde/Factions and Organizations/Circle of Archmagi.md",
+    "Characters and Organizations.md",
+    "The Kingdom of Vallonde/Characters/Captain Demos.md",
+    "The Kingdom of Vallonde/Characters/Blair von Kessel.md",
+    "The Kingdom of Vallonde/Characters/Bill.md",
+    "Title tbd/Characters",
+    "Title tbd/Locations",
+    "Title tbd/Lore",
+    "Title tbd/Modules",
+    "Title tbd/The Tomb of the Lizard King",
+    "Title tbd"
   ]
 }

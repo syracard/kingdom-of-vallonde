@@ -1,0 +1,2 @@
+Barovia was a small barony past [[The West Marches]] and the southern arm of the [[Strodfjall Mountains]]. The last baron, [[Strahd]], became a vampire at a young age. From that point, the region fell into a darkness as he worked his magics to build a bridge between his demense and the Shadowfell. It is unclear what happened, but there was a calamity that befell the barony causing it to fall from our very plane of reality, leaving only a dark cataract behind. 
+	*Histories of Catastrophe*, [[Zell]] (Kings, 698). 

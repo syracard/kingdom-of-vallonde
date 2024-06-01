@@ -1,0 +1,3 @@
+The kingdom of Giants that ruled [[Osstoria]] during [[The Age of Giants]]. 
+
+Their decline began when dragons arrived and when [[The Illithid Empire]] set their sights on Osstoria, it was the final nail in the coffin for the Mountain Kings. While they maintained some independence during [[The Age of Dominion]] it was the betrayal of [[Tev'ash I]] after the mind flayers had been defeated that forced the last of the Jotunkung to retreat to [[Jotunheim]]. 

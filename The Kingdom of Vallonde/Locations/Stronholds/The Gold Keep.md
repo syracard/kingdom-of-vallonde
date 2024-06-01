@@ -1,0 +1,1 @@
+A stronghold of [[The Coinsguard]] that acts as a watchtower over the eastern coast of Keyhearth and [[The Sister Cities]]. 

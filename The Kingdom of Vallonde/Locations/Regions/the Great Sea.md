@@ -1,0 +1,1 @@
+The Great Sea is the ocean that borders the eastern coast of the [[Tev'ash Empire]] and [[Kingdom of Vallonde|Vallonde]]. 

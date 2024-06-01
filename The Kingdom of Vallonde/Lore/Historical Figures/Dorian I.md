@@ -1,0 +1,1 @@
+Dorain Vallo, was the inaugural monarch of the [[Kingdom of Vallonde]]. He was a radical who fought against the lordship of the [[Tev'ash Empire]] and defeated the forces of [[Emperor Krator]] to begin the Age of Kings. 

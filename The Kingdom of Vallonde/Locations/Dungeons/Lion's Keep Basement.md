@@ -1,0 +1,17 @@
+The basement of the Lion's Keep in [[Mayheath 1]] serves as the prison for anyone whom [[The Order of the Black Rose|Sir Enbar]]'s men have arrested. It is also where [[Mayheath 1|Sanzagh]] works on his poisons for Sir Enbar. 
+
+**A:** You walk into an empty lounge. There are a few tables with half-empty wine bottles, cards, and dice sitting on them. At the back of the chamber is a large chest. 
+	*Opening the Chest:* Inside the chest are three bottles of red wine and one healing potion. DC 15 Perception (Wisdom) to find the false bottom of the chest containing 1500gp. 
+**B:** You walk into a lounge where five Black Rose knights are relaxing while on duty. As soon as they see you they rise to challenge you. At the back of chamber you can see a chest. 
+	*Encounter:* Five Black Rose knights. There is a 50% chance that each of them are drunk. 
+	*Treasure:* In the chest are two bottles of red wine and three healing potions. 
+**C:** A large chamber filled with bunks. You can see a handful of knights sleeping in their beds. 
+**D:** You enter a bedchamber. There is a bed with a small chest and a desk. Sitting on the desk is a small journal.
+	*The Journal:* Leafing through the journal reveals it to be a log of the prisoners who have been in and out of the prison as well brief notes on what sort of information was gleaned from them. 
+	*Treasure:* Inside the chest is 2500gp and three vials of *Virulent Poison*.
+	*Virulent Poison:* You can apply this poison to a weapon of a piece of ammunition. The next time you hit a creature with an attack using that weapon or ammunition within the next hour, that creature must succeed on a DC 16 Constitution saving throw or take 3d6 poison damage and become poisoned for the next hour. While poisoned in this way that creature takes 2d4 poison damage at the start of each of its turns. At the end of its turns it can repeat this saving throw. 
+**E:** You enter a small laboratory. There are tables of beakers, small burners, and vials of liquids, powders, and minerals. Different books and stacks of notes are scattered about. At the back of the chamber is a bald, robed human who you can see is backing a crate with vials of a dark green liquid. 
+	*Sanzagh:* Sanzagh is Sir Enbar's chief chemist. He will do whatever he can to survive. With a DC 12 Persuasion (Charisma) or Intimidation (Charisma) he can be convinced to flee, leaving 12 vials of *Virulent Poison* for the taking. Succeeding by five or more can lead to him offering his services and producing poisons for the party. 
+	*Treasure:* There are alchemical reagents that can be used to refill magical components and 2 vials of *Alchemist's Fire*. 
+**F:** As you pass by the empty jail cells you can hear a conversation echoing through the stone walls. As you get closer you can see a balding human wearing a leather tunic and holding a mace. Hanging off of his belt is a large keyring. He's arguing with a group of three orcs: one towering around six and a half feet who is flanked by two shorter orcs. As you get closer you can see that these orcs differ from ones you've seen before: they have broad foreheads with vortical, spined ridges going from right above their eyeline up into their scalp. When they notice you they bare their weapons and prepare for battle. 
+	*Encounter:* The Goaler and three orcs.

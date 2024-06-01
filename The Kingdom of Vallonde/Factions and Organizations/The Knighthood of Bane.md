@@ -1,0 +1,1 @@
+The cult of Bane on the material plane. It is led by [[General Athlonia]] and they are working to assert Banite dominance over any and all institutions that they can.  To that end, they have forged a loose alliance with [[The Syndicate of Bhaal]] and [[The Coven of Myrkul]] to form [[The Cabal of the Dread Trinity]]. 

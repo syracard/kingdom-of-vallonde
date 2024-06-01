@@ -1,0 +1,1 @@
+The first historical period of [[Osstoria]] that records remain of. During this time, [[Jotunkung]] rose as the primary power. The Giants' kingdom only declined with the arrival of dragons and [[The Illithid Empire]] to begin [[The Age of Dominion]]. 

@@ -1,0 +1,1 @@
+Beragor Tev'ash (Kings 742-Present) is the presiding emperor of the [[Tev'ash Empire]]. 

@@ -1,0 +1,1 @@
+A cleric of Bhaal living in [[The Sister Cities|Osstun]]. 

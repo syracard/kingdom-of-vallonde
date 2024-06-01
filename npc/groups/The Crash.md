@@ -1,3 +1,0 @@
-#faction
-
-Originated in the western region surrounding the [[Uluran Plateau]], the Crash first bonded over their shared nomadic lifestyle and hobbies. Notably, members of the Crash generally enjoy feats of strength, with pit fights and weighted wagon pulls often being used both for recreation and for settling disputes over challenges to leadership. Over time, the Crash recognized the potential value in their nomadic background and embraced mercenary-type roles, leading trade caravans from the [[Verdant Acres]] around the island. They value strength, visual displays of wealth, and decisive/quick action - often opting to act first and ask questions later (if ever).

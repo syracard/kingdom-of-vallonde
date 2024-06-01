@@ -1,0 +1,1 @@
+Varcho is an admiral in the Tev'ashi navy. He has been dispatched to [[The Sister Cities|Keyhearth]] on a diplomatic mission. 

@@ -1,0 +1,1 @@
+Gimurt is the oldest member of the [[Onssbruck Cartel]] and one of its founding members. He has led the Hammerstone mining clan through the downturn of the [[Tev'ash Empire]].

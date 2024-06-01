@@ -1,0 +1,1 @@
+The Stroden is the river that cuts through the [[Tev'ash Empire]]. It begins in the [[Strodfjall Mountains]] and empties into [[the Great Sea]]. 

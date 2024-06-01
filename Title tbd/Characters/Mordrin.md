@@ -1,0 +1,1 @@
+Mordrin is a demon-worshipping cleric who has thrown his lot in with [[Sakatha]]. 

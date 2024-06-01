@@ -1,0 +1,1 @@
+The Pickling Guild is a loose collection of social clubs throughout the cities of [[Osstoria]]. While on the surface they are social clubs for the wealthy members and offer contracts for adventuring parties to procure rare ingredients, the secret objective of the guild is to monitor natural phenomenon and ensure that the balance of the natural world is maintained. 

@@ -1,0 +1,1 @@
+The main fortification of [[Abanzbazzan]] and the seat of [[Queen Sama Awhad]].

@@ -1,0 +1,1 @@
+Calthax is the leader of the Church of Erathis and thus the leader of [[Meletis]].

@@ -1,0 +1,1 @@
+The undead lawyer and representative for the [[Immortal Legion]].

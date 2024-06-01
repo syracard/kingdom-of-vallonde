@@ -1,0 +1,1 @@
+The Lowway was a large, underground road system that was constructed by the [[Tev'ash Empire]]. This infrastructure system enabled the empire to easily expand and transport its armies. 

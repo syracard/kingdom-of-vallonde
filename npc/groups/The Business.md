@@ -1,3 +1,0 @@
-#faction
-
-A mercantile faction, member of the Business coalesced around shared economic interests. These individuals can mostly be found in the larger cities and were instrumental in the organization and construction of the largest cities on [[Linnæsa]], particularly the capital city [[Favid]] and the large southern coastal town [[Parthin]] along the [[Bindo Lagoon]]. They value contractual honesty, relationship building, and cutting deals for profit.

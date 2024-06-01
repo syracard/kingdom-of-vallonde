@@ -1,0 +1,3 @@
+During [[The Age of Dominion]] [[Osstoria]] was ruled by a collective of mind flayers who used the enslaved populations of what they considered lesser species to fuel their egomaniacal plots. 
+
+While Osstoria was merely an outpost of a larger, interplanar empire, it eventually fell from the combined forces of the Illithid's rebellious Gith warrior caste, the sundowning [[Jotunkung]], and the nascent [[Tev'ash Empire]]. 

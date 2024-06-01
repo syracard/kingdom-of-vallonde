@@ -1,0 +1,1 @@
+Located in the harbor of [[Last Hearth]], it is the home of the emperor of the [[Tev'ash Empire]]. It is built on an island that faces  [[The Duma]] to the north and the city's garrison to the south. On the east side of the island is a large lighthouse that faces out into the bay.

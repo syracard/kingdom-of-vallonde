@@ -1,0 +1,1 @@
+Gyles is a human, resident of [[Bybrook]] who is seeking to take over as the proprietor of [[Madam Hucrele]]'s general store since her demise. 
