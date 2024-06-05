@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Kingdom of Vallonde/General Notes.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Kingdom of Vallonde/General Notes.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Kingdom of Vallonde/General Notes.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Kingdom of Vallonde/General Notes.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,11 +170,13 @@
   },
   "active": "399b95fb73f42bec",
   "lastOpenFiles": [
+    "The.md",
+    "README.md",
+    "The Kingdom of Vallonde/General Notes.md",
     "The Kingdom of Vallonde/Locations/Settlements/Mayheath.md",
     "Warm-Up Questions.md",
     "Title tbd/TBD Notes and Drafting.md",
     "Campaign Theorizing.md",
-    "The Kingdom of Vallonde/General Notes.md",
     "Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
     "Title tbd/Locations/Settlements/Cadun.md",
     "Title tbd/Locations/Dungeons/Wina's Keep.md",
@@ -198,8 +200,6 @@
     "The Kingdom of Vallonde/Factions and Organizations/Circle of Archmagi.md",
     "Characters and Organizations.md",
     "The Kingdom of Vallonde/Characters/Captain Demos.md",
-    "The Kingdom of Vallonde/Characters/Blair von Kessel.md",
-    "The Kingdom of Vallonde/Characters/Bill.md",
     "Title tbd/Characters",
     "Title tbd/Locations",
     "Title tbd/Lore",
