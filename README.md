@@ -4,4 +4,4 @@ Welcome to the campaign page!
 Interested in some lore? Checkout the following:
  - [[Kingdom of Vallonde]]
  - [[Tev'ash Empire]]
- - Coming soon: Flint's Journal!
+ - Coming soon: Flint's Journal! Learn about the latest session!
