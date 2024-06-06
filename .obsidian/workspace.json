@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DM Stuffs/General Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DM Stuffs/General Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "DM Stuffs/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "DM Stuffs/General Notes.md"
               }
             }
           },
@@ -155,9 +155,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "17687d9cd9460aa2",
+  "active": "61596bb36fe2ad8c",
   "lastOpenFiles": [
     "README.md",
+    "DM Stuffs",
     "Main Folder/The Kingdom of Vallonde/Locations/Nations/Tev'ash Empire.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Nations/Kingdom of Vallonde.md",
     "Main Folder/Warm-Up Questions.md",
@@ -167,7 +168,7 @@
     "nojekyll.nojekyll",
     "nojekyll.nojekyll.txt",
     "The.md",
-    "Main Folder/The Kingdom of Vallonde/General Notes.md",
+    "DM Stuffs/General Notes.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Mayheath.md",
     "Main Folder/Campaign Theorizing.md",
     "Main Folder/Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
@@ -184,14 +185,12 @@
     "Main Folder/The Kingdom of Vallonde/Locations/Dungeons/Orc Caverns.md",
     "Main Folder/The Kingdom of Vallonde/Lore/Legendary Weapons/Zealcleaver.md",
     "Untitled 1.md",
-    "Main Folder/The Kingdom of Vallonde/Location Notes.md",
+    "DM Stuffs/Location Notes.md",
     "Main Folder/Title tbd/Characters/Mordrin.md",
     "Main Folder/The Kingdom of Vallonde/Lore/Artifacts",
     "Main Folder/The Kingdom of Vallonde/Characters/Emperor Beragor.md",
     "Main Folder/The Kingdom of Vallonde/Factions and Organizations/Clan Esagoga.md",
-    "Main Folder/The Kingdom of Vallonde/Factions and Organizations/Circle of Archmagi.md",
     "Main Folder/Title tbd/Characters",
-    "Main Folder/Title tbd/Locations",
-    "Main Folder/Title tbd/Lore"
+    "Main Folder/Title tbd/Locations"
   ]
 }
