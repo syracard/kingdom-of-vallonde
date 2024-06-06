@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "564e99b5ba5a74b6",
+        "id": "52b6290fd132142a",
         "type": "tabs",
         "children": [
           {
-            "id": "17687d9cd9460aa2",
+            "id": "39eb3905a2fbe91a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Stuffs/General Notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Stuffs/General Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Stuffs/General Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DM Stuffs/General Notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,42 +147,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61596bb36fe2ad8c",
+  "active": "39eb3905a2fbe91a",
   "lastOpenFiles": [
     "README.md",
+    "DM Stuffs/General Notes.md",
+    "Title tbd/Locations/Dungeons/Wina's Keep.md",
+    "Title tbd/Locations/Settlements/Vendare.md",
+    "Title tbd/Locations/Settlements/Waycombe.md",
+    "Title tbd/Locations/Strongholds/Cuthbert Castle.md",
+    "Title tbd/Locations/Settlements/Cadun.md",
+    "Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
+    "Title tbd/Lore/the Bloodstone.md",
+    "Title tbd/Lore/King Jecht.md",
+    "Title tbd/Locations/the Denitric Archipelago.md",
+    "Title tbd/Locations/the Great Southern Swamp.md",
+    "Title tbd/Locations/Strongholds",
+    "Title tbd/Characters/the Baron of Or.md",
+    "Title tbd/Locations/Settlements",
+    "Title tbd/Characters/Sakatha.md",
+    "Title tbd/Locations/Or.md",
+    "Title tbd/Locations/Dungeons",
+    "Title tbd/Locations/Conclave.md",
+    "Title tbd/Characters/Mordrin.md",
+    "Title tbd/Characters/Brida.md",
+    "Title tbd/Characters/Jorlon.md",
+    "Title tbd/Characters/Aeron.md",
+    "Title tbd/The Tomb of the Lizard King",
+    "Title tbd/TBD Notes and Drafting.md",
+    "Title tbd/Modules",
+    "Title tbd/Lore",
+    "Title tbd/Locations",
+    "Title tbd/Characters",
+    "Title tbd",
     "DM Stuffs",
     "Main Folder/The Kingdom of Vallonde/Locations/Nations/Tev'ash Empire.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Nations/Kingdom of Vallonde.md",
     "Main Folder/Warm-Up Questions.md",
     "Main Folder/Worldbuilding Notes and Tables.md",
-    "Main Folder",
-    "Main Folder/Title tbd/TBD Notes and Drafting.md",
-    "nojekyll.nojekyll",
-    "nojekyll.nojekyll.txt",
-    "The.md",
-    "DM Stuffs/General Notes.md",
-    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Mayheath.md",
-    "Main Folder/Campaign Theorizing.md",
-    "Main Folder/Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
-    "Main Folder/Title tbd/Locations/Settlements/Cadun.md",
-    "Main Folder/Title tbd/Locations/Dungeons/Wina's Keep.md",
-    "Main Folder/Title tbd/Locations/Dungeons",
-    "Main Folder/Title tbd/Locations/Strongholds/Cuthbert Castle.md",
-    "Main Folder/Title tbd/Locations/Strongholds",
-    "Main Folder/Title tbd/Characters/Brida.md",
-    "Main Folder/Title tbd/Characters/Aeron.md",
-    "Main Folder/Title tbd/Locations/Or.md",
-    "Main Folder/Title tbd/Characters/the Baron of Or.md",
-    "Main Folder/Title tbd/Locations/Settlements",
-    "Main Folder/The Kingdom of Vallonde/Locations/Dungeons/Orc Caverns.md",
-    "Main Folder/The Kingdom of Vallonde/Lore/Legendary Weapons/Zealcleaver.md",
-    "Untitled 1.md",
-    "DM Stuffs/Location Notes.md",
-    "Main Folder/Title tbd/Characters/Mordrin.md",
-    "Main Folder/The Kingdom of Vallonde/Lore/Artifacts",
-    "Main Folder/The Kingdom of Vallonde/Characters/Emperor Beragor.md",
-    "Main Folder/The Kingdom of Vallonde/Factions and Organizations/Clan Esagoga.md",
-    "Main Folder/Title tbd/Characters",
-    "Main Folder/Title tbd/Locations"
+    "Main Folder/Title tbd/TBD Notes and Drafting.md"
   ]
 }
