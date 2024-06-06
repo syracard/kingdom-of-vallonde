@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d7224ee45f616c1",
+        "id": "3228675fe60cd85e",
         "type": "tabs",
         "children": [
           {
-            "id": "a65ffd2c256a4e4c",
+            "id": "87d27bec9bdac295",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,10 +147,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a65ffd2c256a4e4c",
+  "active": "87d27bec9bdac295",
   "lastOpenFiles": [
-    "Main Folder/Warm-Up Questions.md",
     "README.md",
+    "Main Folder/Warm-Up Questions.md",
     "Main Folder/Worldbuilding Notes and Tables.md",
     "Main Folder",
     "Main Folder/Title tbd/TBD Notes and Drafting.md",
