@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0285d9b08bd1c31",
+        "id": "564e99b5ba5a74b6",
         "type": "tabs",
         "children": [
           {
-            "id": "f079fed5b1ffc8d1",
+            "id": "17687d9cd9460aa2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -147,7 +151,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f079fed5b1ffc8d1",
+  "active": "61596bb36fe2ad8c",
   "lastOpenFiles": [
     "README.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Nations/Tev'ash Empire.md",
