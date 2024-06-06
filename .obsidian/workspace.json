@@ -11,8 +11,12 @@
             "id": "17687d9cd9460aa2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -151,7 +155,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61596bb36fe2ad8c",
+  "active": "17687d9cd9460aa2",
   "lastOpenFiles": [
     "README.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Nations/Tev'ash Empire.md",
