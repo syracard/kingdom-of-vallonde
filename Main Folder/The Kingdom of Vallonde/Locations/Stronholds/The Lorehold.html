@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+        <head>
+                <!-- Page information -->
+                <meta charset="UTF-8" />
+                <meta name="node_id" content="the lorehold">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+                <link rel="shortcut icon" href="/kingdom-of-vallonde/favicon.ico" />
+
+                <!-- Set title -->
+                <title>Adventures in Osstor</title>
+
+                <!-- Includes -->
+                <script src="/kingdom-of-vallonde/obs.html/static/obsidian_core.js"></script>
+<script src="/kingdom-of-vallonde/obs.html/static/encoding.js"></script>
+<link rel="stylesheet" href="/kingdom-of-vallonde/obs.html/static/master.css" />
+<script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({
+            'securityLevel': 'loose',
+            'theme': 'dark',
+            'themeVariables': {
+                    'darkMode': true,
+            }
+    });
+</script>
+<script>
+  MathJax = {
+    loader: {
+      load: [
+        '[tex]/action',
+        'output/chtml',
+        '[tex]/centernot'
+      ]
+    },
+    tex: {
+      inlineMath: [ ["\\(","\\)"] ],
+      displayMath: [ ["\\[","\\]"] ],
+      processEscapes: true,
+      processEnvironments: true,
+      packages: {'[+]': ['centernot']}
+    }
+  };
+</script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+<script src="/kingdom-of-vallonde/obs.html/static/flexsearch.bundle.js"></script>
+<script src="/kingdom-of-vallonde/obs.html/static/pako.js"></script>
+<script src="/kingdom-of-vallonde/obs.html/static/search.js"></script>
+<script src="/kingdom-of-vallonde/obs.html/static/dirtree.js"></script>
+
+
+
+
+                <!-- Onload tweaks -->
+                <script>
+                        const CURRENT_NODE = 'the lorehold';
+                        const HTML_URL_PREFIX = '/kingdom-of-vallonde';
+                        const PAGE_DEPTH = 4;
+                </script>
+        </head>
+
+<body class="theme-obs-light">
+        <div id="antiflash" style="display: none;"></div>
+        <script>
+                document.getElementById('antiflash').style.display = 'block';
+        </script>
+        <div id="search-master-div">
+    <div id="search-slab" king_ramses="return the slaaab">
+            <div id="search-controls">
+                    <input id="search_string" placeholder="Type to search notes" type="text" />
+                    <div class="tooltip" style="display: none;">
+                        <input type="checkbox" id="hard_search" name="hard" />
+                        <span class="tooltiptext">Hard search (require exact match)</span>
+                    </div>
+                    <div id="search-results-box">
+                        <div id="search-results"></div>
+                    </div>
+                    <div id="search-instructions">
+                        <div class="prompt-instruction mobile">
+                            <button onclick="toggle_id('search-master-div');"><b>Close</b> Search </button>
+                        </div>
+                    </div>
+            </div>
+    </div>
+</div>
+
+<script>
+    document.getElementById("search-master-div").addEventListener('click', e => {
+            if(e.target !== e.currentTarget){
+                    return
+            }
+            toggle_id('search-master-div');
+    })
+    document.getElementById("search_string").addEventListener("input", function(event) {
+            setTimeout( () =>run_search('search_string', 'hard_search'), 100 );
+    }); 
+    document.getElementById("hard_search").addEventListener("click", function(event) {
+            setTimeout( () =>run_search('search_string', 'hard_search'), 100 );
+    });
+
+    window.addEventListener('keydown', e => {
+        if((e.key=='Escape'||e.key=='Esc'||e.keyCode==27)){
+            toggle_id('search-master-div');
+            return false;
+        } 
+    }, true);
+
+    function click_list_link(element){
+        element.parentElement.getElementsByTagName('a')[0].click()
+    }
+</script>
+
+        <div id="page_holder" class="flex_col">
+                <div id="header" class="header">
+    <div id="header_flex" class="flex_row">
+            <a href="/kingdom-of-vallonde/index.html" id="homelink" title="Clear screen and go to homepage">Adventures in Osstor</a>
+            <div id="menu_toggle_button" class="navbar-button requires_js" onclick="toggle_menu()">
+                    ≡
+            </div>
+            <div id="navbar" class="navbar requires_js">
+                    
+                    <div class="icon-tray">
+                            <div id="theme-button" class="theme-button requires_js" title="Change theme" onclick="toggle_theme_popup(this)">
+    T
+</div>
+<script>
+    function toggle_theme_popup(el){
+        // make theme button show that it's active by adding the .active class
+        toggle(el);
+
+        // show the theme selector
+        toggle_id('theme-popup')
+
+        let h2 = document.getElementById('header2')
+        if (h2){
+            let pu = document.getElementById('header2').getElementsByClassName('popup')[0];
+            toggle(pu);
+        }
+    }
+
+    function disable_theme_popup(){
+        disable_id('theme-button');
+
+        // show the theme selector
+        disable_id('theme-popup')
+
+        let h2 = document.getElementById('header2')
+        if (h2){
+            let pu = document.getElementById('header2').getElementsByClassName('popup')[0];
+            disable(pu);
+        }
+    }
+</script>
+                                    <div onclick="openSearch()" class="theme-button requires_js">
+            <img src = "/kingdom-of-vallonde/obs.html/static/search.svg" alt="Search notes" title="Search notes" style="margin: 4px;"/>
+        </div>
+        <script>
+            function openSearch(){
+                // toggle search popup and continue with extra code if it is enabled this time
+                if (toggle_id('search-master-div')){
+                    // get input field and temporarily disable it
+                    let ss = document.getElementById('search_string');
+                    ss.value = 'Seach data initializing...';
+                    ss.readOnly = true; 
+
+                    // load search data if not yet done so
+                    setTimeout(function(){
+                        LoadSearchData()
+
+                        // clear input and put focus on it so that we can start typing immediately
+                        ss.value = '';
+                        ss.readOnly = false; 
+                        ss.focus()
+                        ss.select()
+                    }, 100);
+                }
+            }
+        </script>
+                                    <div class="graph_header_div requires_js">
+            <a id="graph_link" class="system-link" href="/kingdom-of-vallonde/obs.html/graph/index.html?node=the lorehold" title="Open fullpage Graph">
+                    <img class="graph_header_div_svg" src = "/kingdom-of-vallonde/obs.html/static/graph.svg" alt="Open fullpage Graph" style="margin: 2px; width: 17px;"/>
+            </a>
+        </div>
+                                    <div >
+            <a id="dirtree_link" class="system-link" href="/kingdom-of-vallonde/obs.html/dir_index.html" title="View directory tree">
+                    <img src = "/kingdom-of-vallonde/obs.html/static/dirtree.svg" style="width: 12px; padding: 4px;" alt="Directory tree link"/>
+            </a>
+        </div>
+                            <div>
+    <a href="/kingdom-of-vallonde/obs.html/tags/index.html" title="Open tag view">
+            <img src = "/kingdom-of-vallonde/obs.html/static/hashtag.svg" alt="RSS Feed link" style="width: 24px; margin-left: -2px; margin-top: -2px;"/>
+    </a>
+</div>
+                            
+                    </div>
+                    <div style="display: flex; flex-direction:column">
+                        <div id="left_pane_toggle_nav" class="left_pane_toggle_nav">Toggle Directory Tree Pane</div>
+                        <div id="right_pane_toggle_nav" class="right_pane_toggle_nav">Toggle Table of Contents Pane</div>
+                    </div>
+            </div>
+    </div>
+    <div class="popup" id="theme-popup">
+    <label for="cars">Theme </label>
+
+    <select name="theme" id="theme" onchange="set_theme(this.value)">
+      <option value="obs-light" selected="selected">obsidian-light</option>
+      <option value="obs-dark">obsidian-dark</option>
+    </select> 
+</div>
+</div>
+                <div class="flex_row">
+                        <div id="left_pane" class="left_pane active">
+    <div id="left_pane_fold_header" class="left_pane_fold_header fold_header">x</div>
+    <div id="left_pane_content" class="left_pane_content">
+            <div id="dirtree"><button id="folder-1" class="dir-button active" onclick="toggle_dir(this.id)"><div class="file-icon"></div>Main Folder</button>
+<div id="folder-container-1" class="dir-container requires_js active" path="/kingdom-of-vallonde/Main Folder">
+	<button id="folder-2" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Adventuring Parties</button>
+	<div id="folder-container-2" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/Adventuring Parties">
+		<ul class="dir-list">
+			<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Adventuring Parties/Small Boys.html"  >Small Boys</a></li>
+		</ul>
+	</div>
+	<button id="folder-3" class="dir-button active" onclick="toggle_dir(this.id)"><div class="file-icon"></div>The Kingdom of Vallonde</button>
+	<div id="folder-container-3" class="dir-container requires_js active" path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde">
+		<button id="folder-4" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Characters</button>
+		<div id="folder-container-4" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters">
+			<ul class="dir-list">
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Admiral Varcho.html"  >Admiral Varcho</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Aedor.html"  >Aedor</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Aethward.html"  >Aethward</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Alphonse Kallis.html"  >Alphonse Kallis</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Amil Vallo.html"  >Amil Vallo</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Anbera Balderk.html"  >Anbera Balderk</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Ashes.html"  >Ashes</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Ashyra, Keeper of the Crypt.html"  >Ashyra, Keeper of the Crypt</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Athlonion.html"  >Athlonion</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Bill.html"  >Bill</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Blair von Kessel.html"  >Blair von Kessel</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Bryelly.html"  >Bryelly</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Captain Demos.html"  >Captain Demos</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Captain Flosial.html"  >Captain Flosial</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Captain Jacques.html"  >Captain Jacques</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Captain Odric.html"  >Captain Odric</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Duke Damsor.html"  >Duke Damsor</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Emperor Beragor.html"  >Emperor Beragor</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Fallond Lutgher.html"  >Fallond Lutgher</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Gamal Lutgher.html"  >Gamal Lutgher</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/General Athlonia.html"  >General Athlonia</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Gimurt Hammerstone.html"  >Gimurt Hammerstone</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Grand Duke Aeglforth.html"  >Grand Duke Aeglforth</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Gyles Cave.html"  >Gyles Cave</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Harold Threeblood.html"  >Harold Threeblood</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/High Priest Calthax.html"  >High Priest Calthax</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Knight-Commander Duncan.html"  >Knight-Commander Duncan</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Knight-Commander Florian.html"  >Knight-Commander Florian</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Lady Ravenna.html"  >Lady Ravenna</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Lemuel.html"  >Lemuel</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Lord Mayor Alistair Veneti.html"  >Lord Mayor Alistair Veneti</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Lord Scalcotz.html"  >Lord Scalcotz</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Lord Soth.html"  >Lord Soth</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Ludwig von Osstun.html"  >Ludwig von Osstun</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Luunthig.html"  >Luunthig</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Madam Hucrele.html"  >Madam Hucrele</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Mako.html"  >Mako</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Mayor Ilin Nere.html"  >Mayor Ilin Nere</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Nicola Battore.html"  >Nicola Battore</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Ninki.html"  >Ninki</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Orville Wrightson.html"  >Orville Wrightson</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Piru, the Volatile.html"  >Piru, the Volatile</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Princess Nazia Awhad.html"  >Princess Nazia Awhad</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Queen Sama Awhad.html"  >Queen Sama Awhad</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Riswynn Battlehammer.html"  >Riswynn Battlehammer</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Rurik Lutgher.html"  >Rurik Lutgher</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Sir Barnabas.html"  >Sir Barnabas</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Sir Faisa.html"  >Sir Faisa</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Tharder.html"  >Tharder</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Thrasios.html"  >Thrasios</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Ulder the Craven.html"  >Ulder the Craven</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Ulmed.html"  >Ulmed</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Vaerik.html"  >Vaerik</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Webweaver Iosefka.html"  >Webweaver Iosefka</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Zela.html"  >Zela</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Zell.html"  >Zell</a></li>
+			</ul>
+		</div>
+		<button id="folder-5" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Factions and Organizations</button>
+		<div id="folder-container-5" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations">
+			<ul class="dir-list">
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/Circle of Archmagi.html"  >Circle of Archmagi</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/Clan Esagoga.html"  >Clan Esagoga</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/Court of All Flesh.html"  >Court of All Flesh</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/Immortal Legion.html"  >Immortal Legion</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/Onssbruck Cartel.html"  >Onssbruck Cartel</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/Raptor Riders.html"  >Raptor Riders</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Cabal of the Dread Trinity.html"  >The Cabal of the Dread Trinity</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Coinsguard.html"  >The Coinsguard</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Condottiere.html"  >The Condottiere</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Coven of Myrkul.html"  >The Coven of Myrkul</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Cult of Illumination.html"  >The Cult of Illumination</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Duma.html"  >The Duma</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Five Families.html"  >The Five Families</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Knighthood of Bane.html"  >The Knighthood of Bane</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Order of the Black Rose.html"  >The Order of the Black Rose</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Pickling Guild.html"  >The Pickling Guild</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Syndicate of Bhaal.html"  >The Syndicate of Bhaal</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/Ulmist Inquisition.html"  >Ulmist Inquisition</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/the Symmoria.html"  >the Symmoria</a></li>
+			</ul>
+		</div>
+		<button id="folder-6" class="dir-button active" onclick="toggle_dir(this.id)"><div class="file-icon"></div>Locations</button>
+		<div id="folder-container-6" class="dir-container requires_js active" path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations">
+			<button id="folder-7" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Continents</button>
+			<div id="folder-container-7" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Continents">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Continents/Osstoria.html"  >Osstoria</a></li>
+				</ul>
+			</div>
+			<button id="folder-8" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Dungeons</button>
+			<div id="folder-container-8" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Dungeons">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Dungeons/Lion's Keep Basement.html"  >Lion's Keep Basement</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Dungeons/Orc Caverns.html"  >Orc Caverns</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Dungeons/The Ruins of Osstoria.html"  >The Ruins of Osstoria</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Dungeons/The Undercroft.html"  >The Undercroft</a></li>
+				</ul>
+			</div>
+			<button id="folder-9" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Nations</button>
+			<div id="folder-container-9" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Nations">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Nations/Kingdom of Vallonde.html"  >Kingdom of Vallonde</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Nations/Tev'ash Empire.html"  >Tev'ash Empire</a></li>
+				</ul>
+			</div>
+			<button id="folder-10" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Planes</button>
+			<div id="folder-container-10" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Planes">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Planes/Jotunheim.html"  >Jotunheim</a></li>
+				</ul>
+			</div>
+			<button id="folder-11" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Regions</button>
+			<div id="folder-container-11" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Regions">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Regions/Barovia.html"  >Barovia</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Regions/Strodfjall Mountains.html"  >Strodfjall Mountains</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Regions/The Almyrotic Desert.html"  >The Almyrotic Desert</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Regions/The Republican Alliance.html"  >The Republican Alliance</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Regions/The West Marches.html"  >The West Marches</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Regions/the Great Sea.html"  >the Great Sea</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Regions/the Stroden.html"  >the Stroden</a></li>
+				</ul>
+			</div>
+			<button id="folder-12" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Settlements</button>
+			<div id="folder-container-12" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Abanzbazzan.html"  >Abanzbazzan</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Agros.html"  >Agros</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Bybrook.html"  >Bybrook</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Dukesfane.html"  >Dukesfane</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Golon.html"  >Golon</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Grundi Manor.html"  >Grundi Manor</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Landry.html"  >Landry</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Last Hearth.html"  >Last Hearth</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Mayheath.html"  >Mayheath</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Mayheath 1.html"  >Mayheath 1</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Meletis.html"  >Meletis</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Ronsenberg.html"  >Ronsenberg</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Rothhold.html"  >Rothhold</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.html"  >The Sister Cities</a></li>
+				</ul>
+			</div>
+			<button id="folder-13" class="dir-button active" onclick="toggle_dir(this.id)"><div class="file-icon"></div>Stronholds</button>
+			<div id="folder-container-13" class="dir-container requires_js active" path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Stronholds">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Stronholds/Dorian's Rest.html"  >Dorian's Rest</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Stronholds/Farbrook Castle.html"  >Farbrook Castle</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Stronholds/Hucrele Manor.html"  >Hucrele Manor</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Stronholds/Stone Keep.html"  >Stone Keep</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Stronholds/The Gold Keep.html"  >The Gold Keep</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Stronholds/The Imperial Palace.html"  >The Imperial Palace</a></li>
+					<li><div class="file-icon"></div><a class="active current_page_dirtree" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Stronholds/The Lorehold.html"  >The Lorehold</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Stronholds/The Sunken Citadel.html"  >The Sunken Citadel</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Stronholds/Webweaver Keep.html"  >Webweaver Keep</a></li>
+				</ul>
+			</div>
+			<ul class="dir-list">
+			</ul>
+		</div>
+		<button id="folder-14" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Lore</button>
+		<div id="folder-container-14" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore">
+			<button id="folder-15" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Artifacts</button>
+			<div id="folder-container-15" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Artifacts">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Artifacts/Staff of the Magi.html"  >Staff of the Magi</a></li>
+				</ul>
+			</div>
+			<button id="folder-16" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Gods and Deific Figures</button>
+			<div id="folder-container-16" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Gods and Deific Figures">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Gods and Deific Figures/The Dead Three.html"  >The Dead Three</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Gods and Deific Figures/The Dual Pantheon.html"  >The Dual Pantheon</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Gods and Deific Figures/Yawgmoth.html"  >Yawgmoth</a></li>
+				</ul>
+			</div>
+			<button id="folder-17" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Historical Figures</button>
+			<div id="folder-container-17" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Historical Figures">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Ashardalon.html"  >Ashardalon</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Dorian I.html"  >Dorian I</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Emperor Krator.html"  >Emperor Krator</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Strahd.html"  >Strahd</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Tev'ash I.html"  >Tev'ash I</a></li>
+				</ul>
+			</div>
+			<button id="folder-18" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Historical Periods and Events</button>
+			<div id="folder-container-18" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Historical Periods and Events">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Historical Periods and Events/Jotunkung.html"  >Jotunkung</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Historical Periods and Events/The Age of Dominion.html"  >The Age of Dominion</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Historical Periods and Events/The Age of Empire.html"  >The Age of Empire</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Historical Periods and Events/The Age of Giants.html"  >The Age of Giants</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Historical Periods and Events/The Illithid Empire.html"  >The Illithid Empire</a></li>
+				</ul>
+			</div>
+			<button id="folder-19" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Legendary Weapons</button>
+			<div id="folder-container-19" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Legendary Weapons">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Legendary Weapons/Thimdurr.html"  >Thimdurr</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Legendary Weapons/Zealcleaver.html"  >Zealcleaver</a></li>
+				</ul>
+			</div>
+			<ul class="dir-list">
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Altar of Yawgmoth.html"  >Altar of Yawgmoth</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Dwarven Lowway.html"  >Dwarven Lowway</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Sunrock.html"  >Sunrock</a></li>
+			</ul>
+		</div>
+		<ul class="dir-list">
+			<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/General Notes.html"  >General Notes</a></li>
+			<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Info for Nick.html"  >Info for Nick</a></li>
+			<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Location Notes.html"  >Location Notes</a></li>
+		</ul>
+	</div>
+	<button id="folder-20" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Title tbd</button>
+	<div id="folder-container-20" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/Title tbd">
+		<button id="folder-21" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Characters</button>
+		<div id="folder-container-21" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/Title tbd/Characters">
+			<ul class="dir-list">
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Characters/Aeron.html"  >Aeron</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Characters/Brida.html"  >Brida</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Characters/Jorlon.html"  >Jorlon</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Characters/Mordrin.html"  >Mordrin</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Characters/Sakatha.html"  >Sakatha</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Characters/the Baron of Or.html"  >the Baron of Or</a></li>
+			</ul>
+		</div>
+		<button id="folder-22" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Locations</button>
+		<div id="folder-container-22" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/Title tbd/Locations">
+			<button id="folder-23" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Dungeons</button>
+			<div id="folder-container-23" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/Title tbd/Locations/Dungeons">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Locations/Dungeons/Wina's Keep.html"  >Wina's Keep</a></li>
+				</ul>
+			</div>
+			<button id="folder-24" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Settlements</button>
+			<div id="folder-container-24" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/Title tbd/Locations/Settlements">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Locations/Settlements/Cadun.html"  >Cadun</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Locations/Settlements/Vendare.html"  >Vendare</a></li>
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Locations/Settlements/Waycombe.html"  >Waycombe</a></li>
+				</ul>
+			</div>
+			<button id="folder-25" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Strongholds</button>
+			<div id="folder-container-25" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/Title tbd/Locations/Strongholds">
+				<ul class="dir-list">
+					<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Locations/Strongholds/Cuthbert Castle.html"  >Cuthbert Castle</a></li>
+				</ul>
+			</div>
+			<ul class="dir-list">
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Locations/Conclave.html"  >Conclave</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Locations/Or.html"  >Or</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Locations/the Denitric Archipelago.html"  >the Denitric Archipelago</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Locations/the Great Southern Swamp.html"  >the Great Southern Swamp</a></li>
+			</ul>
+		</div>
+		<button id="folder-26" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>Lore</button>
+		<div id="folder-container-26" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/Title tbd/Lore">
+			<ul class="dir-list">
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Lore/King Jecht.html"  >King Jecht</a></li>
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/Lore/the Bloodstone.html"  >the Bloodstone</a></li>
+			</ul>
+		</div>
+		<button id="folder-27" class="dir-button " onclick="toggle_dir(this.id)"><div class="file-icon"></div>The Tomb of the Lizard King</button>
+		<div id="folder-container-27" class="dir-container requires_js " path="/kingdom-of-vallonde/Main Folder/Title tbd/The Tomb of the Lizard King">
+			<ul class="dir-list">
+				<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/The Tomb of the Lizard King/Lizard King Notes.html"  >Lizard King Notes</a></li>
+			</ul>
+		</div>
+		<ul class="dir-list">
+			<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Title tbd/TBD Notes and Drafting.html"  >TBD Notes and Drafting</a></li>
+		</ul>
+	</div>
+	<ul class="dir-list">
+		<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Campaign Theorizing.html"  >Campaign Theorizing</a></li>
+		<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Warm-Up Questions.html"  >Warm-Up Questions</a></li>
+		<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/Main Folder/Worldbuilding Notes and Tables.html"  >Worldbuilding Notes and Tables</a></li>
+	</ul>
+</div>
+<ul class="dir-list">
+	<li><div class="file-icon"></div><a class="" href="/kingdom-of-vallonde/index.html"  >index</a></li>
+</ul>
+</div>
+    </div>
+</div>
+                        <div class="container">
+                                <div class="content"><h1 id="the-lorehold">The Lorehold</h1>
+<p>The Lorehold is a massive marble structure that houses one of the greatest magical schools in the world. It is located in the Mayors' Square district of Keyhearth among <a href="/kingdom-of-vallonde/Main%20Folder/The%20Kingdom%20of%20Vallonde/Locations/Settlements/The%20Sister%20Cities.html">The Sister Cities</a>. The building itself is a large, octagonal building with eight spires that twist up into the sky, defying mundane methods of construction. Each of the spires correspond to one of the schools of magic and the school is led by the <a href="/kingdom-of-vallonde/Main%20Folder/The%20Kingdom%20of%20Vallonde/Factions%20and%20Organizations/Circle%20of%20Archmagi.html">Circle of Archmagi</a> who are the ultimate authorities within their respective schools.   </p>
+<table>
+<thead>
+<tr>
+<th>School</th>
+<th>Archmagus</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Abjuration</td>
+<td>Or'ell</td>
+</tr>
+<tr>
+<td>Conjuration</td>
+<td>Perfidy</td>
+</tr>
+<tr>
+<td>Divination</td>
+<td>Bellamy</td>
+</tr>
+<tr>
+<td>Enchantment</td>
+<td><a href="/kingdom-of-vallonde/Main%20Folder/The%20Kingdom%20of%20Vallonde/Characters/Vaerik.html">Vaerik</a></td>
+</tr>
+<tr>
+<td>Evocation</td>
+<td>Kenrick</td>
+</tr>
+<tr>
+<td>Illusion</td>
+<td>Phanza Kalm</td>
+</tr>
+<tr>
+<td>Necromancy</td>
+<td>Gaius Tertullius</td>
+</tr>
+<tr>
+<td>Transmutation</td>
+<td><a href="/kingdom-of-vallonde/Main%20Folder/The%20Kingdom%20of%20Vallonde/Characters/Thrasios.html">Thrasios</a></td>
+</tr>
+</tbody>
+</table>
+<p>The leadership of the Lorehold maintains strong relationships with <a href="/kingdom-of-vallonde/Main%20Folder/The%20Kingdom%20of%20Vallonde/Factions%20and%20Organizations/The%20Five%20Families.html">The Five Families</a> and <a href="/kingdom-of-vallonde/Main%20Folder/The%20Kingdom%20of%20Vallonde/Factions%20and%20Organizations/The%20Coinsguard.html">The Coinsguard</a>, effecting a monopoly on the sale and trade of magical and enchanted items in the region. This ensures their high rate of income as well as being the chokepoint for individuals and organizations who wish to gain power in the cities. </p></div>
+<div class="note-footer">
+<div class="backlinks">
+<h2>Backlinks</h2>
+<ul>
+	<li><a class="backlink" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Zela.html">zela</a></li>
+	<li><a class="backlink" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Factions and Organizations/Circle of Archmagi.html">circle of archmagi</a></li>
+	<li><a class="backlink" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Vaerik.html">vaerik</a></li>
+	<li><a class="backlink" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Characters/Thrasios.html">thrasios</a></li>
+	<li><a class="backlink" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/Golon.html">golon</a></li>
+	<li><a class="backlink" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Lore/Sunrock.html">sunrock</a></li>
+	<li><a class="backlink" href="/kingdom-of-vallonde/Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.html">the sister cities</a></li>
+</ul>
+</div>
+
+<div class="tags">
+
+</div>
+
+</div>
+<div class="graph requires_js ">
+    <div id="A96814378740895025620137062514039767068{level}" class="graph_div"></div>
+
+    <div class="graph-instructions" id="D96814378740895025620137062514039767068{level}">
+        Left-click: follow link, Right-click: select node, Scroll: zoom
+    </div>
+    
+    <div class="graph-button-row" style="display:flex;">
+        <button class="graph_button graph_show_button" id="B96814378740895025620137062514039767068{level}" level="{level}" note_temp_id="96814378740895025620137062514039767068" onclick="window.ObsHtmlGraph.run(this, '96814378740895025620137062514039767068', 'the lorehold');">
+            Show Graph
+        </button>
+        <button class="graph_button graph_type_button" id="C96814378740895025620137062514039767068{level}" style="flex:1" onclick="window.ObsHtmlGraph.switch_graph_type(this);">
+            2D
+        </button>
+    </div>
+</div>
+
+<script type="module">
+    if (window.ObsHtmlGraph == undefined){
+        import('/kingdom-of-vallonde/obs.html/static/graph.js').then((Module) => {
+            window.ObsHtmlGraph = Module;
+            window.ObsHtmlGraph.arm_page(document.getElementById('page_holder'))
+        })
+    }
+</script>
+
+
+
+
+                                <!-- end content -->
+                        </div>
+                        <div class="container_filler">
+                        </div>
+                        <div id="right_pane" class="right_pane active">
+    <div id="right_pane_fold_header" class="right_pane_fold_header fold_header">x</div>
+    <div id="right_pane_content" class="right_pane_content">
+            
+    </div>
+</div>
+                </div>
+        </div>
+
+        <script>
+                function handle_toggle_side_bar(e){
+                        let header;
+                        let pane; 
+                        let target = e.target
+
+                        // switch out the navbar button click for a header click
+                        if (target.id == 'left_pane_toggle_nav'){
+                                target = document.getElementById('left_pane_fold_header')
+                        }
+                        else if (target.id == 'right_pane_toggle_nav'){
+                                target = document.getElementById('right_pane_fold_header')
+                        }
+
+                        // get header and pane
+                        if (target.classList.contains('fold_header')) {
+                                header = target;
+                                pane = target.parentElement;
+                        }
+                        else {
+                                pane = target;
+                                header = target.getElementsByClassName('fold_header')[0];
+                        }
+                        toggle_side_bar(pane, header, true)
+                        e.stopPropagation();
+                }
+                function handle_toggle_side_bar_button(e){
+                        document.getElementById('menu_toggle_button').click()
+                        handle_toggle_side_bar(e);
+                }
+
+                function toggle_side_bar(pane, header, save) {
+                        let active = (pane.classList.contains('active'))
+                        if (active){
+                                disable_side_bar(pane, header, save);
+                        }
+                        else {
+                                enable_side_bar(pane, header, save);
+                        }
+                }
+                function enable_side_bar(pane, header, save){
+                        pane.classList.add('active');
+                        pane.removeEventListener('click', handle_toggle_side_bar);
+                        header.addEventListener('click', handle_toggle_side_bar);
+                        set_correct_header_symbol(header);
+                        if (save){ save_panel_folding_state(header, true) }
+                }
+                function disable_side_bar(pane, header, save){
+                        pane.classList.remove('active');
+                        pane.addEventListener('click', handle_toggle_side_bar);
+                        header.removeEventListener('click', handle_toggle_side_bar);
+                        set_correct_header_symbol(header);
+                        if (save){ save_panel_folding_state(header, false) }
+                }
+                function set_correct_header_symbol(header){
+                        let pane = header.parentElement;
+                        let symbol = [['>', '<'],['<', '>']]
+                        symbol = symbol[Number(header.classList.contains('right_pane_fold_header'))][Number(pane.classList.contains('active'))];
+                        console.log(symbol);
+                        header.innerHTML = symbol
+                        return header;
+                }
+                function panel_folding_get_panel_name(header){
+                        return ['left', 'right'][Number(header.classList.contains('right_pane_fold_header'))]
+                }
+                function save_panel_folding_state(header, active){
+                        ls_set('pane_folding_state_'+panel_folding_get_panel_name(header), Number(active));
+                }
+                function load_panel_folding_state(panel_name){
+                        val = ls_get('pane_folding_state_'+panel_name)
+                        if (!val){ return {'exists': false, 'value': null}}
+                        return {'exists': true, 'value': Boolean(Number(val))}
+                }
+                function set_pane_folding_start(left_header, right_header){
+                        // small screen = closed
+                        let right_pane_enabled = true;
+                        let left_pane_enabled = true;
+                        let w = window.visualViewport.width
+                        if (w < 1000){
+                                left_pane_enabled = false
+                        }
+                        if (w < 800){
+                                right_pane_enabled = false
+                        }
+
+                        // get saved values if present
+                        let rval = load_panel_folding_state('right')
+                        if (rval['exists']){
+                                right_pane_enabled = rval['value']
+                        }
+                        let lval = load_panel_folding_state('left')
+                        if (lval['exists']){
+                                left_pane_enabled = lval['value']
+                        }
+
+                        // default = enabled, so we only need to disable
+                        if (!left_pane_enabled){
+                                disable_side_bar(document.getElementById('left_pane'), document.getElementById('left_pane_fold_header'))
+                        }
+                        if (!right_pane_enabled){
+                                disable_side_bar(document.getElementById('right_pane'), document.getElementById('right_pane_fold_header'))
+                        }
+                }
+
+                function init_pane_folding(header){
+                        set_correct_header_symbol(header);
+                        header.addEventListener('click', handle_toggle_side_bar);
+                }
+                
+                
+                set_pane_folding_start()
+                init_pane_folding(document.getElementById('left_pane_fold_header'));
+                init_pane_folding(document.getElementById('right_pane_fold_header'));
+
+                document.getElementById('left_pane_toggle_nav').addEventListener('click', handle_toggle_side_bar_button);
+                document.getElementById('right_pane_toggle_nav').addEventListener('click', handle_toggle_side_bar_button);
+        </script>
+
+        <script src="/kingdom-of-vallonde/obs.html/static/load_dirtree_footer.js" type="text/javascript"></script>
+
+        
+
+
+
+
+</body>
+</html>

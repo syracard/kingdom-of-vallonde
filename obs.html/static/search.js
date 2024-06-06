@@ -7,7 +7,7 @@ var SEARCH_DATA = [];                          // SEARCH_DATA_SOURCE with change
 
 var URL_MODE = 'absolute';
 var RELATIVE_PATHS = 0;
-var CONFIGURED_HTML_URL_PREFIX = '/artyrix-campaign';
+var CONFIGURED_HTML_URL_PREFIX = '/kingdom-of-vallonde';
 var TRY_PRELOAD = 0;
 
 var fuse;                               // fuzzy search object
