@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3228675fe60cd85e",
+        "id": "e25048aaaa911599",
         "type": "tabs",
         "children": [
           {
-            "id": "87d27bec9bdac295",
+            "id": "c87e878f984aff51",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,14 +147,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87d27bec9bdac295",
+  "active": "c87e878f984aff51",
   "lastOpenFiles": [
     "README.md",
+    "Main Folder/The Kingdom of Vallonde/Locations/Nations/Tev'ash Empire.md",
+    "Main Folder/The Kingdom of Vallonde/Locations/Nations/Kingdom of Vallonde.md",
     "Main Folder/Warm-Up Questions.md",
     "Main Folder/Worldbuilding Notes and Tables.md",
     "Main Folder",
     "Main Folder/Title tbd/TBD Notes and Drafting.md",
-    "Main Folder/The Kingdom of Vallonde/Locations/Nations/Kingdom of Vallonde.md",
     "nojekyll.nojekyll",
     "nojekyll.nojekyll.txt",
     "The.md",
