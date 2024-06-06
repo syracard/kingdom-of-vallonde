@@ -8,7 +8,7 @@ obsidian_folder_path_str: './'
 obsidian_entrypoint_path_str: './README.md'
 
 html_url_prefix: '/kingdom-of-vallonde'
-site_name: 'Kingdom of Vallonde'
+site_name: 'Adventures in Osstor'
 
 included_file_suffixes: ['jpg', 'jpeg', 'gif', 'png', 'svg', 'bmp', 'pdf', 'mp4', 'webm', 'mp3', 'wav']
 
