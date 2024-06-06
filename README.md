@@ -1,5 +1,5 @@
 # The Kingdom of Vallonde
-Landing page for the 5e campaign. Organized in Obsidian.
+Welcome to the campaign page!
 
 Interested in some lore? Checkout the following:
  - [[Kingdom of Vallonde]]

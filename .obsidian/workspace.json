@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Kingdom of Vallonde/Locations/Nations/Kingdom of Vallonde.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Kingdom of Vallonde/Locations/Nations/Kingdom of Vallonde.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Kingdom of Vallonde/Locations/Nations/Kingdom of Vallonde.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Kingdom of Vallonde/Locations/Nations/Kingdom of Vallonde.md"
+                "file": "README.md"
               }
             }
           },
@@ -170,10 +170,10 @@
   },
   "active": "399b95fb73f42bec",
   "lastOpenFiles": [
+    "The Kingdom of Vallonde/Locations/Nations/Kingdom of Vallonde.md",
     "nojekyll.nojekyll",
     "nojekyll.nojekyll.txt",
     "The.md",
-    "The Kingdom of Vallonde/Locations/Nations/Kingdom of Vallonde.md",
     "README.md",
     "Title tbd/TBD Notes and Drafting.md",
     "The Kingdom of Vallonde/General Notes.md",
@@ -204,7 +204,6 @@
     "Title tbd/Characters",
     "Title tbd/Locations",
     "Title tbd/Lore",
-    "Title tbd/Modules",
-    "Title tbd/The Tomb of the Lizard King"
+    "Title tbd/Modules"
   ]
 }
