@@ -1,4 +1,4 @@
-The caverns beneath [[Dorian's Rest]] are primarily inhabited by orcs recruited by [[Piru, the Volatile]]. They have been restlessly waiting for her plan to be executed so they can raid and become her new policing force. 
+The caverns beneath [[Dorian's Rest]] are primarily inhabited by orcs recruited by [[Piru, the Volcanic Rage]]. They have been restlessly waiting for her plan to be executed so they can raid and become her new policing force. 
 
 **A:** The narrow passageways you have been following begin to widen as you enter the cavern network underneath Dorian's Rest. 
 	*Orc Patrol:* There is a patrol of orcs ahead. DC 17 Perception (Wisdom) to detect them. DC 18 Stealth (Dexterity) to avoid their detection. 

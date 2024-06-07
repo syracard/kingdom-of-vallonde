@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Main Folder/The Kingdom of Vallonde/Characters/Piru, the Volcanic Rage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Main Folder/The Kingdom of Vallonde/Characters/Piru, the Volcanic Rage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Main Folder/The Kingdom of Vallonde/Characters/Piru, the Volcanic Rage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Main Folder/The Kingdom of Vallonde/Characters/Piru, the Volcanic Rage.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +158,12 @@
   },
   "active": "877c964469ed3fda",
   "lastOpenFiles": [
+    "Main Folder/DM Stuffs/General Notes.md",
+    "Main Folder/The Kingdom of Vallonde/Characters/Piru, the Volcanic Rage.md",
+    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.md",
     "README.md",
     "Main Folder/DM Stuffs/Location Notes.md",
     "Main Folder/DM Stuffs/Info for Nick.md",
-    "Main Folder/DM Stuffs/General Notes.md",
     "Main Folder/DM Stuffs",
     "Main Folder/Title tbd/Locations/Settlements/Cadun.md",
     "Main Folder/Title tbd/Locations/Settlements/Waycombe.md",
@@ -190,8 +193,6 @@
     "Main Folder/Title tbd/Lore",
     "Main Folder/Title tbd/Characters",
     "Main Folder/Title tbd",
-    "DM Stuffs/General Notes.md",
-    "Title tbd/Locations/Dungeons/Wina's Keep.md",
-    "Title tbd/Locations/Settlements/Vendare.md"
+    "DM Stuffs/General Notes.md"
   ]
 }

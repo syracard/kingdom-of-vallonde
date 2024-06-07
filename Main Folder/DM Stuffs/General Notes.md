@@ -65,7 +65,7 @@ Snorri Loot
 	Uldred Loot
 		book about anti-undead construction
 		*Teleport* stick
-		Note on deals with the [[The Order of the Black Rose]] and [[Piru, the Volatile]]. 
+		Note on deals with the [[The Order of the Black Rose]] and [[Piru, the Volcanic Rage]]. 
 		+3 longbow arrows (x9)
 		Potion of Invisibility
 		Potion of Speed
