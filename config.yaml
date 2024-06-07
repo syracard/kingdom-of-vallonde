@@ -24,9 +24,7 @@ toggles:
 exclude_subfolders:
   - ".obsidian"
   - "output"
-  - "Title tbd"
   - ".DS_Store"
   - ".git"
   - "venv"
-  - "DM Stuffs"
   - "Main Folder"
