@@ -40,7 +40,7 @@ jobs:
 
       - name: Build Site
         run: | 
-          rm -rf './Main Folder/DM Stuffs'
+          rm -rf './Main Folder'
           obsidianhtml convert -i config.yaml
 
       - name: Deploy
