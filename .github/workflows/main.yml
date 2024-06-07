@@ -41,7 +41,7 @@ jobs:
       - name: Build Site
         run: | 
           rm -rf kingdom-of-vallonde/Main Folder
-          rm -rf ./Main Folder/'DM Stuffs' 
+          rm -rf "DM Stuffs"
           obsidianhtml convert -i config.yaml
 
       - name: Deploy
