@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Folder/The Kingdom of Vallonde/Characters/Piru, the Volcanic Rage.md",
+                "file": "Characters and NPCs/Piru, the Volcanic Rage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Folder/The Kingdom of Vallonde/Characters/Piru, the Volcanic Rage.md",
+                "file": "Characters and NPCs/Piru, the Volcanic Rage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Folder/The Kingdom of Vallonde/Characters/Piru, the Volcanic Rage.md",
+                "file": "Characters and NPCs/Piru, the Volcanic Rage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Folder/The Kingdom of Vallonde/Characters/Piru, the Volcanic Rage.md"
+                "file": "Characters and NPCs/Piru, the Volcanic Rage.md"
               }
             }
           },
@@ -156,10 +156,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "877c964469ed3fda",
+  "active": "61596bb36fe2ad8c",
   "lastOpenFiles": [
+    "Characters and NPCs",
     "Main Folder/DM Stuffs/General Notes.md",
-    "Main Folder/The Kingdom of Vallonde/Characters/Piru, the Volcanic Rage.md",
+    "Characters and NPCs/Piru, the Volcanic Rage.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.md",
     "README.md",
     "Main Folder/DM Stuffs/Location Notes.md",
@@ -192,7 +193,6 @@
     "Main Folder/Title tbd/Locations",
     "Main Folder/Title tbd/Lore",
     "Main Folder/Title tbd/Characters",
-    "Main Folder/Title tbd",
-    "DM Stuffs/General Notes.md"
+    "Main Folder/Title tbd"
   ]
 }
