@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52b6290fd132142a",
+        "id": "633af1d6b58cf346",
         "type": "tabs",
         "children": [
           {
-            "id": "39eb3905a2fbe91a",
+            "id": "877c964469ed3fda",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,8 +147,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39eb3905a2fbe91a",
+  "active": "877c964469ed3fda",
   "lastOpenFiles": [
+    "README.md",
     "Main Folder/DM Stuffs/Location Notes.md",
     "Main Folder/DM Stuffs/Info for Nick.md",
     "Main Folder/DM Stuffs/General Notes.md",
@@ -181,7 +182,6 @@
     "Main Folder/Title tbd/Lore",
     "Main Folder/Title tbd/Characters",
     "Main Folder/Title tbd",
-    "README.md",
     "DM Stuffs/General Notes.md",
     "Title tbd/Locations/Dungeons/Wina's Keep.md",
     "Title tbd/Locations/Settlements/Vendare.md"
