@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Characters and NPCs/Piru, the Volcanic Rage.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Characters and NPCs/Piru, the Volcanic Rage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Characters and NPCs/Piru, the Volcanic Rage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Characters and NPCs/Piru, the Volcanic Rage.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "877c964469ed3fda",
   "lastOpenFiles": [
-    "Characters and NPCs/Piru, the Volcanic Rage.md",
     "README.md",
+    "Characters and NPCs/Piru, the Volcanic Rage.md",
     "Characters and NPCs",
     "Main Folder/DM Stuffs/General Notes.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.md",
