@@ -8,12 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8245e8d21087b74a",
+            "id": "f20f7be76f8bf0dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Strongholds/Fort Hellion.md",
+                "file": "the Great Forest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64cae8d8874ec905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Legion IV.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "992303583255db6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Colonel Xenothon Burrowfound.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Strongholds/Fort Hellion.md",
+                "file": "the Great Forest.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Strongholds/Fort Hellion.md",
+                "file": "the Great Forest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Strongholds/Fort Hellion.md"
+                "file": "the Great Forest.md"
               }
             }
           },
@@ -216,12 +240,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61596bb36fe2ad8c",
+  "active": "f20f7be76f8bf0dd",
   "lastOpenFiles": [
+    "Locations/Strongholds/Fort Hellion.md",
+    "the Great Forest.md",
+    "Legion IV.md",
+    "Colonel Xenothon Burrowfound.md",
+    "Dwarven Bolt Thrower.md",
     "Locations/Strongholds",
     "Locations",
     "README.md",
-    "Locations/Strongholds/Fort Hellion.md",
     "Main Folder/The Kingdom of Vallonde/Characters/Captain Demos.md",
     "Main Folder/DM Stuffs/Location Notes.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Agros.md",
@@ -244,15 +272,11 @@
     "Main Folder/Title tbd/Characters/Sakatha.md",
     "Main Folder/Title tbd/Characters/Brida.md",
     "Main Folder/Title tbd/Characters/the Baron of Or.md",
-    "Main Folder/Title tbd/Characters/Jorlon.md",
-    "Main Folder/Title tbd/Characters/Mordrin.md",
     "Main Folder/Title tbd/Locations/Strongholds",
-    "Main Folder/Title tbd/Locations/the Great Southern Swamp.md",
     "Main Folder/Title tbd/Locations/Settlements",
     "Main Folder/Title tbd/Locations/Dungeons",
     "Main Folder/Title tbd/The Tomb of the Lizard King",
     "Main Folder/Title tbd/Modules",
-    "Main Folder/Title tbd/Locations",
-    "Main Folder/Title tbd/Lore"
+    "Main Folder/Title tbd/Locations"
   ]
 }

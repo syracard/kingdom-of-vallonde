@@ -15,7 +15,7 @@ It is a 3 story stone fort along the road connecting Agros with Vallonde in the 
 
 | **Item**                       | **Cost** |
 | ------------------------------ | -------- |
-| Dwarven Bolt Thrower           | 100gp    |
+| [[Dwarven Bolt Thrower]]       | 100gp    |
 | Potion of Healing (6)          | 50gp     |
 | Potion of Greater Healing (3)  | 200gp    |
 | Potion of Superior Healing (1) | 2000gp   |
