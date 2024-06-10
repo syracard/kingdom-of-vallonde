@@ -21,7 +21,7 @@ Keyhearth Neighborhoods
 		The smallest section of the city with the highest concentration of wealth and influence. Within this neighborhood are the homes and headquarters of the most powerful groups in the city. This is also the home of what may be the most well-known magical institutions in the world, [[The Lorehold]]. 
 		**Coinsguard Central Command**
 		**Turner's Trinkets and Moore:**
-			A high end shoppe run by Abernathy Turner and Moore. After raiding some dungeons the [[Small Boys]] brought some of their loot there to sell off and make some significant cash. 
+			A high end shoppe run by Abernathy Turner and Moore. After raiding some dungeons the [[Smallboiz]] brought some of their loot there to sell off and make some significant cash. 
 		**Manor of the Lord Mayor:**
 		**The Pickling Guild:**
 

@@ -1,1 +1,1 @@
-The more conservative sister of [[Queen Sama Awhad]]. She contrived a plot to gather resources to usurp her, but was foiled by the [[Small Boys]]. 
+The more conservative sister of [[Queen Sama Awhad]]. She contrived a plot to gather resources to usurp her, but was foiled by the [[Smallboiz]]. 

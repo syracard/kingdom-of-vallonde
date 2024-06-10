@@ -4,4 +4,4 @@ Its wielder is said to be chosen by Morridan himself.
 
 Bound to the axe are the members of the [[Court of All Flesh]]. 
 
-Currently held by [[Small Boys|Snorri Axebitter]]. 
+Currently held by [[Smallboiz|Snorri Axebitter]]. 

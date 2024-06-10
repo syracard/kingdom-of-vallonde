@@ -4,6 +4,6 @@ She came to Keyhearth in the Kings 740s after serving [[Dukesfane]] in their war
 
 In secret, Athlonia is a devotee of Bane and the leader of his [[The Knighthood of Bane |knights]]. 
 
-For a time, she employed [[Captain Odric]] as the leader of her intelligence operation until he was destroyed by the [[Small Boys]]. 
+For a time, she employed [[Captain Odric]] as the leader of her intelligence operation until he was destroyed by the [[Smallboiz]]. 
 
 Athlonia is the descendent of the Elven mage, [[Athlonion]], who was the architect of the prison to contain [[Ashardalon]]. 

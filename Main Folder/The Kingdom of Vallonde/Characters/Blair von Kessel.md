@@ -1,6 +1,6 @@
 Blair is the ranking member of the [[Last Hearth]] chapter of [[The Pickling Guild]]. 
 
-When the [[Small Boys]] arrive in the city, if they meet him, he will inform them that he's planning a fishing trip into the northern waters of [[the Great Sea]] for rare ingredients. 
+When the [[Smallboiz]] arrive in the city, if they meet him, he will inform them that he's planning a fishing trip into the northern waters of [[the Great Sea]] for rare ingredients. 
 
 **Hook:** Blair has made several attempts to travel to the northern fishing waters so far this season, but something has been roiling the waters making it impossible to reach the fishing grounds. Blair suspects there's some sort of magical interference and he's preparing an expedition to solve the issue. 
 

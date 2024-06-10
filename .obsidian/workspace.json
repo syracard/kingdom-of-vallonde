@@ -8,12 +8,72 @@
         "type": "tabs",
         "children": [
           {
-            "id": "877c964469ed3fda",
+            "id": "8245e8d21087b74a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters and NPCs/Piru, the Volcanic Rage.md",
+                "file": "Fort Hellion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c03163fa3e538d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Order of the Black Rose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a36e59d95df8c16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Folder/The Kingdom of Vallonde/Lore/Legendary Weapons/Thimdurr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64b4274b899b5b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "the Tomb of Emperors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d842270cbf9a684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Ashardalon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f5a149441fb49a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Folder/Adventuring Parties/Smallboiz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters and NPCs/Piru, the Volcanic Rage.md",
+                "file": "Fort Hellion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters and NPCs/Piru, the Volcanic Rage.md",
+                "file": "Fort Hellion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters and NPCs/Piru, the Volcanic Rage.md"
+                "file": "Fort Hellion.md"
               }
             }
           },
@@ -156,14 +216,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "877c964469ed3fda",
+  "active": "8245e8d21087b74a",
   "lastOpenFiles": [
     "README.md",
+    "Fort Hellion.md",
+    "Main Folder/The Kingdom of Vallonde/Characters/Captain Demos.md",
+    "Main Folder/DM Stuffs/Location Notes.md",
+    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Agros.md",
+    "Main Folder/Adventuring Parties/Smallboiz.md",
     "Characters and NPCs/Piru, the Volcanic Rage.md",
+    "Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Order of the Black Rose.md",
+    "Main Folder/The Kingdom of Vallonde/Lore/Legendary Weapons/Thimdurr.md",
+    "the Tomb of Emperors.md",
+    "Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Ashardalon.md",
     "Characters and NPCs",
     "Main Folder/DM Stuffs/General Notes.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.md",
-    "Main Folder/DM Stuffs/Location Notes.md",
     "Main Folder/DM Stuffs/Info for Nick.md",
     "Main Folder/DM Stuffs",
     "Main Folder/Title tbd/Locations/Settlements/Cadun.md",
@@ -179,16 +247,9 @@
     "Main Folder/Title tbd/Locations/Strongholds",
     "Main Folder/Title tbd/Locations/the Great Southern Swamp.md",
     "Main Folder/Title tbd/Lore/the Bloodstone.md",
-    "Main Folder/Title tbd/Characters/Aeron.md",
-    "Main Folder/Title tbd/Locations/the Denitric Archipelago.md",
-    "Main Folder/Title tbd/Lore/King Jecht.md",
-    "Main Folder/Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
-    "Main Folder/Title tbd/Locations/Conclave.md",
     "Main Folder/Title tbd/Locations/Settlements",
     "Main Folder/Title tbd/Locations/Dungeons",
-    "Main Folder/Title tbd/Locations/Or.md",
     "Main Folder/Title tbd/The Tomb of the Lizard King",
-    "Main Folder/Title tbd/TBD Notes and Drafting.md",
     "Main Folder/Title tbd/Modules",
     "Main Folder/Title tbd/Locations",
     "Main Folder/Title tbd/Lore",

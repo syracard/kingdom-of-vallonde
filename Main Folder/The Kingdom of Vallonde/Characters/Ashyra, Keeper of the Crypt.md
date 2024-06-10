@@ -1,1 +1,1 @@
-An agent of the [[Immortal Legion]], she was hired by [[Onssbruck Cartel]] before being defeated by the [[Small Boys]].
+An agent of the [[Immortal Legion]], she was hired by [[Onssbruck Cartel]] before being defeated by the [[Smallboiz]].

@@ -4,7 +4,7 @@ It has been some time since Bybrook has had a mayor. Instead Ilin Nere has admin
 **Notables:**
 	Elder Nere
 	[[Rurik Lutgher]]
-		Runs the local blacksmith and manages the mining operations for the [[Small Boys]].
+		Runs the local blacksmith and manages the mining operations for the [[Smallboiz]].
 	[[Madam Hucrele |Kerowyn Hucrele]] (Deceased)
 		Formerly the largest landowner in town and operator of the local general store.
 	[[Captain Flosial]]

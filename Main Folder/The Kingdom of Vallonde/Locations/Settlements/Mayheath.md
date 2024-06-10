@@ -12,7 +12,7 @@ Notables
 	**Andif:** An older human who is the senior member of the Council. 
 	**Mistress Thunda:** Dwarf woodcarver who lead's her eponymous consortium. 
 	**Ninki:** A sphynx who lives in the caves beneath the city. Her den is in a large cavern underneath the Mane Tankard, the pub that she owns and operates in secret. Ninki has also been organizing a resistance movement against Piru's rule. 
-	**Sir Enbar:** He is an armored male ranger who serves as one of [[Knight-Commander Duncan]]'s lieutenants. Enbar is the oldest member of [[The Order of the Black Rose]] and still remembers its original intent as a military order dedicated to the Raven Queen. He has met the [[Small Boys]] and indicated to them that not the entirety of the order would follow Duncan's lead to the end. 
+	**Sir Enbar:** He is an armored male ranger who serves as one of [[Knight-Commander Duncan]]'s lieutenants. Enbar is the oldest member of [[The Order of the Black Rose]] and still remembers its original intent as a military order dedicated to the Raven Queen. He has met the [[Smallboiz]] and indicated to them that not the entirety of the order would follow Duncan's lead to the end. 
 	**Sanzagh:** A male, elf alchemist. He is tall, with straight copper hair and green eyes. He wears fine clothing and numerous rings and is easily distracted by fine food and drink. While he operates a small potions shop he is also working with Sir Enbar to develop more potent poisons.
 	
 Organizations

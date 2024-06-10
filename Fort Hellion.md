@@ -1,0 +1,4 @@
+**Pages from an anonymous soldier's journal:**
+ > *The barracks was only about half-full when I arrived. But in the past few weeks there have been more recruits and other soldiers being shipped in from Agros. Something's go to be in the works, but the Colonel hasn't said much about what's going on. I wonder if it's got to do with those adventurers who killed the demon that was attacking with that dragon a few days ago...*
+ 
+Fort Hellion is the southernmost military position of the [[Tev'ash Empire]]. It is under the command of [[Colonel Xenothon Burrowfound]] and is garrisoned by the [[Legion IV]]. 

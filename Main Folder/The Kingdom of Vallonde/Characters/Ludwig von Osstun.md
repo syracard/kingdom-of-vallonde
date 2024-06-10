@@ -4,4 +4,4 @@ His father, despite his own poverty, offered haven to [[Ulmed]], an exile of [[B
 
 Ludwig sought a life better than his for his young family; one that was out from under the boots of the Coinsguard. To that end he began operating outside of the law, building a criminal enterprise that raided Keyhearth traders and sold their stolen gains on the black market. 
 
-When the [[Small Boys]] arrived in the Sister Cities they ran afoul of Ludwig's operation (and were even approached to assassinate him). However, they recognized his plight against the authority of Keyhearth and decided to support him, even creating lines of trade between his people and their other allies. 
+When the [[Smallboiz]] arrived in the Sister Cities they ran afoul of Ludwig's operation (and were even approached to assassinate him). However, they recognized his plight against the authority of Keyhearth and decided to support him, even creating lines of trade between his people and their other allies. 
