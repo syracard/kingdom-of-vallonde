@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fort Hellion.md",
+                "file": "Locations/Strongholds/Fort Hellion.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fort Hellion.md",
+                "file": "Locations/Strongholds/Fort Hellion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fort Hellion.md",
+                "file": "Locations/Strongholds/Fort Hellion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fort Hellion.md"
+                "file": "Locations/Strongholds/Fort Hellion.md"
               }
             }
           },
@@ -216,10 +216,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8245e8d21087b74a",
+  "active": "61596bb36fe2ad8c",
   "lastOpenFiles": [
+    "Locations/Strongholds",
+    "Locations",
     "README.md",
-    "Fort Hellion.md",
+    "Locations/Strongholds/Fort Hellion.md",
     "Main Folder/The Kingdom of Vallonde/Characters/Captain Demos.md",
     "Main Folder/DM Stuffs/Location Notes.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Agros.md",
@@ -246,13 +248,11 @@
     "Main Folder/Title tbd/Characters/Mordrin.md",
     "Main Folder/Title tbd/Locations/Strongholds",
     "Main Folder/Title tbd/Locations/the Great Southern Swamp.md",
-    "Main Folder/Title tbd/Lore/the Bloodstone.md",
     "Main Folder/Title tbd/Locations/Settlements",
     "Main Folder/Title tbd/Locations/Dungeons",
     "Main Folder/Title tbd/The Tomb of the Lizard King",
     "Main Folder/Title tbd/Modules",
     "Main Folder/Title tbd/Locations",
-    "Main Folder/Title tbd/Lore",
-    "Main Folder/Title tbd/Characters"
+    "Main Folder/Title tbd/Lore"
   ]
 }
