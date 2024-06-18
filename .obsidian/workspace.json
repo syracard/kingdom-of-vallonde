@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Legion IV.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Legion IV.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Legion IV.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Legion IV.md"
+                "file": "README.md"
               }
             }
           },
@@ -230,26 +230,29 @@
   },
   "active": "64cae8d8874ec905",
   "lastOpenFiles": [
+    "Characters and NPCs/Piru, the Volcanic Rage.md",
+    "README.md",
+    "Main Folder/DM Stuffs/General Notes.md",
+    "Main Folder/Warm-Up Questions.md",
+    "Legion IV.md",
+    "Locations/Strongholds/Fort Hellion.md",
+    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Agros.md",
+    "Main Folder/The Kingdom of Vallonde/Locations/Stronholds/Stone Keep.md",
+    "Main Folder/The Kingdom of Vallonde/Characters/Alphonse Kallis.md",
     "Locations/Regions/the Great Forest.md",
     "Locations/Regions",
-    "Locations/Strongholds/Fort Hellion.md",
-    "Legion IV.md",
     "Colonel Xenothon Burrowfound.md",
     "Dwarven Bolt Thrower.md",
     "Locations/Strongholds",
     "Locations",
-    "README.md",
     "Main Folder/The Kingdom of Vallonde/Characters/Captain Demos.md",
     "Main Folder/DM Stuffs/Location Notes.md",
-    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Agros.md",
     "Main Folder/Adventuring Parties/Smallboiz.md",
-    "Characters and NPCs/Piru, the Volcanic Rage.md",
     "Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Order of the Black Rose.md",
     "Main Folder/The Kingdom of Vallonde/Lore/Legendary Weapons/Thimdurr.md",
     "the Tomb of Emperors.md",
     "Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Ashardalon.md",
     "Characters and NPCs",
-    "Main Folder/DM Stuffs/General Notes.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.md",
     "Main Folder/DM Stuffs/Info for Nick.md",
     "Main Folder/DM Stuffs",
@@ -258,8 +261,6 @@
     "Main Folder/Title tbd/Locations/Settlements/Vendare.md",
     "Main Folder/Title tbd/Locations/Strongholds/Cuthbert Castle.md",
     "Main Folder/Title tbd/Locations/Dungeons/Wina's Keep.md",
-    "Main Folder/Title tbd/Characters/Sakatha.md",
-    "Main Folder/Title tbd/Characters/Brida.md",
     "Main Folder/Title tbd/Locations/Strongholds",
     "Main Folder/Title tbd/Locations/Settlements",
     "Main Folder/Title tbd/Locations/Dungeons",

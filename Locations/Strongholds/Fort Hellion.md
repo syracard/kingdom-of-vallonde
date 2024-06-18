@@ -7,7 +7,7 @@ It is a 3 story stone fort along the road connecting Agros with Vallonde in the 
 
 ### Stronghold Information:
 **Faction:** Legion IV
-**Type:** Keep (level 2)
+**Type:** Keep (level 1)
 **Services:** 
 	*Tev'ashi Military Requisitions:* The fort's blacksmith and quartermaster have connections with both official imperial suppliers and connections that they have made through black market connections. If you are **trusted** with Legion IV you can purchase armor and weapons at a 50% discount and you have access to the **Special Stock**. 
 	
