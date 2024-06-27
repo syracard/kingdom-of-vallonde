@@ -1,0 +1,1 @@
+A string of islands that stretches east from [[Conclave]]. They are inhabited by different mariners and merchants who have set up a few outposts along the trade routes connecting conclave to [[Osstoria]]. Most of the islands have not been formally settled. 

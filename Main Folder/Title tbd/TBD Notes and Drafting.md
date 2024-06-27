@@ -1,4 +1,4 @@
-**World Location:** The island of [[Conclave]] and [[the Denitric Archipelago]].  
+**World Location:** The island of [[Conclave]] and [[The Denitric Archipelago]].  
 **Overall Plot and Antagonists:** There are a couple of options here depending on the themes, mechanics, or types of stories that we want to explore. 
 1. Exiled house from [[The Sister Cities|Keyhearth]]. 
 2. Dispatched to investigate rumors of a divine artifact. 

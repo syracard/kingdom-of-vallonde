@@ -4,28 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "633af1d6b58cf346",
+        "id": "2c5eb13193fb62c7",
         "type": "tabs",
         "children": [
           {
-            "id": "64cae8d8874ec905",
+            "id": "589a8454809c4c13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Main Folder/Title tbd/TBD Notes and Drafting.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "992303583255db6a",
+            "id": "eff208dbb9542e16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colonel Xenothon Burrowfound.md",
+                "file": "Main Folder/DM Stuffs/General Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "633af1d6b58cf346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c1e52c874bdc84c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Campaign Player Info.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4ee6100dd66bb3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vallonde Campaign Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "New Campaign Player Info.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "New Campaign Player Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "New Campaign Player Info.md"
               }
             }
           },
@@ -209,8 +239,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,43 +257,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64cae8d8874ec905",
+  "active": "8c1e52c874bdc84c",
   "lastOpenFiles": [
-    "Characters and NPCs/Piru, the Volcanic Rage.md",
-    "README.md",
+    "Main Folder/Title tbd/TBD Notes and Drafting.md",
+    "New Campaign Player Info.md",
+    "Main Folder/Images/System Shock.JPG",
+    "Main Folder/Images/Lingering Injuries.JPG",
+    "Main Folder/Images",
+    "Main Folder/New folder",
+    "Locations/Regions/The Fringewood.md",
+    "Locations/Continents/Osstoria.md",
+    "Locations/Continents",
+    "Locations/Regions/The Denitric Archipelago.md",
+    "Locations/Regions/Conclave.md",
     "Main Folder/DM Stuffs/General Notes.md",
+    "README.md",
+    "Vallonde Campaign Page.md",
+    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Mayheath.md",
+    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Mayheath 1.md",
+    "Characters and NPCs/Xenothon Burrowfound.md",
     "Main Folder/Warm-Up Questions.md",
-    "Legion IV.md",
+    "Factions and Organizations",
+    "Items",
     "Locations/Strongholds/Fort Hellion.md",
+    "Characters and NPCs/Piru, the Volcanic Rage.md",
+    "Factions and Organizations/Legion IV.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Agros.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Stronholds/Stone Keep.md",
     "Main Folder/The Kingdom of Vallonde/Characters/Alphonse Kallis.md",
     "Locations/Regions/the Great Forest.md",
     "Locations/Regions",
-    "Colonel Xenothon Burrowfound.md",
-    "Dwarven Bolt Thrower.md",
+    "Items/Dwarven Bolt Thrower.md",
     "Locations/Strongholds",
     "Locations",
     "Main Folder/The Kingdom of Vallonde/Characters/Captain Demos.md",
     "Main Folder/DM Stuffs/Location Notes.md",
     "Main Folder/Adventuring Parties/Smallboiz.md",
     "Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Order of the Black Rose.md",
-    "Main Folder/The Kingdom of Vallonde/Lore/Legendary Weapons/Thimdurr.md",
-    "the Tomb of Emperors.md",
-    "Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Ashardalon.md",
     "Characters and NPCs",
-    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.md",
-    "Main Folder/DM Stuffs/Info for Nick.md",
-    "Main Folder/DM Stuffs",
-    "Main Folder/Title tbd/Locations/Settlements/Cadun.md",
-    "Main Folder/Title tbd/Locations/Settlements/Waycombe.md",
-    "Main Folder/Title tbd/Locations/Settlements/Vendare.md",
-    "Main Folder/Title tbd/Locations/Strongholds/Cuthbert Castle.md",
-    "Main Folder/Title tbd/Locations/Dungeons/Wina's Keep.md",
-    "Main Folder/Title tbd/Locations/Strongholds",
-    "Main Folder/Title tbd/Locations/Settlements",
-    "Main Folder/Title tbd/Locations/Dungeons",
-    "Main Folder/Title tbd/The Tomb of the Lizard King",
-    "Main Folder/Title tbd/Modules"
+    "Main Folder/DM Stuffs"
   ]
 }

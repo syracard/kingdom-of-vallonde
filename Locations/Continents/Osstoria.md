@@ -1,0 +1,1 @@
+Osstoria is the northern continent of Osstor. It is home to the [[Tev'ash Empire]], the [[Kingdom of Vallonde]], and other city states. The southern reaches of the continent stretch down to the jungles of [[The Fringewood]]. 

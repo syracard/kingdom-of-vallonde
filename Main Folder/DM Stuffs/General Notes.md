@@ -10,6 +10,14 @@
 
 40x40 tiles
 
+Devil Teller for Smallzo's Bank
+
+**Post death of Piru**
+	Different factions positioning: 
+		Athlonia: wants to gain ground for Keyhearth and potentially parley that into her own political career **and** use the ritual site to release her grandfather
+		The Tev'ashi: Looking to expand the empire however they can
+		Vallondic Nobles: Retain as much autonomy as they can and place Amil on the throne
+
 Orville Wrightson: heading to The Club for safety during the Civil Kerfuffle
 
 Dezna

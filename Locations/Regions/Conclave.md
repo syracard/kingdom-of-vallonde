@@ -1,4 +1,4 @@
-Conclave is a large island (we'll say the diameter at the longest point is roughly the length of Britain) west of [[the Denitric Archipelago]]. 
+Conclave is a large island (we'll say the diameter at the longest point is roughly the length of Britain) west of [[The Denitric Archipelago]]. 
 
 The denizens of the island belong do different factions (that style themselves as 'kingdoms'). They aren't so much kingdoms in the formal/traditional sense, but more like relatively decentralized gangs led by whoever manages to secure the loyalty of enough other leaders, settlements, etc. 
 

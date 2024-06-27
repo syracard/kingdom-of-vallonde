@@ -1,1 +1,0 @@
-Osstoria is the northern continent. 
