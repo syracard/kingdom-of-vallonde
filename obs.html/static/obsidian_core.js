@@ -13,7 +13,7 @@ var CONFIG_CLOSE_LEFT_PANE_IF_EMPTY = 0;
 var RELATIVE_PATHS = 0;
 var documentation_mode = 1;
 var tab_mode = !no_tab_mode;
-var gzip_hash = '101421898970186641237760240324698350859'                       // used to check whether the localStorage data is stale
+var gzip_hash = '136076781157567431221340338505946083904'                       // used to check whether the localStorage data is stale
 
 // global cache
 var fn_cache_ls_available = null;
