@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "633af1d6b58cf346",
@@ -44,18 +45,6 @@
               "type": "markdown",
               "state": {
                 "file": "New Campaign Player Info.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4ee6100dd66bb3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vallonde Campaign Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -257,10 +246,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61596bb36fe2ad8c",
+  "active": "8c1e52c874bdc84c",
   "lastOpenFiles": [
-    "Main Folder/Title tbd/TBD Notes and Drafting.md",
+    "Main Folder/DM Stuffs/Untitled.md",
     "New Campaign Player Info.md",
+    "Main Folder/DM Stuffs/General Notes.md",
+    "Main Folder/The Kingdom of Vallonde/Characters/Admiral Varcho.md",
+    "Main Folder/Warm-Up Questions.md",
+    "Vallonde Campaign Page.md",
+    "Main Folder/Title tbd/TBD Notes and Drafting.md",
     "Images/System Shock.JPG",
     "Images/Lingering Injuries.JPG",
     "Images",
@@ -270,13 +264,10 @@
     "Locations/Continents",
     "Locations/Regions/The Denitric Archipelago.md",
     "Locations/Regions/Conclave.md",
-    "Main Folder/DM Stuffs/General Notes.md",
     "README.md",
-    "Vallonde Campaign Page.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Mayheath.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Mayheath 1.md",
     "Characters and NPCs/Xenothon Burrowfound.md",
-    "Main Folder/Warm-Up Questions.md",
     "Factions and Organizations",
     "Items",
     "Locations/Strongholds/Fort Hellion.md",
@@ -293,7 +284,6 @@
     "Main Folder/The Kingdom of Vallonde/Characters/Captain Demos.md",
     "Main Folder/DM Stuffs/Location Notes.md",
     "Main Folder/Adventuring Parties/Smallboiz.md",
-    "Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Order of the Black Rose.md",
     "Characters and NPCs",
     "Main Folder/DM Stuffs"
   ]

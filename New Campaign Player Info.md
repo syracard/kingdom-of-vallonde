@@ -1,6 +1,7 @@
 Hi thanks for your interest in the new campaign! I'll be putting some info here for you to consider and think about while we get ready for Session 0 and getting the game fired up. 
 
 **Character Creation:** We'll be starting at level 5. Basically anything is game, just ask me about it if it's a 3rd party source or Unearthed Arcana. 
+I'm feeling a standard 4d6 randomization for stats, but I'm open to other generation methods.
 	*A simple checklist*
 		1. Ancestry
 		2. Class
@@ -59,6 +60,9 @@ You should also think about the D&D 'pillars' that you want to focus on.
 	When a dazed creature is affected by a spell or effect that gives them an extra action on their turn (like the haste spell or the fighter’s Action Surge feature), they can still take this extra action, in addition to the movement, action, or bonus action allowed by the dazed condition. 
 	**Companion Creatures (1 per party):** A companion is a wild ally who adventures with characters. Each companion has unique traits and actions that make them a great ally. But beware! These creatures can be difficult to control in the heat of battle and just might bite the hand that feeds. Don’t fret too much, though! A companion gelatinous cube or owlbear is worth the risk of an occasional wild rampage.
 	I've got more rules for companion creatures, but we can go over them if we decide to use them. 
+	**The Action Point:** You can spend an action point on your turn to take an extra action in combat. If you have already cast a spell on that turn, this action may be a spell of 2nd level or lower.
+	You regain all spent action points after recovering from a long rest.
+	**Factions and Organizations:** Do you guys want some sort of tracking of relations and loyalties with different factions, groups, and organizations that you meet? I'm thinking a basic scale like *Hated*, *Suspicious*, *Neutral*, *Friendly*, *Trusted*. 
 
 
 **Anything Off Limits?** If there are any themes or topics you want to totally avoid let me know. D&D should be fun not traumatizing!

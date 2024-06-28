@@ -1,0 +1,1 @@
+https://www.reddit.com/r/DnDBehindTheScreen/comments/k67fs7/how_to_build_better_factions_in_your_world/
