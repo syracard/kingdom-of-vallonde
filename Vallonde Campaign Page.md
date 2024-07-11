@@ -7,7 +7,7 @@ And some journal updates...
  - **Session Review:** 
  > **27 June:** 
 
- > **20 June:** The Smallboiz and the forces of Farbrook Castle recovered from the Regent's attack and celebrated their victory. 
+ > **20 June:** The Smallboiz and the forces of Farbrook Castle recovered from the Regent's attack and celebrated their victory. Flint invoked some magic and brought Smallzo back to life.
 
  > **13 June:** After arriving at Farbrook Castle in the midst of the chaos of a dragon attack the Smallboiz immediately began climbing the keep stairs to get a view of the situation. Passing an open balcony they saw the Regent perched on the castle walls, resplendent in magical armor, and assaulting the defenders. They engaged her in pitched battle, fighting against the terror of combatting an armored, fully-grown dragon. Piru raged against the heroes with flame and tooth and claw. At the end of the battle Smallzo lay dead next to the corpse of the slain regent. 
 
