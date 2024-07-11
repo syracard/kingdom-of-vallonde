@@ -44,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Campaign Player Info.md",
+                "file": "Vallonde Campaign Page.md",
                 "mode": "source",
                 "source": false
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Campaign Player Info.md",
+                "file": "Vallonde Campaign Page.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Campaign Player Info.md",
+                "file": "Vallonde Campaign Page.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Campaign Player Info.md"
+                "file": "Vallonde Campaign Page.md"
               }
             }
           },
@@ -248,8 +248,8 @@
   },
   "active": "8c1e52c874bdc84c",
   "lastOpenFiles": [
-    "Main Folder/DM Stuffs/Untitled.md",
     "New Campaign Player Info.md",
+    "Main Folder/DM Stuffs/Untitled.md",
     "Main Folder/DM Stuffs/General Notes.md",
     "Main Folder/The Kingdom of Vallonde/Characters/Admiral Varcho.md",
     "Main Folder/Warm-Up Questions.md",
