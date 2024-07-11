@@ -5,7 +5,7 @@ And some journal updates...
  - The date is 10 June, 757, Age of Kings.
  - The date set for Piru's ritual is 28 June. 
  - **Session Review:** 
- > **27 June:** 
+ > **27 June:** After recovering from Smallzo's resurrection and other aftermaths from the battle with the Regent, the Smallboiz met with an envoy from General Athlonia who has suggested a summit between the different factions now jockeying for the power vacuum. The heroes left for the ruins of Landry where the summit is to be held.
 
  > **20 June:** The Smallboiz and the forces of Farbrook Castle recovered from the Regent's attack and celebrated their victory. Flint invoked some magic and brought Smallzo back to life.
 
