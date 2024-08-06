@@ -11,6 +11,11 @@ See Tasha's optional rules
 ### Stuff to Work Out
 Landing city and town along the road to Vendare
 
+### Intro Arc Stuffs
+1. Inspo from Captain Cook
+   	a. Use *Endeavour* as the basis for dimensions of the ship they cross on
+   	b. 'Dunking' ritual around the Cataract
+
 ### Modules/Long-term Plot Beats
 1. Intro: Depends on origin this will change. So.... figure out @ Session 0
 	2. Introduce [[the Bloodstone]] here.
