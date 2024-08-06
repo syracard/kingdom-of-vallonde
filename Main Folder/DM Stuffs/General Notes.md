@@ -6,6 +6,11 @@
 
 [https://5e.tools/index.html](https://5e.tools/index.html)
 
+Club-brook spun off. 
+Council of 3
+	Noble-Electman-Military
+**Infernal Iron:** vs. Infernals - Advantage and an additional weapon die damage
+
 3 days to summit
 
 5emagic.shop
