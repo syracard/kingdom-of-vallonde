@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Folder/Title tbd/TBD Notes and Drafting.md",
+                "file": "Main Folder/Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,87 +30,33 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "633af1d6b58cf346",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "8c1e52c874bdc84c",
+            "id": "68aa2e0059e2b93f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vallonde Campaign Page.md",
+                "file": "New Campaign Player Info.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c03163fa3e538d23",
+            "id": "a15421da8aac99c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Order of the Black Rose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a36e59d95df8c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Folder/The Kingdom of Vallonde/Lore/Legendary Weapons/Thimdurr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64b4274b899b5b08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "the Tomb of Emperors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d842270cbf9a684",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Ashardalon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f5a149441fb49a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Folder/Adventuring Parties/Smallboiz.md",
+                "file": "House Rules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -176,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vallonde Campaign Page.md",
+                "file": "House Rules.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vallonde Campaign Page.md",
+                "file": "House Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vallonde Campaign Page.md"
+                "file": "House Rules.md"
               }
             }
           },
@@ -246,16 +192,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8c1e52c874bdc84c",
+  "active": "a15421da8aac99c6",
   "lastOpenFiles": [
-    "README.md",
-    "Main Folder/Warm-Up Questions.md",
-    "Main Folder/DM Stuffs/General Notes.md",
-    "Main Folder/The Kingdom of Vallonde/Characters/Admiral Varcho.md",
-    "Vallonde Campaign Page.md",
     "New Campaign Player Info.md",
-    "Main Folder/DM Stuffs/Untitled.md",
+    "House Rules.md",
+    "Main Folder/DM Stuffs/General Notes.md",
+    "Main Folder/Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
+    "README.md",
+    "Untitled.md",
+    "Main Folder/Campaign Theorizing.md",
     "Main Folder/Title tbd/TBD Notes and Drafting.md",
+    "Main Folder/Adventuring Parties/Smallboiz.md",
+    "Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Ashardalon.md",
+    "the Tomb of Emperors.md",
+    "Main Folder/The Kingdom of Vallonde/Lore/Legendary Weapons/Thimdurr.md",
+    "Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Order of the Black Rose.md",
+    "Main Folder/Warm-Up Questions.md",
+    "Vallonde Campaign Page.md",
+    "Main Folder/The Kingdom of Vallonde/Characters/Admiral Varcho.md",
+    "Main Folder/DM Stuffs/Untitled.md",
     "Images/System Shock.JPG",
     "Images/Lingering Injuries.JPG",
     "Images",
@@ -272,18 +227,9 @@
     "Items",
     "Locations/Strongholds/Fort Hellion.md",
     "Characters and NPCs/Piru, the Volcanic Rage.md",
-    "Factions and Organizations/Legion IV.md",
-    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Agros.md",
-    "Main Folder/The Kingdom of Vallonde/Locations/Stronholds/Stone Keep.md",
-    "Main Folder/The Kingdom of Vallonde/Characters/Alphonse Kallis.md",
-    "Locations/Regions/the Great Forest.md",
     "Locations/Regions",
-    "Items/Dwarven Bolt Thrower.md",
     "Locations/Strongholds",
     "Locations",
-    "Main Folder/The Kingdom of Vallonde/Characters/Captain Demos.md",
-    "Main Folder/DM Stuffs/Location Notes.md",
-    "Main Folder/Adventuring Parties/Smallboiz.md",
     "Characters and NPCs",
     "Main Folder/DM Stuffs"
   ]

@@ -10,14 +10,21 @@ See Tasha's optional rules
 
 ### Stuff to Work Out
 Landing city and town along the road to Vendare
+A prophecy: *And lo, when the returned serpent is slain again, it shall herald and Age of Chaos for all of Conclave, and in this Age the true nature of the Bloodstone will be revealed.* 
+
+### Lore Stuffs
+**Orcus:** Long ago he was a greater demon. Was summoned to the material plane and killed. They followed him to the Abyss to destroy him. Some time later a powerful necromage resurrected him. Connection to **the Desolation of Corinthia**. 
 
 ### Intro Arc Stuffs
 1. Inspo from Captain Cook
    	a. Use *Endeavour* as the basis for dimensions of the ship they cross on
    	b. 'Dunking' ritual around the Cataract
+2. Inspo from 007
+	1. Crashed boat base for Pickling Guild the bay
+
 
 ### Modules/Long-term Plot Beats
-1. Intro: Depends on origin this will change. So.... figure out @ Session 0
+1. Intro: Depends on origin this will change. So.... figure out @ Session 0. The *Disco Volante*
 	2. Introduce [[the Bloodstone]] here.
 	3. Seed rumors about the issues in [[Or]] and the generosity and good rule of [[the Baron of Or]]. 
 2. Tomb of the Lizard King
