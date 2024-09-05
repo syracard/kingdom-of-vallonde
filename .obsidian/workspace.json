@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Folder/Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eff208dbb9542e16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Folder/DM Stuffs/General Notes.md",
+                "file": "New Campaign Player Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Campaign Player Info.md",
+                "file": "Main Folder/List of Lore Entries to Write.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fcb13dfb399b9095",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "House Rules.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7d961a9dc100718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters and NPCs/Fernando Ruzzini.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0348d3b333ace1b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters and NPCs/Caterina von Osstun.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "House Rules.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "House Rules.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "House Rules.md"
+                "file": "README.md"
               }
             }
           },
@@ -194,43 +218,43 @@
   },
   "active": "a15421da8aac99c6",
   "lastOpenFiles": [
-    "New Campaign Player Info.md",
-    "House Rules.md",
-    "Main Folder/DM Stuffs/General Notes.md",
-    "Main Folder/Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
-    "README.md",
+    "Characters and NPCs/Caterina von Osstun.md",
+    "Lore/Ashardalon, the Unchained Terror.md",
+    "Main Folder/The Kingdom of Vallonde/Characters/Amil Vallo.md",
+    "Lore/Smallboiz.md",
+    "Lore/Piru, the Volcanic Rage.md",
+    "Lore/The War of the Two Dragons.md",
+    "Locations/Regions/Kingdom of Vallonde.md",
+    "Lore",
+    "Factions and Organizations/The Sons of Keyhearth.md",
+    "Main Folder/List of Lore Entries to Write.md",
+    "Characters and NPCs/Ottovio Ruzzini.md",
+    "Characters and NPCs/Duke Ludwig von Osstun.md",
+    "Factions and Organizations/House Ruzzini.md",
     "Untitled.md",
-    "Main Folder/Campaign Theorizing.md",
-    "Main Folder/Title tbd/TBD Notes and Drafting.md",
-    "Main Folder/Adventuring Parties/Smallboiz.md",
-    "Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Ashardalon.md",
-    "the Tomb of Emperors.md",
-    "Main Folder/The Kingdom of Vallonde/Lore/Legendary Weapons/Thimdurr.md",
-    "Main Folder/The Kingdom of Vallonde/Factions and Organizations/The Order of the Black Rose.md",
-    "Main Folder/Warm-Up Questions.md",
+    "Characters and NPCs/The Party/Kriv.md",
+    "Characters and NPCs/The Party",
+    "Characters and NPCs/Rein.md",
+    "Locations/the Fynwold Canal.md",
+    "Factions and Organizations/The Five Families.md",
+    "Characters and NPCs/Meno Brutini.md",
+    "New Campaign Player Info.md",
+    "Characters and NPCs/Fernando Ruzzini.md",
+    "README.md",
+    "Main Folder/Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
+    "Images/Coat_of_Arms_of_the_House_of_Ruzzini.svg",
+    "Main Folder/DM Stuffs/General Notes.md",
     "Vallonde Campaign Page.md",
-    "Main Folder/The Kingdom of Vallonde/Characters/Admiral Varcho.md",
-    "Main Folder/DM Stuffs/Untitled.md",
+    "Main Folder/Title tbd/TBD Notes and Drafting.md",
     "Images/System Shock.JPG",
     "Images/Lingering Injuries.JPG",
     "Images",
     "Main Folder/New folder",
-    "Locations/Regions/The Fringewood.md",
-    "Locations/Continents/Osstoria.md",
     "Locations/Continents",
-    "Locations/Regions/The Denitric Archipelago.md",
-    "Locations/Regions/Conclave.md",
-    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Mayheath.md",
-    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/Mayheath 1.md",
-    "Characters and NPCs/Xenothon Burrowfound.md",
     "Factions and Organizations",
     "Items",
-    "Locations/Strongholds/Fort Hellion.md",
-    "Characters and NPCs/Piru, the Volcanic Rage.md",
     "Locations/Regions",
     "Locations/Strongholds",
-    "Locations",
-    "Characters and NPCs",
-    "Main Folder/DM Stuffs"
+    "Locations"
   ]
 }

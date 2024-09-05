@@ -1,0 +1,1 @@
+The current Lord Mayor of [[The Sister Cities|Keyhearth]], making him the de facto leader of [[The Five Families]].

@@ -10,7 +10,7 @@ Abanzbazzan is a subterranean Drow city that is ruled by House Awhad. The city i
 
 **Districts**
 	**The Crystalcourt Borough**
-		This is the district where the queen's stronghold, [[Webweaver Keep]], and the city's temple of Lolth is located. These two primary structures are at the top of a hill built around a courtyard at the center of which is a large purple crystal. This crystal is one of the anchors that keeps [[Ashardalon]] imprisoned. 
+		This is the district where the queen's stronghold, [[Webweaver Keep]], and the city's temple of Lolth is located. These two primary structures are at the top of a hill built around a courtyard at the center of which is a large purple crystal. This crystal is one of the anchors that keeps [[Ashardalon, the Unchained Terror]] imprisoned. 
 			**The Elysian Odeum**
 	**Stone Market**
 		This is the small market district of the city that houses the artisans and merchants who make their meager living in the Underdark. 

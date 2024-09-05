@@ -1,4 +1,4 @@
-This is the unofficial title for the leaders of the most prominent mercantile operations in [[The Sister Cities]]. 
+The 'Five Families' are five leading guild families of [[The Sister Cities|Keyhearth]]. The member families change over time, but the current group have firmly been in power for the past fifty years. 
 
 | Family  | Emblem             |
 | ------- | ------------------ |

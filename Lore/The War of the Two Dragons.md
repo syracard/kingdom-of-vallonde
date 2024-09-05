@@ -1,0 +1,3 @@
+About twenty years ago the [[Kingdom of Vallonde]] was ruled by the red dragon, [[Piru, the Volcanic Rage]]. At the apex of her power, she was challenged by the heroes, the [[Smallboiz]], who championed the true heir to the throne, [[Amil Vallo]]. 
+
+During the final days of the confrontation, [[Ashardalon, the Unchained Terror]] escaped from his prison, but was struck down by the heroes before he could reassert his power. 

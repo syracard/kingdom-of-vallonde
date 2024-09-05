@@ -62,7 +62,7 @@ You should also think about the D&D 'pillars' that you want to focus on.
 	I've got more rules for companion creatures, but we can go over them if we decide to use them. 
 	**The Action Point:** You can spend an action point on your turn to take an extra action in combat. If you have already cast a spell on that turn, this action may be a spell of 2nd level or lower.
 	You regain all spent action points after recovering from a long rest.
-	**Factions and Organizations:** Do you guys want some sort of tracking of relations and loyalties with different factions, groups, and organizations that you meet? I'm thinking a basic scale like *Hated*, *Suspicious*, *Neutral*, *Friendly*, *Trusted*. 
+	**Factions and Organizations:** Do you guys want some sort of tracking of relations and loyalties with different factions, groups, and organizations that you meet? I'm thinking a basic scale like *Hated*, *Rival*, *Suspicious*, *Neutral*, *Friendly*, *Trusted*, *Allied*. 
 
 
 **Anything Off Limits?** If there are any themes or topics you want to totally avoid let me know. D&D should be fun not traumatizing!

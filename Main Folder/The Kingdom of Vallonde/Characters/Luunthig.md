@@ -1,1 +1,1 @@
-Luunthig was an aboleth that had been living in the depths of the lake around [[Grundi Manor]]. As [[Ashardalon]] began to break down the barriers of his prison, it began to corrupt and mutate the aboleth. It remained in the lake until the [[Smallboiz]] came and defeated it. 
+Luunthig was an aboleth that had been living in the depths of the lake around [[Grundi Manor]]. As [[Ashardalon, the Unchained Terror]] began to break down the barriers of his prison, it began to corrupt and mutate the aboleth. It remained in the lake until the [[Smallboiz]] came and defeated it. 

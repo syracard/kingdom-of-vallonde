@@ -6,11 +6,13 @@
 
 > *Before too long we would come to know her as the Regent of Vallonde. Steward Scalclotz, in all his infinite wisdom and bravery bent the knee as soon as he was given the chance...*
 
-Early in their adventures, the [[Smallboiz]] discovered the plot devised by Piru to release the ancient black dragon, [[Ashardalon]], from his extra-planar prison. Recognizing the doom that this spelled, they endeavored to disrupt and end this devious plot.
+Early in their adventures, the [[Smallboiz]] discovered the plot devised by Piru to release the ancient black dragon, [[Ashardalon, the Unchained Terror]], from his extra-planar prison. Recognizing the doom that this spelled, they endeavored to disrupt and end this devious plot.
 
 They have had a few encounters with the Regent. The first occurred when she deceived them in her humanoid form at [[the Tomb of Emperors]]. At this time she ventured into the catacombs with the adventurers, witnessing Snori Axebitter claim the legendary [[Thimdurr]]. At night, she absconded from the party's camp, pilfering the mace, *Blood-Drinker* as she did. 
 
 Our heroes' next encountered the Volcanic Rage after they ventured deep into the Strodfjall Mountains to investigate the Ruins of Osstoria. It was a race against her agents from [[The Order of the Black Rose]] to secure the site and the secrets that laid buried. Upon completion of their task, the Smallboiz fled and hid from Piru's gaze in the mountain passes before finding refuge at [[Fort Hellion]]. 
 
 Piru assaulted Fort Hellion with her own might and by releasing the demon Sibriex from *Blood-Drinker*. The demon was dispatched and the heroes fought off Piru, forcing her to flee to her roost at Dorian's Rest.
+
+Piru finally confronted the Smallboiz at [[Farbrook Castle]] after they raided her stronghold at [[Dorian's Rest]], destroying all but one of her eggs. Piru was slain by the heroes, ending her reign over Vallonde. 
 

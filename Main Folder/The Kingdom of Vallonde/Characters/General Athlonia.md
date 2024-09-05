@@ -6,4 +6,4 @@ In secret, Athlonia is a devotee of Bane and the leader of his [[The Knighthood 
 
 For a time, she employed [[Captain Odric]] as the leader of her intelligence operation until he was destroyed by the [[Smallboiz]]. 
 
-Athlonia is the descendent of the Elven mage, [[Athlonion]], who was the architect of the prison to contain [[Ashardalon]]. 
+Athlonia is the descendent of the Elven mage, [[Athlonion]], who was the architect of the prison to contain [[Ashardalon, the Unchained Terror]]. 
