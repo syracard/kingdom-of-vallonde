@@ -18,3 +18,8 @@ Stuff to work out
 		Akta
 		Rein
 
+
+XP Distributions
+	Bladesinger encounter
+		1125 xp/player
+	Escape Skill challenge: 500xp/player

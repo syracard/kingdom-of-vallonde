@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Campaign Player Info.md",
+                "file": "Main Folder/Warm-Up Questions.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Characters and NPCs/The Party/Kriv.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,38 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Main Folder/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5568d8bc63577b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7d961a9dc100718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters and NPCs/Fernando Ruzzini.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0348d3b333ace1b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters and NPCs/Caterina von Osstun.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,12 +205,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a15421da8aac99c6",
+  "active": "0c56390859ae88fe",
   "lastOpenFiles": [
+    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.md",
+    "README.md",
+    "Lore/Smallboiz.md",
+    "Main Folder/Untitled.md",
     "Characters and NPCs/Caterina von Osstun.md",
+    "Characters and NPCs/Fernando Ruzzini.md",
+    "Characters and NPCs/The Party/Kriv.md",
+    "Images/Coat_of_Arms_of_the_House_of_Ruzzini.svg",
+    "Main Folder/Warm-Up Questions.md",
+    "New Campaign Player Info.md",
     "Lore/Ashardalon, the Unchained Terror.md",
     "Main Folder/The Kingdom of Vallonde/Characters/Amil Vallo.md",
-    "Lore/Smallboiz.md",
     "Lore/Piru, the Volcanic Rage.md",
     "Lore/The War of the Two Dragons.md",
     "Locations/Regions/Kingdom of Vallonde.md",
@@ -231,21 +228,14 @@
     "Characters and NPCs/Ottovio Ruzzini.md",
     "Characters and NPCs/Duke Ludwig von Osstun.md",
     "Factions and Organizations/House Ruzzini.md",
-    "Untitled.md",
-    "Characters and NPCs/The Party/Kriv.md",
     "Characters and NPCs/The Party",
     "Characters and NPCs/Rein.md",
     "Locations/the Fynwold Canal.md",
     "Factions and Organizations/The Five Families.md",
     "Characters and NPCs/Meno Brutini.md",
-    "New Campaign Player Info.md",
-    "Characters and NPCs/Fernando Ruzzini.md",
-    "README.md",
     "Main Folder/Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
-    "Images/Coat_of_Arms_of_the_House_of_Ruzzini.svg",
     "Main Folder/DM Stuffs/General Notes.md",
     "Vallonde Campaign Page.md",
-    "Main Folder/Title tbd/TBD Notes and Drafting.md",
     "Images/System Shock.JPG",
     "Images/Lingering Injuries.JPG",
     "Images",
