@@ -1,5 +1,11 @@
 Check out our list of [[House Rules]]
 
+# Session 2: 12 September. The Docks Aflame
+As the rest of our heroes aided in Caterina's escape, Sorin Voss, the Shadow Broker of House Ruzzini, was overseeing the security for the wedding. He leapt into action when the Sons of Keyhearth began their attack, directing the Ruzzini guards to defend the bride and groom. He was too late to join in the initial fray, but caught up with Caterina and his other allies as they fought against a number of forces trying to abscond with the newlywed bride. 
+
+During the fight flames erupted and the wooden structures in this part of the city began burning around our group as they fled into the docks. From this vantage point they could look across the Kassian Straights to see another fire burning in Osstun. Caterina gasped and indicated that it looked like her father's house was the center-point of the blaze. 
+
+As you searched through the docks, the gruff, salty voice of Captain Black came from the deck of his ship. Hooded lanterns shined down on your group, and Caterina was relieved for the first time since the glass windows shattered behind her. 
 # Session 1: 5 September. Campaign Intro and Recap
 ## Intro 
 It is the year 770 of the Age of Kings. Twenty year ago [[The War of the Two Dragons]] changed the face of the Kingdom of Vallonde and sparked a renaissance within the region. Among [[The Sister Cities]] of Keyhearth and Osstun, the historical dominance of Keyhearth has become more lenient in recent years due to the changing political landscape. 

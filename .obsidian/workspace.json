@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Folder/Untitled.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Main Folder/Bloodstone Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,17 +204,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c56390859ae88fe",
+  "active": "a15421da8aac99c6",
   "lastOpenFiles": [
-    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.md",
+    "Main Folder/Bloodstone Notes.md",
+    "Main Folder/List of Lore Entries to Write.md",
+    "Main Folder/Warm-Up Questions.md",
+    "Main Folder/Campaign Theorizing.md",
     "README.md",
+    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.md",
     "Lore/Smallboiz.md",
-    "Main Folder/Untitled.md",
     "Characters and NPCs/Caterina von Osstun.md",
     "Characters and NPCs/Fernando Ruzzini.md",
     "Characters and NPCs/The Party/Kriv.md",
     "Images/Coat_of_Arms_of_the_House_of_Ruzzini.svg",
-    "Main Folder/Warm-Up Questions.md",
     "New Campaign Player Info.md",
     "Lore/Ashardalon, the Unchained Terror.md",
     "Main Folder/The Kingdom of Vallonde/Characters/Amil Vallo.md",
@@ -224,7 +225,6 @@
     "Locations/Regions/Kingdom of Vallonde.md",
     "Lore",
     "Factions and Organizations/The Sons of Keyhearth.md",
-    "Main Folder/List of Lore Entries to Write.md",
     "Characters and NPCs/Ottovio Ruzzini.md",
     "Characters and NPCs/Duke Ludwig von Osstun.md",
     "Factions and Organizations/House Ruzzini.md",
@@ -235,7 +235,6 @@
     "Characters and NPCs/Meno Brutini.md",
     "Main Folder/Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
     "Main Folder/DM Stuffs/General Notes.md",
-    "Vallonde Campaign Page.md",
     "Images/System Shock.JPG",
     "Images/Lingering Injuries.JPG",
     "Images",
