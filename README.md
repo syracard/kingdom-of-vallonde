@@ -1,5 +1,11 @@
 Check out our list of [[House Rules]]
 
+# Session 3: 19 September. Setting Sail
+Our heroes met Captain Black and [[The Crew of the Endeavour]]. The crew began to quickly loose the sails and go to sea. As they set forth an intense gust of wind--reeking of death and decay--blew across the Kassian Straights and into Keyhearth. It blew into the city, seemingly centered at the point of the conflict with the Bladesinger where a 75-foot pillar of flame erupted into the sky. This invigorated the crew as you sailed out of the port. 
+
+The morning after their escape Caterina and her allies from the Ruzzini family learned that the forces acting against them had quickly distributed wanted posters and brought charges of tax dereliction against the leadership of their family. Sorin recalled an escape plan known only to Ottovio and Fernando that would lead the two of them to Conclave. It was decided there that you would accompany *The Endeavour* on their trip to Conclave with the hopes of meeting any more Ruzzini survivors there. 
+
+Some of the party decided to work with the crew and learn some bit of sailing along the way. During the first week of travel the ship was attacked by roving berserkers who did not seem wholly prepared for sea travel. Despite some close calls, they were dispatched before much damage could be done. 
 # Session 2: 12 September. The Docks Aflame
 As the rest of our heroes aided in Caterina's escape, Sorin Voss, the Shadow Broker of House Ruzzini, was overseeing the security for the wedding. He leapt into action when the Sons of Keyhearth began their attack, directing the Ruzzini guards to defend the bride and groom. He was too late to join in the initial fray, but caught up with Caterina and his other allies as they fought against a number of forces trying to abscond with the newlywed bride. 
 

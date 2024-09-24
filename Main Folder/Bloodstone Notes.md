@@ -27,7 +27,23 @@ Escape Skill challenge: 500xp/player
 
 # Session Notes
 ## Session 2
-Captain Black, his crew, and ship, *The Endeavour*. 
+[[The Crew of the Endeavour]]  
+
+## Leaving the Keyhearth Docks:
+The sailors untie the thick cords that moored their ship and begin unfurling the large, rectangular sails of the three-masted vessel. As the ship rolls on the rocky waters out of the Keyhearth harbor a gust of wind blows in off the waters. It fills your nostrils with the noxious odor of death and rot. It whips the sails and flags of *The Endeavour*, and draws your gaze towards the fire raging in the city. With a *BOOM!* a 75-foot pillar of flame erupts into the sky. "By the dark gods! A'right men put your backs into it! Double time!" Captain Black shouts over the sounds of the continued fighting in the city. 
+	DC 20 Perception Check (A character that has proficiency with cartographer's tools has advantage on this roll): A success recognizes that the pillar of flame erupted from the site of the party's battle before entering the docks. 
+
+## The First Days at Sea
+During the night after the party boarded *The Endeavour* Cpt. Black brings the party and Caterina to his quarters for a discussion over breakfast. A breakfast of breads, cheeses, and dried fish has been prepared. The captain is pouring cups of tea and coffee. 
+	**Black:** 
+		I hope ye slept well. You especially Lady Caterina. (He sits down, offering seats for each of you.) With all of the chaos last night I decided to plumb some of my sources. (He pulls out a fine, leather messenger bag that has silver thread runes sewn into the strap and clasp. Out of the bag he removes a collection of six papers. He hands one to each of you. They are wanted posters depicting you. Each of you have a bounty of 1500 gp and Caterina has a bounty of 5000 gp). I've spoken a bit with the Lady Caterina and I gather that whoever orchestrated what happened last night dinnae waste any time advancing whatever plan they had. As it stands. House Ruzzini and all of their guild enterprises have been declared criminal. By the authority of the Lord Mayor and the Coinsguard have charged yer family's leadership with dereliction of taxes. The Lady Caterina has been charged as a conspirator and colluding with the Ruzzini to raid her father's ducal coffers. 
+	**Sorin Voss** 
+		knows that Ottovio and Fernando Ruzzini had a plan for catastrophes such as these. Since the family did not have the funds to buy off entire garrisons of Coinsguard they bribed key gaolers and officials, and prepared safehouses to get them out of the city. The ultimate goal is to find passage to Conclave. 
+	**Caterina:** 
+		Then we go to Conclave. In the worst case scenario (she wipes a tear from her eye) my husband and father-in-law are dead, and I am the leader of House Ruzzini. The best case scenario is that their plan is successful. If that is the case we will meet them on Conclave and plan our next moves from there. (She looks to Captain Black.) Can you at least get us to the next port? I'm sure we can find our passage across the sea from there. 
+	**Black:**
+		(The captain chuckles and wipes some tea from his mustache.) Yer in luck my Lady. This little expedition of mine has been chartered by the Pickling Guild of Keyhearth to travel to Conclave and trade for exotic spices and ingredients. 
+			DC 20 Insight Check: You can tell that the captain isn't telling the whole truth about the agreement with the Pickling Guild. If pressed, he will say that he is prevented by his agreement to say any more, but there is no need to worry. 
 ## Session 1
 # Magic Items
 **Widowmaker**

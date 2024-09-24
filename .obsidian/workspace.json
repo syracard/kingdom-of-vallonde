@@ -56,7 +56,19 @@
             }
           },
           {
-            "id": "e5568d8bc63577b3",
+            "id": "91730b953325d4e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9b48923650d3de8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d88df56114e32ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions and Organizations/The Crew of the Endeavour.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f15c49fa0e1dcfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Folder/Random Encounter Tables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Factions and Organizations/The Crew of the Endeavour.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Factions and Organizations/The Crew of the Endeavour.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Factions and Organizations/The Crew of the Endeavour.md"
               }
             }
           },
@@ -186,7 +222,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,14 +241,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a15421da8aac99c6",
+  "active": "61596bb36fe2ad8c",
   "lastOpenFiles": [
-    "Main Folder/Bloodstone Notes.md",
-    "Main Folder/List of Lore Entries to Write.md",
-    "Main Folder/Warm-Up Questions.md",
-    "Main Folder/Campaign Theorizing.md",
     "README.md",
     "Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.md",
+    "Factions and Organizations/The Crew of the Endeavour.md",
+    "Main Folder/Bloodstone Notes.md",
+    "Main Folder/Random Encounter Tables.md",
+    "Factions and Organizations/House Ruzzini.md",
+    "Factions and Organizations/The Five Families.md",
+    "Main Folder/Warm-Up Questions.md",
+    "Main Folder/List of Lore Entries to Write.md",
+    "Main Folder/Campaign Theorizing.md",
     "Lore/Smallboiz.md",
     "Characters and NPCs/Caterina von Osstun.md",
     "Characters and NPCs/Fernando Ruzzini.md",
@@ -227,14 +268,10 @@
     "Factions and Organizations/The Sons of Keyhearth.md",
     "Characters and NPCs/Ottovio Ruzzini.md",
     "Characters and NPCs/Duke Ludwig von Osstun.md",
-    "Factions and Organizations/House Ruzzini.md",
     "Characters and NPCs/The Party",
     "Characters and NPCs/Rein.md",
     "Locations/the Fynwold Canal.md",
-    "Factions and Organizations/The Five Families.md",
     "Characters and NPCs/Meno Brutini.md",
-    "Main Folder/Title tbd/The Tomb of the Lizard King/Lizard King Notes.md",
-    "Main Folder/DM Stuffs/General Notes.md",
     "Images/System Shock.JPG",
     "Images/Lingering Injuries.JPG",
     "Images",
