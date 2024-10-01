@@ -1,0 +1,1 @@
+Oswald was a member of the [[Circle of Cuthbert]]. 

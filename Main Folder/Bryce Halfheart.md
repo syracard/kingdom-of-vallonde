@@ -1,0 +1,1 @@
+[[Ilfen Halfheart|Ilfen's]] son, Bryce is a teenager with an adventurer's spirit. He looks to follow in the footsteps of his grandmother, who was an adventurer and warrior of great renown. Courageous but inexperienced, the youth is a loyal friend that will selflessly protect those in need. 

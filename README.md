@@ -1,5 +1,9 @@
 Check out our list of [[House Rules]]
 
+# Session 4: 26 September. Merfolk and Pirates
+The exiles from Keyhearth settled in for their voyage across the seas. After dispatching a few berserkers in their first week it was mostly easy sailing for a time. They spotted a rogue whirlpool and traded with a travelling merfolk merchant. 
+
+At the end of the third week of their travels, *The Endeavour* was accosted by a ship flying the black flag of piracy. The captain identified our heroes as having bounties on their heads and moved in to capture them (along with any booty aboard their ship). After a pitched battle the pirates were defeated, their ship sunk, and the heroes and their allies from *The Endeavour* retrieved some of the booty that the pirates had on their ship. 
 # Session 3: 19 September. Setting Sail
 Our heroes met Captain Black and [[The Crew of the Endeavour]]. The crew began to quickly loose the sails and go to sea. As they set forth an intense gust of wind--reeking of death and decay--blew across the Kassian Straights and into Keyhearth. It blew into the city, seemingly centered at the point of the conflict with the Bladesinger where a 75-foot pillar of flame erupted into the sky. This invigorated the crew as you sailed out of the port. 
 

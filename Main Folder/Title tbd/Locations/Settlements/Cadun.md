@@ -32,19 +32,31 @@
 ## Copper Market
 *Built around an old pit mine, the Copper Market sits on the southeast corner of the city, sprawling along the coast.*
 
+**DC 15 History:** Speaking with a few locals and doing some research you learn that this section of the city was named for the veins of copper ore present in the city and the hills to the northwest. During the reign of the [[Circle of Cuthbert]] repeated, powerful spellcraft done in the area resulted in a transmutation of the ores from copper to different types of precious gemstones that fueled the craftsmen who eventually formed the [[Sapphire Grove]]. 
+
+### Locations
+**Halfheart's Half-Anvil**
+	A small (no pun intended) smithy run by [[Ilfen Halfheart]]. Sitting on a crate in the smithy is a wicker basket with a fine, wood-carved depiction of Ilfen's son, [[Bryce Halfheart]]. There are a handful of different coins in the basket. If asked Ilfen will describe how his adventure loving son has been missing for almost four weeks. Ilfen believes that he absconded to the sewers, searching after rumors of treasure. 
+
 ## Jeweler's District
 ### Locations
-**The Guildhall**
+**The Guildhall:** *Who runs the guildhall?*
+	Home of the Jeweler's Guild of Cadun. 
 
 
 ## Rogue's Market
+### Locations
+**The Broken Dagger Inn:**
 
-## Shield Pier
+
+## Shieldpiers
 *The Shield Pier is the oldest part of Cadun. It is built around the teyrn's fortress, [[Cuthbert Castle]]. Due to this it is the center of the teyrn's power within the city and acts as a de facto capital of Ebeorht's demense.* 
 ### Locations
 
 **Aeron's Masonry**
 	This is the workshop of [[Aeron]]. a stonemason who works within the city. His job primarily entails maintaining Cuthbert Castle for the teyrn. However, over the years he has taken on works in other parts  of the city and across the region. As such he has intimate knowledge related to dungeons, ruins, etc. in the area. 
+**The Chantry of the Dual Pantheon:**
+
 **Cuthbert Castle**
 	Cuthbert Castle is the seat that Teyrn Ebeorhdt rules from. It sits along the docs, overlooking the bay; defending against any incursions by sea. 
 

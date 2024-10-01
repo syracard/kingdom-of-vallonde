@@ -4,7 +4,7 @@ Different Interpretations
 	1. the gods were once a single entity, but they were sundered and fractured into the different beings who are now worshiped
 	2. The 'different' gods are just different cultural or regional interpretations of Apollo and Dionysus.
 
-Apollonian Prayer
+The Chant of Apollo
 	Apollo brings truth and understanding,  
 	wit and wisdom fair,  
 	Precious gifts beyond compare.  
@@ -16,7 +16,7 @@ Apollonian Prayer
 	You can live in grace and comfort  
 	In the world that you transform.
 
-Dionysian Prayer
+The Chant of Dionysus
 	In the darkness of the night  
 	In the Heart’s eternal light  
 	Dionysus brings love to give us solace

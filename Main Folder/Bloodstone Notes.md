@@ -17,18 +17,33 @@ Re: Chestnut
 	Rhogar
 	Akta
 	Rein
+Old Voice medallion
 
 
-
+# Travel and Mapping Notes
+## Cadun
+1 Hex = ~100 feet
+**Speed:**
+	Slow: 2 hexes/min
+	Medium: 3 hexes/min
+	Fast: 4 hexes/min
+	Mounts increase pace by 1 hex. Being laden by something like a cart full of stuff reduces pace by 1 hex.
 # XP Distributions
-Bladesinger encounter
-	2000 xp/player
-Escape Skill challenge: 500xp/player
+~~Bladesinger encounter~~
+	~~2000 xp/player~~
+~~Escape Skill challenge: 500xp/player~~
 
 # Session Notes
+## Weekly Scrying
+Vutha - Fail
+Kriv - Fail
+Inxis - Fail
+Frica
+Sorin
+## Approaching the Jagd Seas
+At the end of the third week of your journey you approach the Jagd Seas. The ship's navigator, Rein, explains that the course you're taking has brought your southwest from Keyhearth, but now you'll turn to go directly south until you can sail west along the southern seas between the edge of the Jagd and the Antarctic seas. As he's explaining this, the lookout shouts from the crow's nest: "Ships sighted! Three vessels! Coinsguard flags!" A moment after he shouts that you all feel the ship rock from side to side as a cannonball flies into the water off the starboard bow. 
 ## Session 2
 [[The Crew of the Endeavour]]  
-
 ## Leaving the Keyhearth Docks:
 The sailors untie the thick cords that moored their ship and begin unfurling the large, rectangular sails of the three-masted vessel. As the ship rolls on the rocky waters out of the Keyhearth harbor a gust of wind blows in off the waters. It fills your nostrils with the noxious odor of death and rot. It whips the sails and flags of *The Endeavour*, and draws your gaze towards the fire raging in the city. With a *BOOM!* a 75-foot pillar of flame erupts into the sky. "By the dark gods! A'right men put your backs into it! Double time!" Captain Black shouts over the sounds of the continued fighting in the city. 
 	DC 20 Perception Check (A character that has proficiency with cartographer's tools has advantage on this roll): A success recognizes that the pillar of flame erupted from the site of the party's battle before entering the docks. 
