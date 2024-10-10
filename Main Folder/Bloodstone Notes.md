@@ -41,7 +41,14 @@ Inxis - Fail
 Frica
 Sorin
 ## Approaching the Jagd Seas
-At the end of the third week of your journey you approach the Jagd Seas. The ship's navigator, Rein, explains that the course you're taking has brought your southwest from Keyhearth, but now you'll turn to go directly south until you can sail west along the southern seas between the edge of the Jagd and the Antarctic seas. As he's explaining this, the lookout shouts from the crow's nest: "Ships sighted! Three vessels! Coinsguard flags!" A moment after he shouts that you all feel the ship rock from side to side as a cannonball flies into the water off the starboard bow. 
+At the end of the third week of your journey you approach the Jagd Seas. The ship's navigator, Rein, explains that the course you're taking has brought your southwest from Keyhearth, but now you'll turn to go directly south until you can sail west along the southern seas between the edge of the Jagd and the Antarctic seas. 
+
+Inxis is up in the crow's nest keeping lookout with a spyglass. The lookout who's also keeping watch shouts down to the crew on the main deck: "Ships sighted! Three vessels! It's [[the Gemini Blades]]!" Inxis, you see three ships following your course from the north. Each of them have large, square sails that are crimson red and bear a pair of golden, crossed scimitars. 
+	DC 15 Perception: You can see a figure on the forecastle, standing above the figurehead. They're holding onto the rigging with one hand. You can see their left eye looks like a glowing, red coal and floating in the air around them is what looks like a large two-handed falchion. 
+
+A moment after you spot the ships you see the flash of cannon-fire from forward mounted mortars on the ships. The shots whistle through the air until they splash into the water around the ship. 
+
+"Damn Geminis!" Captain Black shouts. "Mercenaries. Bounty hunters. Rat bastards. All hands! Full starboard! Straight into the Jagd!"
 ## Session 2
 [[The Crew of the Endeavour]]  
 ## Leaving the Keyhearth Docks:

@@ -1,5 +1,5 @@
 # Background
-In the sewers underneath [[Cadun]] an ambitious were-rat alchemist known only as "the Rat King" set up a base of operations years ago. In one of the abandoned, cavernous labs left behind by the [[Circle of Cuthbert]] this creature has been using alchemy and magic to mutate and breed loyal rat minions. To sustain his operations, he sends his rat minions out into the world to collect supplies: from food and drink to other necessary equipment. 
+In the sewers underneath [[Cadun (DM)]] an ambitious were-rat alchemist known only as "the Rat King" set up a base of operations years ago. In one of the abandoned, cavernous labs left behind by the [[Circle of Cuthbert]] this creature has been using alchemy and magic to mutate and breed loyal rat minions. To sustain his operations, he sends his rat minions out into the world to collect supplies: from food and drink to other necessary equipment. 
 
 The initial motives for the Rat King's experimentation is a mystery even to himself. At some point during his time in these caverns, a dark influence took hold of him, slowly driving him insane. The Rat King now has once clear goal in his crazed mind: to create an army of mutant rats and take over the surface, to escape and protect the world from what he calls " the Old Voice," a malicious entity that whispers to him endlessly from the deep. 
 

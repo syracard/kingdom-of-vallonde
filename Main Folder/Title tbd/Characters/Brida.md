@@ -1,3 +1,3 @@
 (She/Her)
 
-Brida is the de facto leader of Rogue's Market in [[Cadun]]. She runs the Broken Dagger Inn and uses it as a front for her illegal activities. 
+Brida is the owner and operator of the Broken Dagger in the Rogues' Market district of [[Cadun]]. 

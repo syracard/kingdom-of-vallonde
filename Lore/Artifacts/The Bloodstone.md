@@ -1,0 +1,1 @@
+The Bloodstone of [[Conclave]] is an ancient artifact. It has been sought after for centuries. It is said that it would grant whoever claimed it the wisdom, power, and authority to bend the chaotic lands of Conclave into their imperial domain. 

@@ -7,7 +7,7 @@ Three weeks ago Baron Brunis sent a squad of 30 warriors to the affected area ne
 
 # The Palace of the Count of Or
 ## 1. A Private Meeting
-*Hearing of the count's need, your party has responded. Brigands usually manage to accumulate a good deal of treasure, and they usually aren't particularly tough to handle. These brigands, however, may be tougher than usual, for as you sit waiting outside the baron's audience chamber, you see a succession of seasoned adventurers and mercenaries enter full of enthusiasm, only to leave shortly with looks of disappointment and fear.*
+*Hearing of the baron's need, your party has responded. Brigands usually manage to accumulate a good deal of treasure, and they usually aren't particularly tough to handle. These brigands, however, may be tougher than usual, for as you sit waiting outside the baron's audience chamber, you see a succession of seasoned adventurers and mercenaries enter full of enthusiasm, only to leave shortly with looks of disappointment and fear.*
 
 *As you sit pondering this strange situation, the door to the audience chamber swings open and the chamberlain announces that it is now your party's turn to meet the baron of Or.*
 

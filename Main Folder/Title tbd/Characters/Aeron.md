@@ -1,4 +1,4 @@
-Aeron is an elder stonemason who lives and works in the city of [[Cadun]]. His primary client is Teyrn Ebeorht and maintains the stonework of [[Cuthbert Castle]]. 
+Aeron is an elder stonemason who lives and works in the city of [[Cadun (DM)]]. His primary client is Teyrn Ebeorht and maintains the stonework of [[Cuthbert Castle]]. 
 
 One of Aeron's many interests is the many dungeons, ruins, and other structures that dot the map of Or. 
 

@@ -1,0 +1,1 @@
+The Sapphire Grove is a consortium of the master craftsmen and artisans in [[Cadun]]. Their emporium, the central hub for their guild activities, is in the Jewelers' District. 

@@ -1,5 +1,21 @@
 Check out our list of [[House Rules]]
 
+# Session 5: 3 October. A Sail Across the Jagd
+After securing the pirate's booty which included a sum of gold, a magical scimitar and armor (which was traded to the quartermaster of *The Endeavour*, Mister Banks), a ledger of outstanding bounties, and a gun, the voyage continued. 
+
+As the journey came ever closer to the antarctic seas and their eventual turn westward around the Jagd, from the crow's nest Inxis spotted three ships on the northern horizon. They looked to be about the same size as *The Endeavour* with large, crimson red sails that bore the symbol of crossed, golden scimitars. The crew recognized this insignia as belonging to [[the Gemini Blades]]: infamous bounty hunters according to Captain Black. 
+
+Using the spyglass, Inxis was also able to identify a figure on the prow of the lead ship. With his arm wrapped in rigging to secure himself and a two-handed falchion hovering in the air around him stood a man above the figurehead with a single, burning coal in the place of his left eye. 
+
+As cannonballs began sailing over *The Endeavour* and splashing into the ocean around the ship, the captain ordered an emergency maneuver: hard starboard right into the Jagd. As your ship moved towards the magically affected doldrums, Brynden Blake revealed the tarp-covered machines along the rear of the quarterdeck: two cubic, metal boxes that were connected by corrugated tubing to a central hub. As he fired up the engine a magical field encompassed the ship, granting it flight to climb into the sky and escape the Gemini ships by flying across the otherwise unsailable Jagd Seas. 
+
+Two weeks of sky-sailing brought our Keyhearthian exiles to the shores of Conclave. They anchored in Enchanter's Bay while looking on the city of [[Cadun]]. Captain Black recruited [[Diego]], a Cadun local to provide some insight into the city for the newcomers and act as a guide while they learn the lay of the land. 
+
+![[The Voyage of The Endeavour.jpg]]
+
+ While Caterina plans to go to [[Cuthbert Castle]] to see if a relationship can be made between your group and the lord of the city, [[Teyrn Ebeorht]], you were immediately tasked with finding suitable lodgings for at least the short term. 
+
+In the long-term two major decisions face you: What type of organization do you want to rebuild here? Who do you seek to befriend (if anyone) in the city? The suggestions for your organization were reforming a criminal enterprise, forming a mercenary company, or taking on more traditional adventurer jobs. Your options of powers in the city are the Teyrn, the [[The Sapphire Grove]], or [[Brida]]. 
 # Session 4: 26 September. Merfolk and Pirates
 The exiles from Keyhearth settled in for their voyage across the seas. After dispatching a few berserkers in their first week it was mostly easy sailing for a time. They spotted a rogue whirlpool and traded with a travelling merfolk merchant. 
 

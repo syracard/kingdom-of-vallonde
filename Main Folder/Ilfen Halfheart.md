@@ -1,1 +1,1 @@
-Ilfen is a good-hearted, halfling blacksmith who runs **Halfheart's Half-Anvil** in the Copper Market of [[Cadun]]. 
+Ilfen is a good-hearted, halfling blacksmith who runs **Halfheart's Half-Anvil** in the Copper Market of [[Cadun (DM)]]. 

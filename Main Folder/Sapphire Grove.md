@@ -1,1 +1,0 @@
-The Sapphire Grove is a consortium of the jewelers and gem-crafters of [[Cadun]]. They operate in and control the western sections of the city and their plays for power have brought them in direct confrontation with [[Brida]]'s thieves' guild. 

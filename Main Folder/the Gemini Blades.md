@@ -1,0 +1,1 @@
+*The Gemini Blades: Mercenaries. Bounty hunters. Rat bastards.* - Captain Black, commander of *The Endeavour* 
