@@ -1,1 +1,0 @@
-The high priest of [[Vendare]] and primary advisor to [[the Baron of Or|John Brumis]]. 

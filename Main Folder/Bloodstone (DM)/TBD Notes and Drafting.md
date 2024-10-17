@@ -26,7 +26,7 @@ A prophecy: *And lo, when the returned serpent is slain again, it shall herald a
 ### Modules/Long-term Plot Beats
 1. Intro: Depends on origin this will change. So.... figure out @ Session 0. The *Disco Volante*
 	2. Introduce [[the Bloodstone (DM)]] here.
-	3. Seed rumors about the issues in [[Or]] and the generosity and good rule of [[the Baron of Or]]. 
+	3. Seed rumors about the issues in [[Or]] and the generosity and good rule of [[Baron John Brunis (DM)]]. 
 2. Tomb of the Lizard King
 	1. This will help to develop the local area of where the party shows up on Conclave and introduce them to the regional politics. 
 

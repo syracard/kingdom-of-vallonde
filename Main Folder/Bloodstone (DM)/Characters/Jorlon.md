@@ -1,0 +1,1 @@
+The high priest of [[Vendare]] and primary advisor to [[Baron John Brunis (DM)|John Brumis]]. 

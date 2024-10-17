@@ -7,7 +7,7 @@ Unknown to all the current cavern inhabitants is that in ancient times long forg
 
 ## Hooks
 **Rescue Mission:** 
-	[[Bryce Halfheart]], a restless teen with an adventurer's spirit, has gone missing. His father, a blacksmith named [[Ilfen Halfheart]], fears that the boy got lost in the sewers after hearing rumors that some sort of treasure might be down there. Ilfen offers 150 gp reward per person and free lodging in the rooms above his shop for his son's safe return. 
+	[[Bryce Halfheart]], a restless teen with an adventurer's spirit, has gone missing. His father, a blacksmith named [[Ilfen Halfheart (DM)]], fears that the boy got lost in the sewers after hearing rumors that some sort of treasure might be down there. Ilfen offers 150 gp reward per person and free lodging in the rooms above his shop for his son's safe return. 
 **The Armor of Invulnerability:**
 	If the PCs succeed on a DC 15 Streetwise check in one of Cadun's bars they overhear some drunken mercenaries talking about the legendary *armor of invulnerability*, once the prized possession of legendary wizard named [[Oswald the Tailor]]. Supposedly it was lost deep within a cavern connected to the sewers under the city. The mercenaries argue over the details of this rumor -- who owned the armor, how strong it really was, how it was lost -- but they all agree that it's somewhere in the cavern. Many have journeyed down into the depths to retrieve the armor, but none have returned. The mercenaries boast that they'll claim the armor for themselves, but right now their too busy drinking, working, and recovering from injuries. 
 

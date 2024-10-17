@@ -1,4 +1,4 @@
-Sakatha, the Great Lizard King, is behind the highway robbery that has been plaguing [[the Baron of Or|John Brumis]] and the barony of [[Or]]. 
+Sakatha, the Great Lizard King, is behind the highway robbery that has been plaguing [[Baron John Brunis (DM)|John Brumis]] and the barony of [[Or]]. 
 
 Some 250 years ago Sakatha came into existence. How this happened no one is sure, for this strange being combined the grotesqueness of lizardfolk with greater intelligence. He has equal shares greed, rapacity, and evil. 
 

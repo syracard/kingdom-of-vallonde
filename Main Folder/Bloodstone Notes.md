@@ -40,10 +40,39 @@ Kriv - Fail
 Inxis - Fail
 Frica
 Sorin
+## Scenes in Cadun
+### Leaving the Broken Dagger
+As you step out of the Broken Dagger Inn, you see the open-air market across the street. This is the eponymous market of the Rogues' Market district. Inxis sees a group of armed individuals loading a cart with supplies: food, casks of wine, etc. What draws your attention is the cloak that the individual directing them is wearing: crimson red with crossed golden scimitars. It does not appear that they have noticed your group, as they are finishing up their market purchases and preparing to leave. 
+
+#### Combat: 900xp/player
+Jutkarr Flintfingers
+Kobold Veles x2
+Kobold Legionary x2
+Kobold Signifier
+
+At the beginning of combat the commoners scatter. 1d6 are scattered across the battlefield. Jutkarr grabs one of them with his first action in combat. He is using them as a shield. Treat him as concentrating on a spell. He has 3/4 cover. Any attack that would miss him, but still hit AC 10, hits the commoner. 
+### Teyrn's Son
+After spending some time in the Little Pony the doors open and young man makes a scene of entering. He's just on the cusp of about 20 years old, a well-kept head of hair, a fancy doublet, and an intricate, basket rapier on his hip. He is accompanied by four armored guards wearing badges with the sigil of Teyrn Ebeorhdt (a black battle-axe on a field of red). 
+
+He is [[Hector Ebeorht]], the son of the Teyrn. 
+
+If they fight: 350 xp/player
+### Brida/Diego
+
+## Rumors in Cadun
+Every day roll a d6 to see what rumors the players heard during their daily travels in the city.
+
+| 1d6 | Rumor                                                                                                                                                                                                                                                        |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | You overheard a group of young adventurers discussing the maps and notes that they were bringing to a mason named Aeron in Shieldpiers. Apparently he offers compensation for information on the dungeons, ruins, etc. that are scattered across the region. |
+| 2   | Across the many notice boards in the city you noticed a repeated call for adventurers from the baron of Vendare. (Can read the notice from [[Cadun (DM)]]).                                                                                                  |
+| 3   | You overheard a group of mercenaries drinking on their downtime. They're discussing a hidden cache of a long-dead wizard, [[Oswald the Tailor]], that they heard about in the sewers where an item called the *Armor of Invulnerability* is located.         |
+| 4   | A smith in Copper Market, Ilfen Halfheart, has been asking around for any information about his missing, teenage son, Bryce.                                                                                                                                 |
+
 ## Approaching the Jagd Seas
 At the end of the third week of your journey you approach the Jagd Seas. The ship's navigator, Rein, explains that the course you're taking has brought your southwest from Keyhearth, but now you'll turn to go directly south until you can sail west along the southern seas between the edge of the Jagd and the Antarctic seas. 
 
-Inxis is up in the crow's nest keeping lookout with a spyglass. The lookout who's also keeping watch shouts down to the crew on the main deck: "Ships sighted! Three vessels! It's [[the Gemini Blades]]!" Inxis, you see three ships following your course from the north. Each of them have large, square sails that are crimson red and bear a pair of golden, crossed scimitars. 
+Inxis is up in the crow's nest keeping lookout with a spyglass. The lookout who's also keeping watch shouts down to the crew on the main deck: "Ships sighted! Three vessels! It's [[the Gemini Blades]]!" Inxis, you see three ships following your course from the north. Each of them have large, square sails that are crimson red and bare a pair of golden, crossed scimitars. 
 	DC 15 Perception: You can see a figure on the forecastle, standing above the figurehead. They're holding onto the rigging with one hand. You can see their left eye looks like a glowing, red coal and floating in the air around them is what looks like a large two-handed falchion. 
 
 A moment after you spot the ships you see the flash of cannon-fire from forward mounted mortars on the ships. The shots whistle through the air until they splash into the water around the ship. 

@@ -36,7 +36,7 @@
 
 ### Locations
 **Halfheart's Half-Anvil**
-	A small (no pun intended) smithy run by [[Ilfen Halfheart]]. Sitting on a crate in the smithy is a wicker basket with a fine, wood-carved depiction of Ilfen's son, [[Bryce Halfheart]]. There are a handful of different coins in the basket. If asked Ilfen will describe how his adventure loving son has been missing for almost four weeks. Ilfen believes that he absconded to the sewers, searching after rumors of treasure. 
+	A small (no pun intended) smithy run by [[Ilfen Halfheart (DM)]]. Sitting on a crate in the smithy is a wicker basket with a fine, wood-carved depiction of Ilfen's son, [[Bryce Halfheart]]. There are a handful of different coins in the basket. If asked Ilfen will describe how his adventure loving son has been missing for almost four weeks. Ilfen believes that he absconded to the sewers, searching after rumors of treasure. 
 
 ## Jeweler's District
 ### Locations

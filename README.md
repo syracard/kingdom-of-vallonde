@@ -1,5 +1,35 @@
 Check out our list of [[House Rules]]
 
+If you have questions about [[Running Your Organization]], check out the new page on it!
+
+# Recent and Upcoming Events
+**Current Date:** 25 October, 770
+
+| **Recent**             |                  |     | **Upcoming**      |                          |
+| ---------------------- | ---------------- | --- | ----------------- | ------------------------ |
+| Date                   | Event            |     | Date              | Event                    |
+| 24 October (1 day ago) | Arrived in Cadun |     | In about 3 months | Arrival of the Ryvelegar |
+
+# Session 6: 10 October. Bar Crawl!
+Our Keyhearthian exiles decided to explore [[Cadun]] by going on a bar crawl, beginning their morning at the Little Pony Inn and Tavern where they met bartender, [[Dagoth]], and the son of [[Teyrn Ebeorht]], [[Hector Ebeorht]]. Drinks were had and rooms were secured at the Little Pony before the party moved on to the next location. 
+
+They arrived at the Broken Dagger Inn where [[Nidda]] was tending bar and Frica sat down for a conversation with the owner of the establishment, [[Brida]]. Of note, she learned that Teyrn Ebeorht's superior, the Ryvelegar of Conclave is set to visit the city in about three months, motivating the Teyrn to ensure that any major issues in the city or with his vassals are dealt with by the time his liege lord arrives. 
+
+Before leaving to explore the final bar in the city, the party took a look at the notice board that was situated inside the Broken Dagger. There were two notices that caught their attention:
+
+From [[Ilfen Halfheart]]: 
+	*Calling all heroes and adventurers!*
+	*Looking for any and all willing to search for my son Bryce.*
+	*Gold will be rewarded upon completion!*
+	*Inquire at Halfheart's Half-Anvil in the Copper Market!*
+
+From [[Baron John Brunis]]: 
+	*The lord of the eastern territories, the city of Vendare, the towns of Arth, Newcombe, and Waycombe, and loyal vassal of the Master of the great city of Cadun, Teyrn Ebeorht, the Butcher of Bludmyst, Baron John Brunis requests the aid of brave adventurers.*
+	*For over a fortnight the caravans travelling through our southernmost settlement and through the swamp that lies beyond have been raided by bandits. There has been no word from the soldiers sent to deal with the brigands, and the baron requests the service of any adventurers who can discover their fate.*
+	*Any who believe they can resolve this issue should report to the palace of Baron Brunis in Vendare.* 
+
+![[cadun map.jpg]]
+
 # Session 5: 3 October. A Sail Across the Jagd
 After securing the pirate's booty which included a sum of gold, a magical scimitar and armor (which was traded to the quartermaster of *The Endeavour*, Mister Banks), a ledger of outstanding bounties, and a gun, the voyage continued. 
 
