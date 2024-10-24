@@ -1,3 +1,20 @@
+# Barony Encounters
+
+| d6  | **Encounter**         |
+| --- | --------------------- |
+| 1   | Shadow Mastiff Pack   |
+| 2   | Kobold Scouting Party |
+| 3   |                       |
+| 4   |                       |
+| 5   |                       |
+| 6   |                       |
+**Shadow Mastiff Pack:**
+	Shadow Mastiff Alpha and 3 Shadow Mastiffs (720xp/player)
+	DC 23 Perception to notice the approaching small pack of Shadow Mastiffs. 
+	**Combat Tactics:** The Alpha and one normal Mastiff approach the party in camp while the two other Mastiffs wait invisibly--using their *Shadow Blend* ability--outside of the bright light radius of their campfire (if they have one). The Alpha will try to get in the middle of the party to affect as many of them as possible with *Terrifying Howl*. The idea is to force the party out of campfire light into the evening shadows to be ambushed by the other Mastiffs. 
+
+**Kobold Scouts:**
+	Signifer, 2 Adepti, 2 Centurions, 2 Shieldscale Drangolins, 2 Veles, and 2 Legionaries (870xp/player)
 # City Encounters
 
 # At Sea

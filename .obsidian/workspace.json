@@ -16,7 +16,9 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -34,7 +36,9 @@
                 "file": "Main Folder/Warm-Up Questions.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Warm-Up Questions"
             }
           },
           {
@@ -43,10 +47,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Folder/Random Encounter Tables.md",
+                "file": "Main Folder/Bloodstone (DM)/Locations/Settlements/Cadun (DM).md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Cadun (DM)"
             }
           },
           {
@@ -55,10 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Folder/Bloodstone (DM)/Locations/Settlements/Cadun (DM).md",
+                "file": "Main Folder/Bloodstone Notes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Bloodstone Notes"
             }
           },
           {
@@ -70,7 +78,9 @@
                 "file": "Factions and Organizations/The Crew of the Endeavour.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The Crew of the Endeavour"
             }
           },
           {
@@ -82,7 +92,9 @@
                 "file": "Main Folder/Stuff to Work on.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Stuff to Work on"
             }
           }
         ],
@@ -106,7 +118,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -121,7 +135,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -129,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -160,7 +178,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
             }
           },
           {
@@ -172,7 +192,9 @@
                 "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -183,7 +205,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -193,7 +217,9 @@
               "type": "outline",
               "state": {
                 "file": "README.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
             }
           },
           {
@@ -201,7 +227,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
@@ -224,11 +252,14 @@
   },
   "active": "a15421da8aac99c6",
   "lastOpenFiles": [
-    "Characters and NPCs/Ilfen Halfheart.md",
-    "Characters and NPCs/Baron John Brunis.md",
-    "Main Folder/Bloodstone (DM)/Locations/Settlements/Cadun (DM).md",
     "Main Folder/Bloodstone Notes.md",
     "README.md",
+    "Locations/Settlements and Strongholds/Cadun.md",
+    "Main Folder/Warm-Up Questions.md",
+    "Main Folder/Bloodstone (DM)/Locations/Settlements/Cadun (DM).md",
+    "Main Folder/Random Encounter Tables.md",
+    "Characters and NPCs/Ilfen Halfheart.md",
+    "Characters and NPCs/Baron John Brunis.md",
     "Main Folder/Ilfen Halfheart (DM).md",
     "Characters and NPCs/Brida.md",
     "Characters and NPCs/Nidda.md",
@@ -246,9 +277,7 @@
     "Images/thug.png",
     "Lore/Ryvelegar War.md",
     "Main Folder/Bloodstone (DM)/Lore/the Bloodstone (DM).md",
-    "Main Folder/Warm-Up Questions.md",
     "Main Folder/Bloodstone (DM)/Characters/Aeron.md",
-    "Locations/Settlements and Strongholds/Cadun.md",
     "Cadun Map.md",
     "Images/Maps/Cadun Map.jpg",
     "Images/Coat_of_Arms_of_the_House_of_Ruzzini.svg",
@@ -256,7 +285,6 @@
     "Images/System Shock.JPG",
     "Images/Cadun.jpg",
     "Factions and Organizations/The Five Families.md",
-    "Factions and Organizations/The Crew of the Endeavour.md",
     "Lore/Artifacts",
     "Lore/Events",
     "Characters and NPCs/House Ruzzini",

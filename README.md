@@ -10,6 +10,12 @@ If you have questions about [[Running Your Organization]], check out the new pag
 | Date                   | Event            |     | Date              | Event                    |
 | 24 October (1 day ago) | Arrived in Cadun |     | In about 3 months | Arrival of the Ryvelegar |
 
+# Session 7: 17 October. Bar Crawl Market Brawl!
+Upon leaving the Broken Dagger Inn, Inxis spotted a group of individuals in the market: kobolds loading a cart under the direction of an older dwarf. The dwarf's cloak was crimson red with a pair of crossed golden scimitars: the symbol of the Gemini Blades. The party attempted to sneak through the crowds of market goers, but were spotted by the dwarf who ordered his kobold soldiers to apprehend the party. 
+
+Battle ensued in the market. The dwarf grabbed a civilian to use as a human shield and assaulted the party with psionic blasts while his kobolds attempted to capture them. The Kobolds were... ineffective dopes and unable to give much help to their leader as he was mauled by Inxis in his bear-form. 
+
+As the heat of battle died a small girl shouted "Papa! Papa!" as she ran to and embraced Sorin who was wearing the magical disguise of one of the market goers who had fled.
 # Session 6: 10 October. Bar Crawl!
 Our Keyhearthian exiles decided to explore [[Cadun]] by going on a bar crawl, beginning their morning at the Little Pony Inn and Tavern where they met bartender, [[Dagoth]], and the son of [[Teyrn Ebeorht]], [[Hector Ebeorht]]. Drinks were had and rooms were secured at the Little Pony before the party moved on to the next location. 
 

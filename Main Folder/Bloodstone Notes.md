@@ -21,6 +21,12 @@ Old Voice medallion
 
 
 # Travel and Mapping Notes
+## Or
+1 Hex = 6 miles
+**Speed:**
+	Slow: 1 hex/3 hr; 3 hex/day
+	Medium: 1 hex/2 hr; 4 hexes/day
+	Fast: 1 hex/1.5 hr; 5 hexes/day
 ## Cadun
 1 Hex = ~100 feet
 **Speed:**
@@ -32,6 +38,8 @@ Old Voice medallion
 ~~Bladesinger encounter~~
 	~~2000 xp/player~~
 ~~Escape Skill challenge: 500xp/player~~
+Market Brawl: 900xp/player
+Scouting the city and finding a place to stay: 500 xp/player
 
 # Session Notes
 ## Weekly Scrying
