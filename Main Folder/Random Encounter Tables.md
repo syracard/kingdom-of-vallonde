@@ -4,8 +4,8 @@
 | --- | --------------------- |
 | 1   | Shadow Mastiff Pack   |
 | 2   | Kobold Scouting Party |
-| 3   |                       |
-| 4   |                       |
+| 3   | Travelling Merchant   |
+| 4   | Yuan-Ti Hunters       |
 | 5   |                       |
 | 6   |                       |
 **Shadow Mastiff Pack:**
@@ -15,6 +15,17 @@
 
 **Kobold Scouts:**
 	Signifer, 2 Adepti, 2 Centurions, 2 Shieldscale Drangolins, 2 Veles, and 2 Legionaries (870xp/player)
+
+**Travelling Merchant:**
+
+| Item                        | Price (gp) |
+| --------------------------- | ---------- |
+| Blue Sapphire Elemental Gem | 800        |
+| Potion of Poison Resistance | 300        |
+| Deck of Illusions           | 400        |
+| Pipes of the Sewers         | 2000       |
+**Yuan-Ti Hunters:**
+Yuan-ti Priest, 3 Pureblood, 3 Broodguard; 540 xp/player; 12GP
 # City Encounters
 
 # At Sea

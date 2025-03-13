@@ -1,3 +1,4 @@
+Next level @ 23k xp
 # Player Titles:
 Davis: Enforcer
 Chestnut: Spell Sniper

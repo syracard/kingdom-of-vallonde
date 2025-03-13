@@ -3,12 +3,41 @@ Check out our list of [[House Rules]]
 If you have questions about [[Running Your Organization]], check out the new page on it!
 
 # Recent and Upcoming Events
-**Current Date:** 25 October, 770
+**Current Date:** 22 November, 770
 
-| **Recent**             |                  |     | **Upcoming**      |                          |
-| ---------------------- | ---------------- | --- | ----------------- | ------------------------ |
-| Date                   | Event            |     | Date              | Event                    |
-| 24 October (1 day ago) | Arrived in Cadun |     | In about 3 months | Arrival of the Ryvelegar |
+| **Recent**               |                                         |     | **Upcoming**      |                          |
+| ------------------------ | --------------------------------------- | --- | ----------------- | ------------------------ |
+| Date                     | Event                                   |     | Date              | Event                    |
+| 24 October (29 days ago) | Arrived in Cadun                        |     | In about 2 months | Arrival of the Ryvelegar |
+| 29 October               | Bryce's first Full Moon                 |     |                   |                          |
+| 30 October               | Left Cadun for Vendare                  |     |                   |                          |
+| 2 November               | Met Sorin's parents at the temple ruins |     |                   |                          |
+| 15 November              | Arrived in Vendare                      |     |                   |                          |
+| 22 November              | Ambushed on the Great Bridge            |     |                   |                          |
+
+# Session 25: 6 March. Ambush on the Great Bridge!
+The party continued on their travels to Waycombe until they came to the Great Bridge spanning the River Ardo. At the halfway point, a large group of Lizardfolk crawled out from underneath to ambush the party. Our heroes managed to defeat this trap before they continued across the bridge. 
+
+# Session 24: 27 February. General Recap and the Travel to Waycombe.
+After defeating the crazed and self-proclaimed Rat King, our heroes took a few days to recover and pursue their own goals before ensuring that Bryce Halfheart's curse had been cured. On the way out of town they decided to investigate [[the Temple of the Dual Pantheon]] after they had discovered that the *Identify* spell Frica was taught by [[Eustice, Cleric of Revelation]], monitored the identified items. 
+
+The group absconded with the [[Book of Records]] and successfully dispelled the tracking spell on it before they decided that it would be best to leave the city for a while to let things cool off and pursue their interests outside of Cadun. 
+
+Towards the beginning of their journey they veered from the road to check out a set of ruins that Kriv had learned about. To their surprise, Sorin's parents, [[Berthold Voss|Berthold]] and [[Arlynne Voss|Arlynne]] Voss, were encamped there with their hired guardian, [[Sir Gordon Chumway]]. At the ruins, they discovered that the chapel here were once occupied by clerics who secretly worshipped [[Orcus, the Demon Prince of Undeath]]. They also learned that this site may have also been connected to the artifact, [[The Bloodstone]]. 
+
+Before leaving the ruins Diego caught up with the party from the city. He brought word from Caterina that she was handling things in the city and he had been tasked with delivering a *Sending Stone* to them so that they could communicate with Caterina. 
+
+Continuing on their travels, our heroes encountered a group of Shadow Mastiffs: extraplanar hounds that suggest there is some sort of planar passage to either the Shadowfell or the Feywild. 
+
+Eventually they arrived at Vendare and made straight for the baron's palace. They were interviewed by Baron John Brunis and his advisor, the cleric Jorlon who decided to accept the party's help. They were brought to a meeting of the merchants and their guards whose caravans had been attacked by the brigands. From them, they learned that the brigands use an old man as bait and use some sort of magical fear to accost the caravans. 
+
+During the meeting one of the attendant clerics revealed himself to be a traitor by casting a *flame strike* spell on the baron, Jorlon, and the party. The party subdued him and decided to immediately set out for Waycombe while Jorlon interrogated the cleric. 
+
+The party travelled south along the road, stopping at the inns on the road. They received word from Jorlon that the traitor was a worshipper of chaotic evil forces, Mordrin, but before he could learn more another traitor in the palace helped Mordrin magically escape. 
+
+The party stopped at the [[Robin's Breast Inn]] on one of the evenings of their travels where they met the minstrel, [[Pluck]], who performed the "[The Ballad of Sakatha](https://www.youtube.com/watch?v=ohopWhwDVUo)" for them. That night, while most were asleep, the party spotted and destroyed a group of Lizardfolk who were prowling around the outskirts of the inn. 
+
+# Session 8: 24 October. The First Night in Cadun
 
 # Session 7: 17 October. Bar Crawl Market Brawl!
 Upon leaving the Broken Dagger Inn, Inxis spotted a group of individuals in the market: kobolds loading a cart under the direction of an older dwarf. The dwarf's cloak was crimson red with a pair of crossed golden scimitars: the symbol of the Gemini Blades. The party attempted to sneak through the crowds of market goers, but were spotted by the dwarf who ordered his kobold soldiers to apprehend the party. 
