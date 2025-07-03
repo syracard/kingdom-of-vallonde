@@ -1,0 +1,3 @@
+Waycombe is a small town southeast of Vendare. It is north of the Great Southern Swamp near the Ardo River. 
+
+Due to its proximity to the Swamp it was a prime target for the brigands who had been raiding the trade caravans that travel out of Vendare. When the party arrived there in the fall of 770 most of the buildings had been burned and plundered by the brigands. The only remaining resident was the innkeeper, Busby who was in the process of packing the last of his belongings before leaving Waycombe to join the rest of his family.

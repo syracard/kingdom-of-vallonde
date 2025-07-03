@@ -1,0 +1,1 @@
+The Platinum Legion is the combat arm of Celestials in the service of Bahamut and his allies. 

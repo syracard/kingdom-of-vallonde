@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "68ebd14c0f14d589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Folder/Modules/The Tomb of the Lizard King/Lizard King Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lizard King Notes"
-            }
-          },
-          {
             "id": "4bcdbede5075b320",
             "type": "leaf",
             "state": {
@@ -83,12 +69,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Main Folder/Modules/The Tomb of the Lizard King/Lizard King Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lizard King Notes"
+            }
+          },
+          {
+            "id": "68ebd14c0f14d589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
+            }
+          },
+          {
+            "id": "aaa7972542722fb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/The Book of Vile Darkness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Book of Vile Darkness"
+            }
+          },
+          {
+            "id": "bb9c8339fe64755e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions and Organizations/The Black Iron Pact.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Black Iron Pact"
             }
           }
         ],
@@ -165,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Folder/Modules/Madness of the Rat King/Rat King Notes.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +203,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rat King Notes"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -184,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Folder/Modules/Madness of the Rat King/Rat King Notes.md",
-                "linksCollapsed": false,
+                "file": "README.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Rat King Notes"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -227,12 +255,12 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,35 +273,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8fe04927fcc41684",
+  "active": "68ebd14c0f14d589",
   "lastOpenFiles": [
-    "Main Folder/Warm-Up Questions.md",
     "Main Folder/Modules/The Tomb of the Lizard King/Lizard King Notes.md",
+    "README.md",
+    "Items/The Book of Vile Darkness.md",
+    "Factions and Organizations/The Black Iron Pact.md",
+    "Images/Demonic Bas-Relief.jpg",
+    "Main Folder/Warm-Up Questions.md",
+    "Factions and Organizations/the Platinum Legion.md",
+    "Characters and NPCs/Tyrael.md",
+    "Characters and NPCs/Aulicus, Lord of the Swamp.md",
+    "Main Folder/Bloodstone Notes.md",
+    "Locations/Settlements and Strongholds/Waycombe.md",
+    "Characters and NPCs/Barto Trume.md",
+    "Locations/Settlements and Strongholds/Vendare.md",
+    "Locations/Settlements and Strongholds/Waycomb.md",
+    "Main Folder/Bloodstone (DM)/Characters/Jorlon.md",
+    "Main Folder/Bloodstone (DM)/Locations/Or.md",
+    "Main Folder/Bloodstone (DM)/Locations/Settlements/Vendare (DM).md",
+    "Main Folder/Bloodstone (DM)/Locations/Settlements/Waycombe (DM).md",
+    "Main Folder/Lore Books/On the Sapient Species of the Feywild.md",
+    "Main Folder/Bloodstone (DM)/TBD Notes and Drafting.md",
+    "Locations/Regions/Conclave.md",
+    "Locations/Regions/The Denitric Archipelago.md",
+    "Locations/Continents/Osstoria.md",
+    "House Rules.md",
+    "Main Folder/Lore Books",
     "Main Folder/Stuff to Work on.md",
     "Main Folder/Sapphire Grove (DM).md",
-    "Main Folder/Bloodstone Notes.md",
-    "README.md",
     "Main Folder/Bloodstone (DM)/Characters/Mordrin.md",
-    "Main Folder/Random Encounter Tables.md",
-    "Factions and Organizations/The Sapphire Grove.md",
-    "Main Folder/Bloodstone (DM)/Locations/Settlements/Cadun (DM).md",
-    "Main Folder/Modules/Madness of the Rat King/Rat King Notes.md",
-    "Main Folder/Mark of the Deep.md",
-    "Locations/Settlements and Strongholds/Cadun.md",
-    "Running Your Organization.md",
-    "Characters and NPCs/Ilfen Halfheart.md",
-    "Characters and NPCs/Bryce Halfheart.md",
-    "Main Folder/Bryce Halfheart (DM).md",
-    "Main Folder/The Ruins of Castle Calenhad (DM).md",
-    "Main Folder/Bloodstone (DM)/TBD Notes and Drafting.md",
     "Images/Coat_of_Arms_of_the_House_of_Ruzzini.svg",
-    "Main Folder/Bloodstone (DM)/Characters/Aeron.md",
-    "Characters and NPCs/Baron John Brunis.md",
-    "Main Folder/Ilfen Halfheart (DM).md",
-    "Characters and NPCs/Brida.md",
-    "Characters and NPCs/Nidda.md",
-    "Characters and NPCs/Hector Ebeorht.md",
-    "Characters and NPCs/Dagoth.md",
     "Images/Maps",
     "Images/thug.png",
     "Images/Maps/Cadun Map.jpg",
@@ -288,7 +318,6 @@
     "Lore",
     "Characters and NPCs/The Party",
     "Images",
-    "Main Folder/New folder",
-    "Locations/Continents"
+    "Main Folder/New folder"
   ]
 }

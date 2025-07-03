@@ -59,7 +59,7 @@
 59. What is one food that you simply will not eat? And why is it meatloaf?
 60. Warriors come and go, but legends are forever. What’s a legend or hero that you admire?
 61. What’s something that makes you feel alive?
-62. Does you feel like the gods are watching? Or something more sinister?
+62. Do you feel like the gods are watching? Or something more sinister?
 63. What are some of your short term/long term goals?
 64. Your camp was subject to a night-time ambush, and you only had time to grab either your sword, your shield, or your breeches. Which one was it?
 65. Describe a moment when you felt like the party had your back. When did you have theirs?

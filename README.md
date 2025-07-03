@@ -3,17 +3,69 @@ Check out our list of [[House Rules]]
 If you have questions about [[Running Your Organization]], check out the new page on it!
 
 # Recent and Upcoming Events
-**Current Date:** 22 November, 770
+**Current Date:** 27 November, 770
 
-| **Recent**               |                                         |     | **Upcoming**      |                          |
-| ------------------------ | --------------------------------------- | --- | ----------------- | ------------------------ |
-| Date                     | Event                                   |     | Date              | Event                    |
-| 24 October (29 days ago) | Arrived in Cadun                        |     | In about 2 months | Arrival of the Ryvelegar |
-| 29 October               | Bryce's first Full Moon                 |     |                   |                          |
-| 30 October               | Left Cadun for Vendare                  |     |                   |                          |
-| 2 November               | Met Sorin's parents at the temple ruins |     |                   |                          |
-| 15 November              | Arrived in Vendare                      |     |                   |                          |
-| 22 November              | Ambushed on the Great Bridge            |     |                   |                          |
+| **Recent**               |                                         |     | **Upcoming**                |                          |
+| ------------------------ | --------------------------------------- | --- | --------------------------- | ------------------------ |
+| Date                     | Event                                   |     | Date                        | Event                    |
+| 24 October (29 days ago) | Arrived in Cadun                        |     | In the beginning of January | Arrival of the Ryvelegar |
+| 29 October               | Bryce's first Full Moon                 |     |                             |                          |
+| 30 October               | Left Cadun for Vendare                  |     |                             |                          |
+| 2 November               | Met Sorin's parents at the temple ruins |     |                             |                          |
+| 15 November              | Arrived in Vendare                      |     |                             |                          |
+| 22 November              | Ambushed on the Great Bridge            |     |                             |                          |
+| 24 November              | Fought the dragon Aulicus               |     |                             |                          |
+
+# The Second Level
+The party began their descent to the second level of the tomb. When they started walking down the stairs below the trap door, they triggered a trap that turned the staircase into a slide. As the party began falling down the passage the trap at the end came into full focus: a pool of lava that they were hurtling towards. Vutha and the party's companion, Diego, managed to latch onto the walls and Inxis used an *Entangle* spell to save the rest of the party from a firey doom. 
+
+The second layer of the tomb is a massive cavern. As the party looked around the initial area they noticed a few boulders covering areas where the party could hide. As they went forward they found a large, subterranean river which spanned the entirety of the cavern. However, after a raft mysteriously appeared by the bank, they realized that the raft and the river itself were illusions which covered a number of vats of acid for unsuspecting tomb raiders to fall into. 
+
+The party crossed the river to find a number of burial mounds. Among these they discovered a small, magical pouch that contained some coins. Beyond the burial mounds was a large pyramidal tomb that stretched up to the upper reaches of the cavern. The doors to the tomb itself were impassible: they had no obvious handle and were warded with abjurative magics. 
+
+Farther beyond the tomb was an encampment of lizardfolk soldiers. Using the black priest robes they had recovered earlier, Vutha impersonated a cleric of tomb to convince one of the lizardfolk to help him through the door. The ruse was successful and the soldier opened the door with the passphrase, "Open in the name of Sakatha, the Great King!"
+# The Book of Evil
+The party continued their explorations of the tomb of Sakatha. In the eastern chambers they found a clerical preparation room where they stole black robes of the tombs priests. Continuing on they found a library that contained a number of books and tomes that contained information on military tactics, demon summoning, and other such things that concern clerics of evil. 
+
+The centerpiece of the room was a large book sitting on a reading stand at the back of the chamber. Upon initial inspection it was open to a diagram of a resurrection ritual which was powered by the sacrifice of life instead of divine magic or raw arcane energies. The book emitted an unnatural presence that disturbed the members of the party who were more attuned to the flows of the natural world. Eventually, Frica cast *identify* to discover that the book is [[The Book of Vile Darkness]]. This tome, an assemblage of the knowledge gained by a number of different evil practitioners of magic from across the ages, was revealed as a physical manifestation of the forces of evil in the multiverse. 
+
+Before they progressed deeper into the tomb, they interrogated their prisoner from the Black Iron Pact, Lady Avalla Deseo. With the aid of convincing spellcraft they learned that Lady Avalla was a member of a group who called themselves the Black Iron Pact. They learned about the operations of the Pact as well as details about the protective magics around their extra-dimensional headquarters: The Cyst.
+# Of Bedchambers and Secret Doors
+As the party continued to explore the tomb they made their way through the bedchambers of the brigands and their captains they restrained some of them before they found a few secret passageways. They found a tunnel through the foundation of the floor into a room for storing the brigands' stolen loot. They defeated the *Shambling Mound* that guarded the treasure and continued their explorations. 
+
+Farther south among these chambers they came across a worship area that contained a statue of the same demonic entity they had seen earlier in the tomb. This statue was accompanied by a deeply stained black altar. Flanking the altar they uncovered two hidden doors that led to a pair of chambers and looped back around. In the chambers they encountered false doors (some of which were *Mimics* in disguise) as well as a trap door that opened to a stairway descending deeper into the tomb. They decided ensure they had explored all of the current level before going on to the next level of the tomb. 
+
+They tackled the western halls next where they encountered a group that they have since come to know as [[The Black Iron Pact]] in a tense fight between a series of small bedchambers. As the members of the pact approached defeat they began to magically teleport away, however, two members were defeated by the party's successful use of *fireball* and *polymorph* spells. 
+
+Beyond the bedchambers the party discovered an altar chamber where a paladin dedicated to the demon-god of this tomb. They defeated the paladin and then looted the statue of his demon-god as well as the treasure in the paladin's secret chamber. 
+# The First Level
+Through a secret door in the bas-relief the party discovered the lair of the late dragon, Aulicus, as well as the passage into the first level of the tomb. They descended and thanks to the attentive ears of Inxis they learned that a number of the brigands had prepared an ambush in the first chamber. When they entered, prepared for combat, the room was dark, but their entrance was lit by a spell from a wizard among the brigands. In flashes of arrows, blades, and walls of fire the party dispatched the brigands who had prepared their trap for them. 
+
+After they dealt with this first opposition the party began to explore the structure in earnest. They discovered different chambers of supplies and areas of rest for the brigands as well as a few other adversaries wandering the halls. They encountered demons, undead wights, and more brigands who were roving and patrolling the halls. They discovered the secret study of the wizard who had been working with the brigands and recovered his spellbook. 
+# The Tomb in the Swamp
+Escorted upon the raft of Stephen DeManis, the party was brought south along the river through the Great Southern Swamp. They came to a great raised mound near the center of the region. The mound of dirt rose out of the swamp waters and DeManis brought them to a staircase which led them up to a landing. At the top of the stairs they beheld a colonnade that went up to a coral bead wall. Upon their approach, the brigands who laid in wait behind the wall revealed themselves and sprung their trap. 
+
+This was not the first trap that the party came upon in the tomb of the lizard king. Water Weirds emerged and attacked from wells in the colonnade. After they defeated the elementals, the party investigated a [[Demonic Bas-Relief.jpg|bas-relief statue]] at the back of the chamber which depicted a powerful demonic being. The statue was flanked by coral mosaics that depicted battles between lizardfolk and other armies one one side, and a huge lizardfolk king wielding a gem-encrusted scepter kneeling before the demonic figure. 
+
+# The Defeat of Aulicus
+After their brief foray into the celestial realms, Tyrael returned the party back to where he had plucked them from just as their battle with Aulicus resumed. Through clever spellcraft they managed to ground the dragon with a *Polymorph* spell before magically blinding and then defeating the threat. 
+
+They assessed the brigands' outpost in the copse such as it was before they ventured into Waycombe proper. In the town they met the innkeeper, Busby, who was preparing to leave the following morning with the last of his worldly possessions to join his family who had already left. It was clear that anything of value in the town had already been looted by the brigands and most of the homes had been burnt. In their conversations with Busby the party learned that there was one more 'resident' of the town, [[Stephen DeManis]] who lived in a hut south of town closer to the swamp. 
+
+When the party approached DeManis's hut they could hear his crazed ramblings form into a singsong chant: 
+
+*They all thinks I'm crazy, so crazy I am;*
+*But I'll sill be here when they ain't what they am!*
+*They'll all be taken to Sakatha's lair,*
+*But me I'll be free as a bird in the air!*
+
+They sat and conversed with DeManis and convinced him to escort them to Sakatha's lair on his raft. 
+# Send Me an Angel
+The party decided to continue on to Waycombe and turn the ambush on their enemies. They approached the copse from the north. They spotted one of the brigands' lookouts and jumped into action. As they lit the evening with magical fires they were astonished as a black dragon emerged from the center of the copse of trees. He roared his name, "[[Aulicus, Lord of the Swamp]]," but before he was able to engage the party they were teleported away from the battle. They found themselves in a clear, white void where they beheld a Celestial figure: [[Tyrael]], Commander of the Platinum Legion. 
+
+Tyrael dispatched different celestial warriors at the party in order to determine their combat abilities. After he was satisfied he informed them that there were greater evils threatening the world of Osstor, and if they succeeded in defeating the darkness in the Swamp then he would come to them again to tell them more about what this threat might be. 
+# Another Ambush
+In a hard fought battle the party dispatched the ambush of Lizardfolk on the Great Bridge of Ardo and after they recovered from their wounds continued along the road to [[Waycombe]]. Along the road they encountered [[Barto Trume]]. Through their conversation the party learned that Barto's men had been defeated and captured by the brigands the party had been sent to investigate. However, they gleaned that this soldier of [[Vendare]] had been put under some magical enchantment that had directed him to lead the party towards a trap. They cleared his mind and he confessed that the brigands took his men into the Swamp and not to the copse of trees north of Waycombe. After he shared this information and rested with the party, Barto began his return to Vendare. 
 
 # Session 25: 6 March. Ambush on the Great Bridge!
 The party continued on their travels to Waycombe until they came to the Great Bridge spanning the River Ardo. At the halfway point, a large group of Lizardfolk crawled out from underneath to ambush the party. Our heroes managed to defeat this trap before they continued across the bridge. 

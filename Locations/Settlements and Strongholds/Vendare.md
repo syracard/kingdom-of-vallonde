@@ -1,0 +1,1 @@
+Vendare is the central town of the Barony of Or. It is the seat of [[Baron John Brunis]]. 

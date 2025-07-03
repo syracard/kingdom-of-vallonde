@@ -6,5 +6,5 @@ The past five generations of barons have been relatively peaceful, deciding to k
 [[Jorlon]]
 
 # Settlements
-[[Vendare]]: The baron's seat.
-[[Waycombe]]
+[[Vendare (DM)]]: The baron's seat.
+[[Waycombe (DM)]]

@@ -1,4 +1,9 @@
 Also check out [[Running Your Organization]]!
+# The Knowledge Pool System (kudos to [/u/wolfdreams01](https://www.reddit.com/r/DnDBehindTheScreen/comments/40ky7k/he_complete_librarians_handbook/))
+Each book, tome, etc. has a **knowledge pool** (the amount of information that can realistically be gained from the item). When you read the book you decide on the level of attention you're giving it (Skimming (1 minute), Browsing (1 hour), or cover-to-cover (8 hours)). These decisions will determine the amount of information that you're able to gain from it. 
+1.  Decide the level of attention that you'll be giving this read. If you've already read this book at this level of detail, then you have disadvantage. If you're Browsing, the DC is doubled. If you're Skimming, the DC is tripled. 
+2. Each point above the DC that you succeed by adds one to the knowledge pool that you'll be able to use to gain information. 
+3. You may spend 2 points of your accrued knowledge pool to gain one piece of useful information chosen by the DM. You may spend 5 points of the knowledge pool to ask the DM a question relevant to the topic that the book could reasonably possess. 
 # Flanking
 
 # Lingering Injuries and System Shock

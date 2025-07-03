@@ -1,9 +1,9 @@
 *Adaptation of the Tomb of the Lizard King* by Mark Acres
 
 # Introduction
-For many years there has been peace in the lands of [[Baron John Brunis (DM)]], John Brunis. The fertile plain of the River Ardo has yielded bountifully, commerce has prospered, and the rule of the successive barons has been generally wise and just. But of late, disturbing reports of highway robbery have reached the palace at [[Vendare]], the major city of Or. According to the tales of whimpering merchants, the southlands are being overrun by a band of vicious brigands. Already there has been a complete halt to the rich trade caravans to and from Or's southern neighbors.
+For many years there has been peace in the lands of [[Baron John Brunis (DM)]], John Brunis. The fertile plain of the River Ardo has yielded bountifully, commerce has prospered, and the rule of the successive barons has been generally wise and just. But of late, disturbing reports of highway robbery have reached the palace at [[Vendare (DM)]], the major city of Or. According to the tales of whimpering merchants, the southlands are being overrun by a band of vicious brigands. Already there has been a complete halt to the rich trade caravans to and from Or's southern neighbors.
 
-Three weeks ago Baron Brunis sent a squad of 30 warriors to the affected area near the small village of [[Waycombe]]. So far there has been no report, no message, no rider — not even a rumor of their fate. Suddenly gravely concerned, the baron has called for a special group of volunteers to go to the Waycombe area, discover the fate of the first expedition, investigate the reports of highway robbery, and if possible put an end to this trouble. Those who answer his call can expect danger, but also great reward, for the baron is known as a generous man who rewards his loyal subjects well. 
+Three weeks ago Baron Brunis sent a squad of 30 warriors to the affected area near the small village of [[Waycombe (DM)]]. So far there has been no report, no message, no rider — not even a rumor of their fate. Suddenly gravely concerned, the baron has called for a special group of volunteers to go to the Waycombe area, discover the fate of the first expedition, investigate the reports of highway robbery, and if possible put an end to this trouble. Those who answer his call can expect danger, but also great reward, for the baron is known as a generous man who rewards his loyal subjects well. 
 
 # The Palace of the Count of Or
 ## 1. A Private Meeting
@@ -306,3 +306,316 @@ Aulicus has been sent by Sakatha to destroy the party. He likes Sakatha, and Sak
 If at any time it appears that the encounter is going against Aulicus, he will fly away, heading south. He will turn to attack any isolated, small groups of characters who are foolish enough to pursue him by flying or other magical means. 
 
 The two brigands who baited the trap will disappear into the copse. If they are tracked, their trail will lead to the edge of the Great Southern Swamp near the hut of Stephen DeManis. 
+
+# The Ancient Temple
+The ancient temple of the lizardfolk is built into the side of a huge mound of muddy earth, which rise abruptly out of the swamp. The temple can be approached only by water; the earthen mound that forms its backdrop is much too treacherous to be climbed. 
+
+The area of swamp around the temple island is so dense that the mound cannot be spotted from distances of more than one-hundred feet. The water around the mound will seem unusually dark and brackish. 
+
+## 1. The Outer Sanctum
+*After more than enough travel through these horrid swamps, you finally see a huge stone platform ahead of you, rising out of the water in the side of a sheer, muddy mound. On the surface of this platform a few marble columns still reach toward the open sky; others have fallen over and broken.*
+
+*Three well-worn stone steps ascend from the water itself to the surface of this marble platform. A number of small skiffs are tied to spikes driven into these steps.*
+
+*A the extreme rear of this platform you can see some type of decorated wall.*
+
+If Stephen DeManis is with the party, he will become very excited at this point, and begin to shout, "There it is! There it is! There's where my good friend Sakatha lives! Maybe he could tame the snakes in my hair."
+
+If the party decides to wait and watch the area for a while, they will see nothing for as long as they wait and watch. (Sakatha has been **scrying** them periodically to keep track of their progress.) As long as the party makes no move against the temple, nothing will happen. Stephen DeManis will grow greatly agitated, however, making more and more noise, and constantly urging the party forward to meet his good friend. 
+
+If the party approaches the temple, there is a 1 in 6 chance per party member that they will notice a body just below the water in the center of the stone stairs. Investigation will reveal a fighter, still in armor but with no weapons, wearing the livery of the Baron of Or. The man has been shot in the back with a crossbow bolt. 
+
+The party will find nothing else of note in the Outer Sanctum area. They will see that the back "wall" is not really a wall at all, but a carefully made screen of seashells tied to strings and hung closely together to give the appearance of a shell wall. 
+
+Behind this "wall" are 10 brigand guards armed with light crossbows. They will not normally be seen until they part the curtain walls and open fire. (DC 16 Perception). 
+
+## 2. The Inner Sanctum
+*Behind the curtain wall, you see another chamber, still open to the sky. At the rear and in the center of this chamber is a large statue of a powerful, demonic being you have not seen before, crouched and open-mouthed (as if unleashing a terrible, threatening scream). The statue is not free-standing, but rather as a bas-relief carved into the rear stone wall of the chamber.*
+
+*The walls on each side are decorated with shell mosaics. One shows a great battle between lizardfolk and humans, with the men taking the worst of it. The other shows a hideous, huge lizard-man with a gem-encrusted scepter kneeling before the same demonic figure depicted in the bas-relief. In front of the bs-relief is a large, smooth stone, about three feet high and eight feet long. It is deeply stained.*
+
+*Three pools are in the floor of the room. Each is about 10 feet across. The pools appear to be covered with a scummy green algae.*
+
+[[Demonic Bas-Relief.jpg]]
+
+There is a secret door that contains the bas-relief. It is quite large at 20 feet wide. It may be opened by a **knock** spell or by placing any small gem in the open mouth of the demon depicted. The gem will roll through and be found on the other side of the door when it opens. The door opens inwards from the right. 
+
+Each pool is the home of a **water weird**. The weirds emerge after Aulicus appears. If Aulicus does not appear, they will emerge after the party has been in the chamber for about a minute. 
+
+If the characters have already killed the black dragon, Aulicus, he will not appear as part of this encounter. If Aulicus was not killed, he will appear from **Area 3** after the party has been in the Inner Sanctum . 
+
+Aulicus will throw open the secret door in the panel with the demonic bas-relief and shout, "Who is disturbing my guards and my rest?!" He will then attack the party. His preferred method of attack will be to fly above the party, using his breath weapon and spells as opportunity arises. He will attempt to prevent the party from running out of the Inner Sanctum, for he knows the water weirds will be forming, and the party will probably be so distracted by his appearance that they will not notice the water weirds. He will fight to the death, and will neither negotiate nor give any information. In the unlikely event that he is subdued, he will show the party his treasure, but lie about everything else in the dungeon.
+
+The secret trap door behind the altar stone can be opened easily once it is found. It reveals a flight of stairs 10 feet wide, which descends a distance of 30 feet to **Dungeon Level 1**. 
+
+### Treasure
+Beneath the scummy water of the weird pools, the party may find the following:
+
+**Pool #1:** 7  pieces of jewelry: gold brooch (800 gp), gold necklace (1200 gp), coral pin (1500 gp), platinum bracelet (2800 gp), jade pin (3000 gp), gold garnet pin (4500 gp), platinum tiara with three rubies (10,000 gp)
+
+**Pool #2:** 1600 platinum
+
+**Pool #3:** 1300 platinum and a **potion of Polymorph**
+
+## 3. The Lair of Aulicus
+ *The door swings open to reveal a large cavern in the side of the mound. A side passageway leads off to the left.*
+
+This is, of course, the lair of Aulicus, the black dragon. 
+
+**Treasure:** The treasure of Aulicus is piled in a huge mound in the side passageway. It includes: 13,000 copper, 25,000 silver, 10 10gp gems, 20 50gp gems, 30 100gp gems, 35 500gp gems, 10 1,000gp gems, **Potion of Fire Resistance**, **+1 Flail**, **+1 Plate Mail**, **+1 Defender Longsword**, **Scroll of Protection from Undead**
+
+# Dungeon Level 1: The Brigand's Lair
+The noise from the battle with Aulicus (not), as well as the **scrying** of Sakatha, will have alerted the brigands on this level to the party's approach. For the rest of the adventure, Sakatha will do no more **scrying**; he is assuming that his dragon dispatched the party. He did not wait around to see the battle, for he was badly in nee do rest. Before going to sleep for eight hours, he gave orders that normal movement is now allowed. 
+
+## Random Encounters
+Roll 1d10 for encounters. There is an encounter on a roll of **1** or **2**. No encounter is repeated. 
+
+| **Roll** | **Encounter** |
+| -------- | ------------- |
+| 1        | Lizardfolk    |
+| 2        | Brigands      |
+| 3        | Clerics       |
+| 4        | Trolls        |
+| 5        | Wolves        |
+| 6        | Bats          |
+| 7        | Wights        |
+| 8        | Demon         |
+| 9        | 4 Jackalweres |
+| 10       | Bugbears      |
+### 1. Lizardfolk
+5 Lizardfolk from the dungeon level below. They are simply on their way outside for some random pleasures. They will attack on sight, and attempt to raise an alarm. 
+
+200 xp/player
+
+### 2. Brigands
+10 Brigands who have been on an errand in the dungeon complex. They will attempt to flee an obviously powerful party and raise an alarm. 
+
+125 xp/player
+
+### 3. Clerics - The Black Iron Pact
+[[The Black Iron Pact]] were in the dungeon discussing future plans with Mordrin. When they begin to fall they will escape with their **Iron Rings**. Command phrase: "Blood of Rioja"
+
+1720 xp/player
+
+### 4. Trolls
+Two trolls that have been doing a little business with the new power in the neighborhood. They will attack the party on sight.
+
+1080 xp/player
+
+### 5. Wolves
+8 Dire Wolves. These wolves are simply a few of the many that are allowed to wander freely through the dungeon at the behest of Sakatha. They are accustomed to being fed by the visitor to the area and by their master. They will not attack unless mistreated or attacked first. 
+
+800 xp/player
+
+### 6. Bats
+The bats, like the wolves, are kept around by Sakatha for reasons obvious to the DM: clever players will probably make the connection between the presence of bats and possible presence of vampires. These bats will not attack unless trapped. 
+
+### 7. Wights
+4 Wight Soldiers
+
+The wights will be headed toward the tomb level below. They are constrained by Sakatha from attacking most visitors, but will recognize the party for what they are and attack. If the encounter seems to be going against the wights, or if they are turned, they will go to the island on the tomb level and prepare to defend it. 
+
+1120 xp/player
+
+### 8. Demon - Abhorrent Overlord
+This foul creature is already in a nasty mood, as he was ordered by a cleric to carry a few spells up to this plane. The party will provide an excellent opportunity for him to work out his frustrations. The demon's name is [[Grzzlat]]. 
+ 
+ 1000 xp/player
+
+### 9. Jackalweres
+6 Jackalweres. These beasts have come to pay their respects to Sakatha. They will be in human form when encountered, dressed as normal fighting men. They will not attack the party at first sight, but will follow from a safe distance, seeking and opportune moment to assume their true form and strike. 
+
+240 xp/player
+
+### 10. Bugbears
+Bugbear Commander, Predator (x2), and Regular (x3). These bugbears, like the jackalweres, are paying respects on behalf of the nearest band. They have no loyalty to Sakatha, however, and if communication can be established before they attack, they can be bought off for 1d10x100 gp (or the equivalent value in gems). Each bugbear has 3-24 copper and 3-18 silver on their person. 
+
+1328 xp/player
+
+## 1. Guard Room
+*The doors at the base of the long stairs opens easily. Beyond it you see a small room containing a wooden table, two chairs and a bottle of wine.*
+
+This guard room is usually manned by two brigands. At the moment, however, it is empty since the guards have gone to **Room 2** to be part of the force preparing to surprise the party. 
+
+## 2. Great Hall of the Brigands
+*As you open the unlocked door to this chamber, you find yourself peering into total darkness. Suddenly, the darkness is pierced by a brilliant light, and you hear the twang of many bowstrings!*
+
+The brigands, who heard the encounter above have prepared a reception party for the PCs. The great hall is an enormous ambush. 
+
+The brilliant light is a **light** spell cast by [[Gormundel]], who is assisting the brigands. As soon as the party opens any door to the great hall, Gormundel will throw his **light** spell directly in the doorway, attempting to center it on the eyes of the first party member who peers in. The brigand bowmen will open fire, and then the polearm men will be sent in to charge. 
+
+Once the melee begins, Gormundel will assist as he can with his spells, and will use his **wand of fear** if it appears that the encounter is going against the brigands. If the players are clearly winning despite his best efforts, Gormundel will be among the first to flee. He will try to return to his quarters, where he might hide or, as more likely, defend himself more effectively. If this retreat is impossible, he will flee to the surface. Fleeing brigands, however, will be completely demoralized, and will immediately attempt to escape outside. 
+
+**Rewards:** 1750 xp/player
+
+## 3. Storage Room
+This room is merely a small storage room. It contains some worthless miscellaneous items such as cheap candle sticks, four dozen candles, and a big ball of string. 
+
+## 4. Kitchen
+This area is the brigands' kitchen. There are several tables, pots, pans, a fireplace (the vent of which is too small to climb), and miscellaneous kitchen and food service utensils. A small unlocked door leads to **Room 4A**, and a similar door to the stairs to **Room 4B**. 
+
+## 4A. Pantry
+This pantry contains enough food to supply the party for the duration of the adventure. There are good stocks of smoked fish, hams, and a variety of greens.
+
+## 4B. Wine Cellar
+This large wince cellar contains 12 barrels of good wine and one barrel of potable water.
+
+## 5. Armory
+Several empty weapon racks line the walls of this room. The only weapons here are six light crossbows, six sets of twelve crossbow bolts, and six maces.
+
+## 6. Barracks
+*You see a large number of cots with cheap mattresses scattered about the room. Beneath each of the cots is a small wooden chest.*
+
+There are 25 cots in the room, the barracks for half of the brigand regular force. Each small chest contains some old clothes, some odds and ends of leather armor, and 2-8 gold. The fifth and 17th chests examined will also contain two 50 gold gems. All chests are locked (DC 13).
+
+## 7. Barracks
+*As you peer into this room, you quickly notice that there are a few brigands sleeping on some of the many cots that are scattered about.*
+
+Asleep in this barracks are 10 brigands. Each keeps his sword and shield near his cot. The brigands are not in their armor. Otherwise, this room is identical to **Room 6**. 
+
+XP: 1350
+
+## 8. Gormundel's Chamber Door
+*As you proceed down the corridor, you see that there is an 8' high bas-relief carving of a demon on the side of the corridor wall.*
+
+This bas-relief is the sign of a secret door. This door opens in exactly the same manner as the door to Aulicus' lair in the temple complex above. 
+
+## 8A. Gormundel's Chamber
+*You see a finely furnished chamber with thick fur carpeting, a brass bed, a good wooden desk and chair, a washstand, writing equipment, and various knickknacks. There is a door in the wall to your left.*
+
+These are Gormundel's quarters. A search of the desk will reveal that one drawer is locked. It can be opened with a **knock** spell, or by saying the **word of command**, "Open." The desk could, of course, be smashed to get at the contents of the drawer. In this drawer are several sheets of parchment with writing on them. Most contain notes on spell research that indicate old Gormundel has been research some type of spell for affecting undead, but without success thus far. One sheet of parchment contains the following verse: 
+
+*Past the doors you cannot find, 
+Down the steps you cannot climb, 
+And across the River of Nothingness 
+You’ll find your way. 
+Beware the marksman and his prey. 
+Shun the royal brides! 
+Then find the place I lie in eternal feast! 
+Past glories I despise; 
+The light of vengeance fills my eye. 
+Treasure I give my servant dragon, 
+Guardian loyal of this, my reborn feeding lair.*
+
+The brass bed is worth 2,000 gold. On the desk are two gold candelsticks worth 100 gold each. No other treasure is in the room except the furniture itself. The desk would fetch 150 gold on the open market. The carpet is worth 300 gold. 
+
+## 9. Gormundel's Study
+*The room you see has long, low work benches along the right and left walls. These benches contain such items as bottles and vials, a lamp and a burner, weights, and other alchemical equipment. Across from you, there is a reading stand in the right-hand corner of the room.*
+
+This is Gormundel's study and laboratory. There is little of value here, except for one vial of powdered diamonds worth 350 gold. The vial can be found in one turn of searching. There is a secret door behind the reading stand. If the door is found, it cannot be opened except with a **knock** spell or by throwing a bit of the powdered diamonds directly at it. The reading stand is empty. 
+
+## 10. Gormundel's Treasure Room
+*As the door opens, you see that you are peering into total blackness.*
+
+The blackness is caused by the **continual darkness** spell Gormundel has placed here. Careful inspection of the room will show that it is apparently completely empty. There is, however, an invisible chest against the back wall of the room, which may be found by careful searching. The chest is locked. Inside is a bag containing 500 gold, a second bag containing 500 platinum, a mass of loose silver totaling 3,500, and a book. 
+
+The book is Gormundel's spellbook. It is finely bound in leather, and has a clasp lock. The magic runes on the front of it and on its opening page are **explosive runes**. DC 15 Dexterity saving throw vs. 5d8 lightning damage. 
+
+## 11. Guards' Quarters
+*Immediately upon opening the door, you see seven men in armor seated at a large table in the middle of the room. They have been drinking, as is shown by several wine bottles and mugs on the table, and you have apparently interrupted a dice game.*
+
+A party that listens at the door before going into this room will hear occasional guffaws and shouts of "Come on, baby!" and "Har! You lose!"
+
+The men are the captain of the brigand band and his six bodyguards. The captain had entrusted the handling of a minor party of intruders to his lieutenant, not wanting to interrupt his own gambling and drinking. The seven men will, of course, attack the party on sight. 
+
+The other items in the room include six locked chests, each containing miscellaneous gear and 300 gold. 
+
+The secret door from here to **Room 15** can be opened by a small latch hidden behind an ornamental wall hanging. 
+
+XP: 937
+
+## 12. Leader's Quarters
+These are the quarters of two of the leaders of the group in **Room 2**. These quarters are nice but unremarkable. There are two large locked chests here, each containing 500 gold. 
+
+## 13. Leader's Quarters 
+This room is identical to **Room 12**. 
+
+## 14. Lieutenant's Quarters
+This sparsely furnished room belongs to the lieutenant of the brigand band. Aside from the usual furnishings, there is nothing to be seen. 
+
+A careful search of the room, however, will reveal a secret hiding place at point **A** behind a loose stone in the wall. Inside this cavity is a large chest. The chest is locked, and trapped cleverly with poisoned needles that fly out in all four directions, two from each side of the chest. Inside are 6,000 silver, 4,000 gold, 200 platinum, and 6 pieces of gold jewelry (500 gold ea). 
+
+*Dart Trap*: +5, 2d10 poison damage. 
+
+## 15. Captain's Quarters
+*This room is ornately furnished, but with the types of items that actually have little value. The overall appearance is rather tacky. The room is carpeted and contains a desk, bed, several chairs, and several wall paintings (mainly of battle scenes between men). There is a sword in a scabbard hanging over the bed.*
+
+The sword is a **cursed berserking bastard sword**. The secret trap door in this room can be found by careful searching beneath the carpeting. It opens onto a rope ladder that descends 20 feet to a narrow (5' wide) corridor. At the end of the corridor is a ladder up to the trap door in **Room 16**. 
+
+## 16. The Brigands' Treasure Room
+*As the first member of your party peers up to the floor of the room above, they see a few glints of metal coming from a huge pile in the middle of the room. Another dark mound appears to begin moving slowly towards them.*
+
+The trap door to this room is locked. Once the party overcomes the lock, they will find the room above completely dark, and the air filled with a horrid staleness and a mild stench. A light shining into the room will reveal what the DM should describe as two large mounds: one of treasure, and one that looks like a heap of rotting vegetation. The second mound is a shambling mound. This creature has been sent to guard the brigands' treasure. It will not leave the treasure room, but will attack anyone who enters. 
+
+**Treasure:** 3,000 copper, 4,000 gold, 4,000 platinum, 5 gold necklaces (300 gold ea), 5 gemmed silver rings (1,000 gold ea), 5 jade bracelets (1,500 gold ea), a **potion of speed**, and a **scroll of web**. 
+
+## 17. Empty Room
+*This room appears to be completely empty, except for a few chairs scattered about*. 
+
+## 18. Worship Area
+*As you round a turn in the corridor, you see ahead what is clearly some type of worship area. In the center of this area is a large, free-standing marble statue of the same demonic type you have already seen. Behind the statue is a darkly stained altar stone. On each side of the statue there are small, 5' diameter pools. Behind the altar is a tapestry depicting a human captive. There are doors leading out of this area to the right and to the left.*
+
+This area is reserved for worship by the brigands and by the demon-worshiping clerics who are in league with them and with Sakatha. The pools are filled with unholy water. Close examination of the altar will reveal that the bloodstains are fresh. The entire area radiates evil. 
+
+## 19. Empty Room
+
+## 20. Clerical Preparation Room
+*In the center of this room is a large round table. A stick of incense in a burner is on the center of the table. Around the room are a set of pegs driven into the walls. Silver-trimmed black robes hang from seven of these pegs. A large basin of water is beside the door to the previous room.*
+
+*This is the room used by the demonic clerics for meditation, preparation for ceremonies, etc. The robes are normal roves; the room, however, will radiate evil.*
+
+## 21. Clerical Study
+*You see what appears to be a small library. There are about 100 books scattered about on shelves around the walls, and two or three books lying on a large table in the center of the room. There is a reading stand against the back wall of the room, upon which a large tome lies open.*
+
+Examination of the books in this room will reveal that they are standard sorts of works that would be of general interest to clerics of chaotic evil alignment. The book on the reading stand, however, is a **Book of Vile Darkness**. It is chained to the reading stand. 
+
+## 22. Cleric's Cell
+*A man in a silver-trimmed black robe is seated at a desk in this small room. He is reading quietly, and looks up at you as soon as the door opens.*
+
+This man is a cleric especially chosen by Mordrin for the great work beginning in this area. The man is totally loyal to his faith--in fact, fanatical. He will die rather than reveal useful information to the party. If possible, he will raise an alarm, which will bring the clerics from **24** and **25** to his aid. This particular cleric's name is Almar.
+
+## 23-26. Clerics' Cells
+These cells are identical to **Room 22** except for their clerics. 
+
+## 27. Secret Door to Room 28
+This wall is covered by a painting of the demon worshiped by the clerics. The door can be opened with a **knock** spell or when it is sprinkled with unholy water.
+
+## 28. Chamber of the Patriarch
+### A. Vestibule
+This finely carpeted little room contains a long wooden bench and a basin of unholy water. 
+
+### B. Main Chamber
+*As you peer into this chamber, you see a man in plate mail armor kneeling in prayer in front of a small shrine. The opening of the door has alerted him to your presence, and he rises quickly, turns, and faces you.*
+
+The man is Patriarch Ui-Lon. He is wearing **+1 plate mail** and wields a **staff of the serpent**. 
+
+Ui-Lon will quickly move against any intruders with a fierce and fanatical wrath. He is especially fond of causing death by poisoning, and can seldom pass up the opportunity to do so. 
+
+His chamber is richly furnished with fine carpeting and several fine items, such as a pair of silver candelabra worth 600 gold. The walls are hung with black curtains all around, except in front of the small shrine built into the back wall. This shrine houses the candelabra and a small, black statue of the cleric's demon-god. The statue is wroth 2,500 gold because of its workmanship, but any person touching and carrying it is 1% likely cumulative per day to attract the attention of a Demon. The secret door behind the curtain in the slanting wall is opened by lifting up the statue, or by a **knock** spell. 
+
+## 29. Temple Treasury
+*In contrast to the luxury of the room you are standing in, this is a small, musty room of bare stone, covered with cobwebs except in its very center. Three chests - one large and two very small - are in the center of the room.*
+
+All three chests are locked and covered with contact poison. (DC 18 Perception to detect). 
+
+The large chest contains 5,000 gold and 2,000 platinum. The small chests each contain a small cylindrical ivory case with an ivory 'stopper' in one end. Each of these cases is worth 500 gold. Inside the first case is a cursed scroll that will give whoever reads it two levels of Exhaustion. The second case contains a **scroll of protection from demons**. 
+
+## 30. Trap Room
+*This appears to be just another empty room. There are doors on the two walls to your right and left.*
+
+The room is empty, but the door at **A** is actually a mimic. 
+
+The other door is a false door. It can be hacked away in one turn. 
+
+Once it is located, the secret door at **B** can easily be swung open.
+
+## 31. Trap Room
+
+This room is identical in all respects to **Room 30**. If, however, the party was attacked by the mimic in **30**, there will be no mimic in **31** and vice versa; the party should face only one mimic in this area of the dungeon. 
+
+## 32. Exit to Tomb Level
+*You see nothing in this area but a corridor 30' long.*
+
+Actually, there is a secret trap door in the floor of this room. Once found, the trap door can easily be opened, and will reveal a set of stone stairs leading to the tomb level. The stairs descend at a modest angle, and at their bottom the party will barely be able to see some type of stone floor. 
+
+The stairs are trapped, and when the first character steps on the fifth stair, will recede with an enormous noise and become a very steep inclined plane. Any character on the stairs will need to make a DC 17 Dexterity saving throw. Those who make the save will be clinging to the smooth rock of the inclined plane, and will have to find some way to get back up. Those who fail will plummet 30' to the flaming pit that has appeared at the foot of the ramp. 
