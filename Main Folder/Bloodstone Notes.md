@@ -21,6 +21,50 @@ Re: Chestnut
 Old Voice medallion
 
 
+# Upon a Return to Cadun
+## Caterina's New Base
+Caterina has used the investment to grow their nascent organization and has managed to establish a base of operations within the remains of the wreck of the *Beagle* in Enchanter's Bay. When the party gets back to the city, Caterina will contact them with her pair of their *Sending Stones*: *Secured base. Come to docks at night. Look for young woman, Evelyn. She'll look too. Password is: 'All hail the Beagle'  response 'No, all **hair**.'* 
+
+Upon coming to the docks at night some looking around will find Evelyn. She's a young human woman who looks to be about 19 or 20. She has a strong build: a result of growing up working as a dockhand, a stevedore, and assisting on the small fishing vessels that populate Enchanter's Bay. Noticing the party she greets them, [think Krem from DA:I] "Oi! You lot. You Miss Caterina's friends?" Depending on the nature of their response she'll ask for the password that Caterina had delivered with the *Sending Stone*, and she'll give her response in turn. 
+
+Once Evelyn has verified the party's identities she'll have them onto her skiff; it's just about big enough for her and the party. She'll take them across the placid evening waters of Enchanter's Bay and answer any questions that the party may have to the best of her ability.
+	She knows the basics of Caterina's operation: she's organized some bodyguards and hired muscle for a few members of the upper class that she's met so far (Evelyn doesn't know these folks just that they're "rich-ey rich"), and she's gotten a standing rental for a room on the top floor of the Little Pony where she runs a high-stakes card game. 
+
+As the boat approaches the *Beagle* it comes into view (for those who can see it in the evening light) they see the prow of a large ship that came aground a top a large rock jutting up out of the water. The players must make a DC 20 Intelligence Saving Throw. On a success, they see through the illusion and instead of an old, wrecked ship they see what is in reality the remains of a wrecked ship that have been repurposed and upkept over the years. There is a small dock to tie off the skiff and a ladder up onto the deck of the *Beagle*.
+	"I don't know who put the magics on the wreck to start with. I think Miss Caterina's got the full story. Got it in whatever deal she struck with the previous tenants. Anyway you can get the full run down from her if you want. She should be right up here." 
+
+Evelyn leads you across the deck and down the stairs into the hold. Below the deck is lit with torchlight and the lower decks appear to be boarded up and sealed against the seawater. But, the passageway goes forward to where the ship had run aground on the rocks. You can see the stone piercing the hull and decks of the ship and there's a door built into the rockface. Evelyn produces a key, "Miss Caterina will have some for you I'll bet," and ushers you into the structure. 
+
+You go down a flight of stairs that opens up into a large room where you see Lady Caterina von Osstun di Ruzzini, Berthold and Arlynne Voss, Sir Gordon Chumway, and Captain Black sitting around a large table. They're lit by the soft glow of oil lamps and they're sipping from mugs. On the table is a large map--it's corners held down by different paperweights--and on the walls are tacked other smaller maps of towns and regions of Conclave. 
+
+When the group sees you all enter with Evelynn, Caterina is the first to her feet. "My friends! Welcome!" She says. You can see that at least in this situation, she's forgone the dresses that she's been wearing on your journey and is instead in a pair of fine leather breeches, a white chemise with long ruffled sleeves, and a dark embroidered doublet. On her right forearm you can see the hint of a golden bracer with three rubies set into it (*Circlet of Blasting*) and on her hip is a curved obsidian dagger ([*Baleful Talon*](https://5e.tools/items.html#baleful%20talon_bmt)).  
+	Cpt. Black: Aye haha! I see you found the place all right!
+	Caterina: Yes, Evelynn helped you along quite well I see. Welcome to our base of operations. 
+## The Beagle Base
+
+## The Fete of the Ryvelegar
+# Approaching Party
+Sir Ephrahim Royce
+	Tall, broad shouldered, brown-haired human. Plate armor. Sword and shield. Shield has a symbol of 
+The Wizard Style
+# Tyrael's Speech Post-Lizard King
+Circle of Cuthbert; schism, raising and defeat of Orcus, creation of the Bloodstone
+# When the Bladesinger Meets the Party Again
+Seeing the shade of the flame brings back memories that still haunt each of you. Your last night in Keyhearth when the Sons of Keyhearth assaulted the wedding of Fernando Ruzzini and Caterina von Osstun. The chaos of the attack on the reception followed by the smoke and fire as you fought your way through the docks to escape with Caterina while Fernando and her father, Ludwig, held off the terrorists with their other soldiers. You remember that as you sailed into the Kassian Straights there was a pillar of green fire that erupted into the night sky...
+
+*And lo, when the great king, twice-risen, is now twice-fallen*
+*the First Seal shall be sundered and the Herald of Fear, Samhain, set free!*
+
+As the congealing blood of the Lizard King pools in the stone floor you hear a hollow, muted laughter. Entering the room you see a masculine, elven figure floating into the chamber. The top half of his face is obscured by a porcelain white mask that is fused to the lower half of his face by horrible burn scars. This is the remnants of a mask of the Sons of Keyhearth [do a little reminder for SoK]. 
+*theme words:* Time to kill a clown
+Think Kefka for cackling (and also Mark Hamil's Joker; a lot of interior mouth sucking)
+	The Illusionist who desires an immortal dynasty
+	The sorcerer who flees from his father's strength
+	The priest afraid of 
+	The druid... The druid who believes himself to be a beast 
+	And the mummer.... 
+
+
 # Travel and Mapping Notes
 ## Or
 1 Hex = 6 miles

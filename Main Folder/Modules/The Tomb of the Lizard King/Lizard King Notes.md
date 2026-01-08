@@ -250,7 +250,7 @@ If the party is friendly, Busby will offer them the six bottles of wine remainin
 4. The brigands usually strike at night. During their night raids, they have carried off many villagers as prisoners: men, women, and children. 
 5. Most people flee in panic when the brigands attack. 
 6. There have been other strange things going on, about which it is best not to talk. If pressed, Busby will admit to seeing a large, strangely-shaped beast plying over the village at night. There have been tales among some of the villagers about the lizardfolk returning to their old lands in the Great Southern Swamp. 
-7. He is the last inhabitant of the village, and he is leaving as soon as his packing is finished. His family and hired hands have already left, heading south toward [[Dragon Canyon]] where they have relatives. 
+7. He is the last inhabitant of the village, and he is leaving as soon as his packing is finished. His family and hired hands have already left, heading south toward [[Dragon Canyon (DM)]] where they have relatives. 
 8. There is one old man who lives in a hut by the edge of the Great Southern Swamp. This old man will not leave, but everyone knows that he is hopelessly insane. 
 
 Nothing the party says or does will persuade Busby to stay or to offer the party any further assistance. 
@@ -619,3 +619,18 @@ This room is identical in all respects to **Room 30**. If, however, the party wa
 Actually, there is a secret trap door in the floor of this room. Once found, the trap door can easily be opened, and will reveal a set of stone stairs leading to the tomb level. The stairs descend at a modest angle, and at their bottom the party will barely be able to see some type of stone floor. 
 
 The stairs are trapped, and when the first character steps on the fifth stair, will recede with an enormous noise and become a very steep inclined plane. Any character on the stairs will need to make a DC 17 Dexterity saving throw. Those who make the save will be clinging to the smooth rock of the inclined plane, and will have to find some way to get back up. Those who fail will plummet 30' to the flaming pit that has appeared at the foot of the ramp. 
+# Dungeon Level 3: The Tomb
+## 10. The Lower Temple Anteroom
+*The stairs lead down into a room with only one exit: a pair of large, black stone doors. On either side of these doors is a basin of water in it.*
+
+The two doors are solid, but unlocked. Each has a large brass pull ring attached to it, so the doors open toward the room the party is in. Characters who listen at the door will hear a low, unholy chanting coming from the room on the other side.
+## 11. The Lower Temple
+*As the door opens you see a familiar figure roughly 60 feet in front of you behind a blood altar. It is the cleric who attack you in Vendare! He is flanked by two others of his order, and there are a number of lizard men in the room, standing with their backs to you. Apparently you have interrupted some kind of ceremony.*
+## 12. Chamber of the Brides of Sakatha
+*This horribly dark, octagonal chamber contains a hideous sight: four coffins with their lids barely cracked open are arranged in an even pattern around a fifth in the center of the room. The entire area gives off a carnal stench, and the furnishings of the room are rotten and tattered.*
+## 13. Sakatha's Study
+*This room is obviously a magic user's study. Several abstruse books of magical lore are scattered about, including several relating to the summoning and binding of demons. The room is full of tables and shelves filled with vials, chemicals, and the apparatus of magic. There are, however, no notes, notebooks, or other items of great value here.*
+## 14. Sakatha, The Great Lizard King
+*As your light penetrates the awesome gloom of this room, you behold a chamber that is stunningly evil in appearance. The floors are smooth marble streaked with black, the walls and columns the same. The sole adornments, paintings of demonic figures, are spaced about the side walls. Against the rear wall you see a huge marble stone that resembles an altar. Resting atop it is an object made of reeds and pitch, some 9' long and 3' deep. In front of this display is a wooden throne, carved with gargoyles' heads at the end of its arms and on top of its posts.* 
+
+

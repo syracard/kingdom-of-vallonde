@@ -5,17 +5,38 @@ If you have questions about [[Running Your Organization]], check out the new pag
 # Recent and Upcoming Events
 **Current Date:** 27 November, 770
 
-| **Recent**               |                                         |     | **Upcoming**                |                          |
-| ------------------------ | --------------------------------------- | --- | --------------------------- | ------------------------ |
-| Date                     | Event                                   |     | Date                        | Event                    |
-| 24 October (29 days ago) | Arrived in Cadun                        |     | In the beginning of January | Arrival of the Ryvelegar |
-| 29 October               | Bryce's first Full Moon                 |     |                             |                          |
-| 30 October               | Left Cadun for Vendare                  |     |                             |                          |
-| 2 November               | Met Sorin's parents at the temple ruins |     |                             |                          |
-| 15 November              | Arrived in Vendare                      |     |                             |                          |
-| 22 November              | Ambushed on the Great Bridge            |     |                             |                          |
-| 24 November              | Fought the dragon Aulicus               |     |                             |                          |
+| **Recent**               |                                                                    |     | **Upcoming**                |                          |
+| ------------------------ | ------------------------------------------------------------------ | --- | --------------------------- | ------------------------ |
+| Date                     | Event                                                              |     | Date                        | Event                    |
+| 24 October (29 days ago) | Arrived in Cadun                                                   |     | In the beginning of January | Arrival of the Ryvelegar |
+| 29 October               | Bryce's first Full Moon                                            |     |                             |                          |
+| 30 October               | Left Cadun for Vendare                                             |     |                             |                          |
+| 2 November               | Met Sorin's parents at the temple ruins                            |     |                             |                          |
+| 15 November              | Arrived in Vendare                                                 |     |                             |                          |
+| 22 November              | Ambushed on the Great Bridge                                       |     |                             |                          |
+| 24 November              | Fought the dragon Aulicus                                          |     |                             |                          |
+| 28 November              | Arrived at the Tomb of the Lizard King                             |     |                             |                          |
+| 30 November              | Fought and Defeated Sakatha<br>Samhain Summoned by the Bladesinger |     |                             |                          |
+| 15 December              | Arrived at Gemini Castle                                           |     |                             |                          |
+| 22 December              | Returned to Cadun                                                  |     |                             |                          |
+# The Return to Cadun
+After the party defeated the Amethyst Knife who had taken up residence in an outlying castle. The party returned the castle to the ownership of the Baronet John du Lioncourt and secured an agreement with him of mutual support. 
 
+Upon leaving the castle you encountered the duo of Sir Ephrahim Royce and the Wizard Style. You made pleasantries and decided to travel back to Cadun with the two who had come to investigate the sound of combat from the castle. 
+
+Travels were going well until the final night before returning to the city. Ephrahim accosted Frica in an attempt to wrest the Book of Vile Darkness from her. He was aided by guards from the Temple of the Dual Pantheon who had been laying in wait not far from the party's camp. Through a bloody battle only the Wizard Style was left standing; he made the case for clemency after trying to stop the hostilities. He revealed that Ephraphim had been on a quest given to him by the angel Tyrael. The same angel that had beseeched the party's aid regarding a greater threat after you had defeated Sakatha. 
+
+A cold rain greeted the party on the following day as they approached the city walls. Outside, there was a sprawl of people coming in to the city for the upcoming festivities. One of these that caught your attention was the "Big Rat Show" presented by the Brothers Mystyslav. The party enjoyed the program and afterwards Frica managed to get herself a pet rat. 
+
+Back in the city the party spent the day drinking at the Little Pony where they climbed up on the roof to watch the sunset. Finally, you made it to the docks where you met the contact Caterina had informed you of: Evelyn. She took you on a skiff that she sailed across Enchanter's Bay to the Wreck of the Beagle where it was revealed that this wreckages was a magically concealed base where Caterina, the Vosses, and Captain Black were awaiting the party. 
+# Gemini Castle
+Entered castle and found the ballroom where a human was playing a harpsicord. He introduced himself as the Baronet John du Lioncourt and revealed his family history: a once wealthy family of minor nobles who fell on hard times to the point of destitution. Eventually John's father made a deal with a group of criminals: the Amethyst Knife who happened to be the Gemini Blades' lieutenants on Conclave. You also learned that the Amethyst Knife had taken a mind flayer captive that was currently being held in the dungeons.
+
+Leaving the ballroom Sorin's mind was briefly overtaken; the force asking for help and pointing to the dungeon.
+
+You investigated the second level of the castle and found some journals written by Treyvan von Hirschmann discussing the prisoner they had captured for the organization's higher ups. A quick scrying spell gave you a glimpse of Treyvan sitting with his maul gloating that any invaders into the castle wouldn't be a problem. 
+
+You regrouped on the first floor and reconvened with the Baronet. You learned that John had some latent psychic abilities and eventually Kriv decided to go down into the dungeon with a plan to deal with the mind flayer. He treated with the creature, learning that his name was C'h'kd'lr'aa (Chandler) and put his plan into action: Kriv Polymorphed Chandler into a ferret, planning to sneak him into the encounter with the Amethyst Knife....
 # The Hall of Traps
 Having gained access to the tomb through their deceptions, the party entered the Tomb of the Lizard King. They assessed their options and decided to take the western door. When Inxis approached it, he triggered a trapdoor that made him fall 20 feet into a pit of spikes. As he was climbing out, the ceiling stone behind him fell, blocking the passageway and separating him from the rest of the party. Through a combined effort of spellcraft and physical exertion, the party managed to push the stone into the pit left by the spike trap in order to reunite the party and continue onwards. 
 

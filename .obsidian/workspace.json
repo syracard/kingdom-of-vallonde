@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f7e48296aed8ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Folder/Bloodstone Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bloodstone Notes"
-            }
-          },
-          {
             "id": "7964c5f4f6b68d4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Folder/Sapphire Grove (DM).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sapphire Grove (DM)"
+              "title": "README"
             }
           },
           {
@@ -64,34 +50,6 @@
             }
           },
           {
-            "id": "8fe04927fcc41684",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Folder/Modules/The Tomb of the Lizard King/Lizard King Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lizard King Notes"
-            }
-          },
-          {
-            "id": "68ebd14c0f14d589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "aaa7972542722fb3",
             "type": "leaf",
             "state": {
@@ -118,9 +76,22 @@
               "icon": "lucide-file",
               "title": "The Black Iron Pact"
             }
+          },
+          {
+            "id": "436e608ed6c1a782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Folder/Bloodstone Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bloodstone Notes"
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +123,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "poison bolt",
+                "query": "file: runn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,11 +144,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f5909bcd234350c6",
@@ -212,12 +185,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Main Folder/Bloodstone Notes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Bloodstone Notes"
             }
           },
           {
@@ -260,10 +233,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -273,36 +248,132 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "61596bb36fe2ad8c",
+  "floating": {
+    "id": "3a35258e5d856ba4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c534fa61afe47c56",
+        "type": "window",
+        "children": [
+          {
+            "id": "c5233c954e91e0d7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dfe4179f85534970",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Running Your Organization.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Running Your Organization"
+                }
+              },
+              {
+                "id": "98b1c39aa062386b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Main Folder/Bloodstone (DM)/Locations/Settlements/Cadun (DM).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cadun (DM)"
+                }
+              },
+              {
+                "id": "a7b3c7aa58a732e4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Forest Valley City (DM).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Forest Valley City (DM)"
+                }
+              },
+              {
+                "id": "20c1006be977d485",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dragon Canyon (DM).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Dragon Canyon (DM)"
+                }
+              },
+              {
+                "id": "fdde599686d56d1c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Main Folder/Gemini Castle (DM).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Gemini Castle (DM)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7964c5f4f6b68d4b",
   "lastOpenFiles": [
-    "Images/Hunting Scene.jpg",
-    "Main Folder/Modules/The Tomb of the Lizard King/Lizard King Notes.md",
-    "README.md",
-    "Main Folder/Warm-Up Questions.md",
-    "Items/The Book of Vile Darkness.md",
-    "Factions and Organizations/The Black Iron Pact.md",
-    "Images/Demonic Bas-Relief.jpg",
-    "Factions and Organizations/the Platinum Legion.md",
-    "Characters and NPCs/Tyrael.md",
-    "Characters and NPCs/Aulicus, Lord of the Swamp.md",
     "Main Folder/Bloodstone Notes.md",
-    "Locations/Settlements and Strongholds/Waycombe.md",
-    "Characters and NPCs/Barto Trume.md",
-    "Locations/Settlements and Strongholds/Vendare.md",
-    "Locations/Settlements and Strongholds/Waycomb.md",
-    "Main Folder/Bloodstone (DM)/Characters/Jorlon.md",
-    "Main Folder/Bloodstone (DM)/Locations/Or.md",
-    "Main Folder/Bloodstone (DM)/Locations/Settlements/Vendare (DM).md",
-    "Main Folder/Bloodstone (DM)/Locations/Settlements/Waycombe (DM).md",
-    "Main Folder/Lore Books/On the Sapient Species of the Feywild.md",
-    "Main Folder/Bloodstone (DM)/TBD Notes and Drafting.md",
-    "Locations/Regions/Conclave.md",
-    "Locations/Regions/The Denitric Archipelago.md",
-    "Locations/Continents/Osstoria.md",
-    "House Rules.md",
-    "Main Folder/Lore Books",
+    "README.md",
+    "Running Your Organization.md",
+    "Main Folder/Bloodstone (DM)/Locations/Settlements/Cadun (DM).md",
+    "Locations/Settlements and Strongholds/Cadun.md",
+    "Characters and NPCs/Dagoth.md",
+    "Main Folder/Urin.md",
+    "Main Folder/Random Encounter Tables.md",
     "Main Folder/Stuff to Work on.md",
+    "Main Folder/Warm-Up Questions.md",
+    "House Rules.md",
+    "Main Folder/Gemini Castle (DM).md",
+    "Vallonde Campaign Page.md",
+    "Main Folder/DM Stuffs/General Notes.md",
+    "Main Folder/Worldbuilding Notes and Tables.md",
+    "Main Folder/Modules/The Tomb of the Lizard King/Lizard King Notes.md",
+    "Main Folder/The Kingdom of Vallonde/Locations/Settlements/The Sister Cities.md",
+    "Factions and Organizations/House Ruzzini.md",
     "Main Folder/Sapphire Grove (DM).md",
+    "Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Tev'ash I.md",
+    "Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Strahd.md",
+    "Main Folder/The Kingdom of Vallonde/Lore/Historical Figures/Emperor Krator.md",
+    "Forest Valley City (DM).md",
+    "Dragon Canyon (DM).md",
+    "Factions and Organizations/The Black Iron Pact.md",
+    "Images/Hunting Scene.jpg",
+    "Items/The Book of Vile Darkness.md",
+    "Images/Demonic Bas-Relief.jpg",
+    "Main Folder/Lore Books",
     "Images/Coat_of_Arms_of_the_House_of_Ruzzini.svg",
     "Images/Maps",
     "Images/thug.png",
